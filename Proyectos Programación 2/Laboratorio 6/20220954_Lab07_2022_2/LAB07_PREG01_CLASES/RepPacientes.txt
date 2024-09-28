@@ -1,0 +1,8 @@
+DNI           NOMBRE                    TELEFONO
+43704548      Vizcardo/Maribel          960851431
+RELACION DE CITAS
+No.    FECHA    CODIGO DEL MEDICO          TARIFA
+1)  09/09/2022        892133               389.91
+2)  16/01/2023        600493               780.49
+MONTO TOTAL GASTADO:    1170.40
+============================================================

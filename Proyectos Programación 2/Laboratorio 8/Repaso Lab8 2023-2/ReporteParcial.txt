@@ -1,0 +1,39 @@
+                        REPORTE DE FLOTA
+===============================================================================-
+
+Codigo Cliente:  79464412
+Placa:   K0D-676
+Carga Maxima:    300.00
+Carga Actual:      0.00
+#Filas:         3
+#Puertas:         1
+            PEDIDOS:
+
+--------------------------------------------------------------------------------
+Codigo Cliente:  16552775
+Placa:   S7E-946
+Carga Maxima:    300.00
+Carga Actual:      0.00
+#Filas:         3
+#Puertas:         2
+            PEDIDOS:
+
+--------------------------------------------------------------------------------
+Codigo Cliente:  20864087
+Placa:   O5L-856
+Carga Maxima:   1000.00
+Carga Actual:      0.00
+#Ejes:         2
+#LLantas:         6
+            PEDIDOS:
+
+--------------------------------------------------------------------------------
+Codigo Cliente:  94326707
+Placa:   U3F-754
+Carga Maxima:   1000.00
+Carga Actual:      0.00
+#Ejes:         2
+#LLantas:         8
+            PEDIDOS:
+
+--------------------------------------------------------------------------------

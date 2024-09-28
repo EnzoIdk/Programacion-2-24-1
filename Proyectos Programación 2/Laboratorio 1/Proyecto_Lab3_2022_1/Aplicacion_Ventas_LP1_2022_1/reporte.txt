@@ -1,0 +1,317 @@
+                     EMPRESA COMERCIALIZADORES ABC
+                             PRODUCTOS ALMACENADOS
+No.    Codigo          Descripcion                           Precio unitario        Descuento
+01)    DOB245          LECHE_LALA_SEMI_DESLACTOSADA_1LT               16.98        3.60515e-307
+02)    QBL949          YOGHURT_NATURAL_LIGHT_LALA_1KG               25.86                 4.7
+03)    BXQ980          LICUADO_LALA_CIRUELA_PASA_Y_NUEZ_240GR               10.89                5.13
+04)    PKY423          BEBIDA_NARANJA_BEBERE_470ML                6.72               13.59
+05)    JLS732          CHILE_PUYA_DE_LOS_ALTOS_100GR               10.85               13.59
+06)    WNG407          DONAS_BIMBO_157.5GR_6_PZA_PROMOCION               10.77                 8.1
+07)    LVO823          TE_DE_MANZANILLA_NEBO_24_1GR               13.81                 8.1
+08)    COH146          FLAN_LALA_SABOR_VAINILLA_100GR                5.88                 8.1
+09)    PXG612          SEMILLA_DE_ACELGA_MINA               15.07                 8.1
+10)    ZZZ558          REBANADAS_BIMBO_110GR                8.73                7.42
+11)    WTK725          BEBIDA_DE_SOYA_ADES_GUANABANA_946ML               18.07                8.37
+12)    FTG985          GALLETAS_CREMAX_DE_NIEVE_VAINILLA_416GR               26.76                7.99
+13)    EKO912          YOGHURT_CON_DURAZNO_LALA_1KG               25.15                7.99
+14)    ATC667          PALOMITAS_POFETS_FLAMIN_HOT_28GR                6.88                7.99
+15)    ZWH973          YOGHURT_P_BEBER_FRUGGIS_FRESA_150GR                5.29                7.99
+16)    FDN461          POLVO_PARA_HORNEAR_REXAL_15KILOS              350.22                5.67
+17)    AHJ170          SANDWICH_COMBINADA_3_FLORES_150GR                8.23                3.18
+18)    CEO644          CHAMYTO_BIG_114ML                   7.58                3.18
+19)    HDR120          CHILE_PASILLA_MULATO_LARGO_100GR               18.19               12.13
+20)    WCX383          YOGHURT_P_BEBER_LACTIGURT_COCO_250G                9.87               12.13
+21)    VWZ855          ZENZO_BAR_FRESA_66GR                4.05                9.41
+22)    VDW527          PAPAYA                             20.99                9.41
+23)    UQF710          NESQUIK_CHOCOLATE_200GR               13.51                9.41
+24)    JGY431          VUALA_CAJETA_84GR                   5.25               11.43
+25)    ZNP262          CONDIMENTO_PARA_BIRRIA_CUCU.               80.95               10.56
+26)    ESY872          PAN_DE_MUERTO_GRANDE               25.42                2.63
+27)    WDN215          VAINILLA_MOLINA_500ML               19.26               13.42
+28)    HRK454          NESCAFE_DOLCA_200GR                42.01                6.26
+29)    WOY831          YOGHURT_FRESA_NESTLE_1KG               23.27               12.73
+30)    YAD504          MAIZENA_NATURAL_750GR               43.62               12.73
+31)    KSJ203          PINGUINOS_MARINELA_40GR                 4.4                7.02
+32)    TBZ694          GELATINA_SABOR_PI—A_LIGHT_LA_GLORIA_25GR                8.51               12.04
+33)    ZZE703          GELATINA_DANY_LIMON_125GR                5.38               12.04
+34)    GOQ383          FRIJOLES_REFRITOS_ISADORA_430GR               13.28                1.92
+35)    BXT767          GALLETAS_SUAVICREMAS_FRESA_158GR               13.85                1.92
+36)    JLC152          ALUBIAS_ANTIQUA_540GR               17.85                8.19
+37)    LCR823          JUGO_DE_UVA_MINUTE_MAID_200ML                4.39                8.24
+38)    BOU695          BARRA_DE_HOGUELAS_DE_ARROZ_Y_TRIGO_24_GR                4.83                3.33
+39)    JYH547          LIMONADA_H2O_250ML                  8.58                4.82
+40)    FQW199          MANGO_ECUATORIANO                   16.5               11.83
+41)    VOQ987          NARANJA_SIN_SEMILLA                10.24               11.83
+42)    CZX588          LECHE_EN_POLVO_NIDO_KINDER_400GR               39.84                2.09
+43)    YUR375          CROQUETAS_PEDIGREE_BENEFUL_10.1KG              270.88               12.84
+44)    BLS951          PASTILLA_PEPTO_BISMOL                3.15                2.41
+45)    EUK981          AGUA_NIAGARA_500ML                  5.64                0.94
+46)    UMS702          ACHIOTE_MARIN_130GR                 8.71                0.94
+47)    JTV480          TANJERINA                           5.58               12.84
+48)    AJL149          ACHIOTE_LA_EXTRA_1KG               45.54                6.77
+49)    JYU160          TOSTILOCOS_PREPARADOS               25.53                4.83
+50)    XVH586          CHILES_CHIPOTLES_LA_COSTENA_380GR               18.53                7.02
+51)    NON280          PAPA_EN_CUBOS_DEL_FUERTE_12_380GR.                9.53                7.02
+52)    PJH865          CORAZONES_DE_OREJONA_PZA               10.79               14.32
+53)    JTE115          MEDIA_CREMA_NESTLE_1LT                40.8                1.35
+54)    NCS231          TORTILLAS_DE_MAIZ_1KG               14.93                7.91
+55)    RDQ145          SOPA_MARUCHAN_CAMARON_71GR                7.68               10.53
+56)    IWV353          PAPATINAS_CHILIX_25GR                4.71                7.02
+57)    UMG249          MIEL_DE_ABEJA_VIRGEN_1KG               30.92                0.21
+58)    YSF508          GALLETAS_LORS_SNACKS_MARINELA_75GR                9.54                8.69
+59)    LQZ678          OREO_C_TROZOS_DE_CHOCOLATE_473ML               25.95                8.69
+60)    TYN385          CONCHAS_BIMBO_120GR                15.55                8.69
+61)    JDY387          SOPA_MARUCHAN_POLLO_12_64GR                66.7                8.69
+62)    KFF446          SABRITAS_ORIGINAL_SAL_490GR                63.3                8.69
+63)    LVO320          CORNETO_CLASSIC_LOVE               19.45               10.33
+64)    MJY269          SALSA_TERIYAKI_KIKKOMAN_B.EN_GRASA_296ML               14.41               10.33
+65)    NJI884          MAIZ_POZOLERO_TEASDALE_3.06KG               50.55               12.04
+66)    HPY224          TORTILLAS_DE_HARINA_DEL_HOGAR_15PZAS               17.44               12.04
+67)    GHG987          LECHUGA_ROMANA                     20.79               12.04
+68)    SAM240          ZAPOTE                             28.39                3.71
+69)    ZRF776          TOSTADAS_HORNEADAS_DEL_HOGAR_210GR               11.34                3.71
+70)    FUK619          HARINA_DE_ARROZ_DULCE_454GR               21.13               10.53
+71)    EFR523          ANIS_VERDE                         95.95               10.53
+72)    YTE181          SAL_BAJA_PACIFIC_BOLSA_1KGR                5.26                5.11
+73)    CEK578          SALSA_DE_CHILE_PERON_PURHEPECHA_260GR               14.47               11.51
+74)    RMU835          EMPANIZADOR_CONTADINA_TRADICIONAL_283GR                16.5                7.02
+75)    PKF860          VINAGRE_BLANCO_CLEMENTE_JACQUES_3.8LT               24.29                7.99
+76)    FBI749          SAZONADOR_SPECIAL_VALUE_453G               28.24                8.19
+77)    OZB526          YOGHURT_LALA_FRESA_240GR                6.68                7.62
+78)    JDF223          ELOTE_DORADO_DEL_MONTE_225GR                5.92                7.62
+79)    OVX448          CHAMPINIONES_TROCITOS_MONTEBLANCO_380GR               18.99                0.82
+80)    XJB147          TE_LIPTON_NATURAL_100_226GR               71.68               14.57
+81)    SHA692          MOLE_SURTIDO_CON_ESPECIAS_250GR               25.11               14.32
+82)    VIO450          LECHE_YAQUI_DESLACTOSADA_1LT               19.31               14.32
+83)    NBX516          SEMILLAS_DE_CHILE_HABANEROMANZANO.3GR               15.31                7.75
+84)    HDT170          FRIJOLES_PUERCOS_LILIS_500GR               16.26                8.22
+85)    FIP695          TAMPICO_CITRUS_PUNCH_3.78LTS               29.35                 4.3
+86)    VUT136          CHURROMAIS_CON_LIMON_38GR                5.62                1.17
+  DNI              NOMBRE
+71984468      IPARRAGUIRRE_VILLEGAS_NICOLAS_EDILBERTO 
+Cliente frecuente
+No. CODIGO          CANTIDAD             FECHA
+01) ZWH973              1.12           06/10/2019
+02) JTE115              0.85           07/08/2019
+03) COH146              8.13           11/02/2022
+04) OZB526              5.99           28/11/2021
+05) OVX448              6.67           05/03/2021
+06) KFF446              6.41           26/11/2020
+Monto total comprado: 595.555
+  DNI              NOMBRE
+29847168      ALDAVE_ZEVALLOS_ROSARIO                 
+Cliente muy frecuente
+No. CODIGO          CANTIDAD             FECHA
+01) TBZ694              3.79           01/01/2021
+02) YUR375              4.49           02/08/2021
+03) NCS231             11.35           04/03/2020
+04) RDQ145              1.17           26/06/2020
+05) JDY387               7.5           23/04/2021
+06) KSJ203              1.16           30/12/2019
+07) VIO450              9.45           02/11/2021
+Monto total comprado: 1867.94
+  DNI              NOMBRE
+79475585      RETTO_ARCA_ANNIE_MAGDA                  
+Cliente muy frecuente
+No. CODIGO          CANTIDAD             FECHA
+01) CEO644               3.8           14/05/2020
+02) JGY431              6.89           07/09/2020
+03) ATC667              7.81           16/12/2019
+04) IWV353              8.54           24/01/2021
+05) JTE115              5.32           18/07/2020
+06) LCR823              5.07           30/04/2020
+Monto total comprado: 376.698
+  DNI              NOMBRE
+91897732      GAMARRA_ALCOCER_VIRGINIA                
+Cliente muy frecuentèF›8BXT767
+No. CODIGO          CANTIDAD             FECHA
+01) BXT767              6.44           20/07/2020
+02) NON280             11.52           09/11/2021
+03) KSJ203              1.66           09/03/2021
+04) ZNP262             11.71           04/10/2021
+05) JDY387              9.37           05/07/2021
+06) KFF446              9.02           17/12/2021
+07) WOY831               6.3           13/03/2019
+Monto total comprado: 2261.88
+  DNI              NOMBRE
+33397650      RONDON_EGUSQUIZA_CARMELA_VALENTINA      
+Cliente muy frecuente
+No. CODIGO          CANTIDAD             FECHA
+01) PKY423              11.3           17/08/2019
+02) ZZZ558              5.06           13/12/2020
+03) FDN461              4.04           01/01/2019
+04) VDW527              8.64           07/10/2020
+05) BOU695               5.6           01/02/2019
+06) ATC667               6.9           05/06/2019
+07) CZX588              3.48           29/07/2019
+08) YUR375              9.01           28/06/2019
+09) NON280               8.6           26/12/2021
+10) TBZ694             10.71           15/01/2021
+11) XJB147              4.34           24/03/2021
+12) QBL949              2.84           11/11/2021
+Monto total comprado: 4426.61
+  DNI              NOMBRE
+83236386      RIVERO_CORRALES_JUAN_FERNANDO           
+Cliente muy frecuent—§j8ATC667
+No. CODIGO          CANTIDAD             FECHA
+01) ATC667             10.54           15/08/2019
+02) GHG987              9.37           03/08/2019
+03) ZWH973              2.18           11/09/2020
+04) JDF223              3.91           13/07/2019
+05) UQF710              1.08           20/10/2021
+06) OVX448              3.78           06/08/2020
+Monto total comprado: 348.158
+  DNI              NOMBRE
+32821689      ZAVALETA_EPIQUEN_CARMEN_ZKENIA          
+Cliente ocasional
+No. CODIGO          CANTIDAD             FECHA
+01) QBL949              5.54           19/04/2020
+02) EUK981               3.6           28/04/2020
+03) UMS702              8.61           19/10/2021
+04) JTV480              1.81           10/10/2020
+05) LQZ678              1.24           01/01/2021
+06) VWZ855               4.2           10/02/2020
+07) ESY872             10.32           01/07/2021
+Monto total comprado: 537.84
+  DNI              NOMBRE
+45783712      POZO_CHUNG_RAFAEL_DEMOSTENES            
+Cliente frecuente
+No. CODIGO          CANTIDAD             FECHA
+01) WTK725              8.43           05/01/2019
+02) VWZ855              3.41           01/07/2019
+03) GOQ383               7.9           02/10/2020
+04) VOQ987               9.7           27/09/2019
+05) HPY224              9.22           06/07/2020
+Monto total comprado: 491.457
+  DNI              NOMBRE
+48184351      LOPEZ_JAUREGUI_ROLANDO                  
+Cliente ocasional
+No. CODIGO          CANTIDAD             FECHA
+01) COH146              1.21           02/02/2022
+02) KSJ203              1.48           25/07/2019
+03) EKO912              6.45           29/03/2022
+04) HRK454              5.46           02/06/2019
+05) BLS951             11.59           31/12/2020
+06) HDR120              5.16           29/09/2021
+07) NON280              4.36           31/05/2020
+08) WOY831              2.62           18/04/2019
+09) SHA692             11.68           17/04/2020
+Monto total comprado: 825.491
+  DNI              NOMBRE
+33713901      VILLEGAS_CASTRO_SOFIA_VIRGINIA          
+Cliente muy frecuente
+No. CODIGO          CANTIDAD             FECHA
+01) BXQ980              0.52           19/04/2020
+02) WNG407              5.11           02/09/2021
+03) FTG985               5.5           03/12/2019
+04) VOQ987              3.95           05/08/2020
+05) NCS231             11.12           26/01/2020
+06) JLC152             11.26           06/05/2019
+07) RMU835               7.2           19/03/2019
+08) PJH865              8.38           02/12/2019
+Monto total comprado: 742.391
+  DNI              NOMBRE
+76388967      GONZALES_QUIO_ISABEL                    
+Cliente frecuente
+No. CODIGO          CANTIDAD             FECHA
+01) WCX383              11.5           09/05/2020
+02) ZNP262              2.24           21/04/2019
+03) BXQ980              3.19           29/11/2020
+04) JDY387              6.39           03/02/2019
+05) PKF860              5.29           05/01/2019
+Monto total comprado: 800.189
+  DNI              NOMBRE
+81114108      ZAMBRANO_SHIRAKAWA_WILMER               
+Cliente frecuente
+No. CODIGO          CANTIDAD             FECHA
+01) ESY872              2.81           06/10/2020
+02) YAD504               4.9           05/06/2020
+03) KSJ203              1.56           10/07/2019
+04) WCX383              11.6           24/01/2022
+05) VWZ855              6.14           05/02/2022
+06) ZZE703               3.3           05/11/2020
+07) BLS951             11.43           09/03/2020
+08) SAM240              6.93           21/09/2020
+09) YTE181              6.74           13/07/2021
+10) WOY831              4.92           19/05/2019
+Monto total comprado: 751.527
+  DNI              NOMBRE
+57263719      PRADO_TORREALBA_CARMEN_JANET            
+Cliente ocasional
+No. CODIGO          CANTIDAD             FECHA
+01) ATC667              5.18           01/01/2022
+02) LCR823              3.76           19/05/2020
+03) JTV480              1.47           25/09/2020
+04) TYN385              9.04           22/11/2021
+05) MJY269              4.92           06/01/2022
+06) JDF223              9.36           27/07/2020
+07) NJI884             11.03           10/10/2021
+Monto total comprado: 769.742
+  DNI              NOMBRE
+79140840      TORREALBA_ARCA_VICTORIA_GLENDA          
+Cliente ocasional
+No. CODIGO          CANTIDAD             FECHA
+01) JLS732             10.01           15/04/2021
+02) WDN215              2.77           20/05/2021
+03) WOY831              9.82           18/05/2019
+04) KFF446              2.38           28/05/2021
+05) NJI884               2.6           17/07/2021
+06) ZRF776              7.68           21/02/2022
+07) WOY831              7.56           29/05/2019
+Monto total comprado: 826.873
+  DNI              NOMBRE
+71378466      MIYAKE_CARO_HENRRY_EDGAR                
+Cliente ocasional
+No. CODIGO          CANTIDAD             FECHA
+01) DOB245              1.78           26/10/2020
+02) QBL949              7.38           19/03/2020
+03) YSF508              8.02           17/01/2021
+04) FUK619              4.83           04/01/2021
+05) BXQ980              0.56           19/12/2021
+06) NBX516              9.89           29/05/2020
+07) VUT136              3.36           24/04/2019
+Monto total comprado: 534.504
+  DNI              NOMBRE
+17913944      PALOMARES_SANTISTEBAN_HENRRY            
+Cliente frecuente
+No. CODIGO          CANTIDAD             FECHA
+01) AHJ170              4.93           20/10/2019
+02) UQF710              5.75           29/11/2021
+03) HRK454              1.35           28/12/2019
+04) ZZE703              1.96           23/09/2019
+05) JYH547              0.69           13/08/2020
+06) JYU160              7.45           15/10/2020
+07) UMG249              7.62           22/04/2021
+08) LVO320              9.02           29/11/2020
+09) KFF446              3.45           05/02/2021
+10) DOB245              0.31           04/07/2021
+11) FIP695              2.12           22/03/2021
+Monto total comprado: 1002.61
+  DNI              NOMBRE
+62566305      ROMERO_ALFARO_MONICA_JOHANA             
+Cliente ocasional
+No. CODIGO          CANTIDAD             FECHA
+01) HDR120               6.9           23/11/2020
+02) PJH865              1.66           27/02/2021
+03) CEK578             10.94           30/07/2020
+04) FTG985             11.87           23/01/2022
+Monto total comprado: 555.889
+  DNI              NOMBRE
+46462527      LOYOLA_MORI_NICOLAS_FERNANDO            
+Cliente frecuente
+No. CODIGO          CANTIDAD             FECHA
+01) LVO823              0.17           18/10/2019
+02) PXG612             11.45           26/07/2019
+03) EKO912              3.93           14/07/2020
+04) JLC152                 0           16/08/2020
+05) FQW199              5.47           09/10/2019
+06) JTV480              1.95           12/10/2019
+07) AJL149              2.43           27/12/2021
+08) XVH586              1.01           03/10/2021
+09) PJH865              1.88           16/03/2021
+10) RDQ145             11.11           06/06/2021
+11) EFR523              4.47           29/05/2021
+12) RMU835              4.59           12/03/2020
+13) FBI749              1.06           27/05/2019
+14) HDT170              6.35           23/08/2021
+Monto total comprado: 1124.44

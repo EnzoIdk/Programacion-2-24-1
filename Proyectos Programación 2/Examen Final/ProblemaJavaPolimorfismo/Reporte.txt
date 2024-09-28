@@ -1,0 +1,83 @@
+============================================================
+Codigo: 1
+Capacidad: 20.00
+Disponible: 1.00
+Listado de libros: 
+------------------------------------------------------------
+Titulo: Historica
+Peso: 1.50
+Anho: 2022
+Numero: 1
+
+Titulo: ENCICLOPEDIA_SALVAT
+Peso: 15.00
+Anho: 2015
+
+Titulo: Historica
+Peso: 1.50
+Anho: 2021
+Numero: 2
+
+Titulo: Boletin_de_Arqueologia_PUCP
+Peso: 1.00
+Anho: 2023
+Numero: 3
+
+============================================================
+Codigo: 2
+Capacidad: 10.00
+Disponible: 1.00
+Listado de libros: 
+------------------------------------------------------------
+Titulo: Diamantes_y_pedernales
+Peso: 4.00
+Autor: Jose_Maria_Arguedas
+
+Titulo: El_otonio_del_patriarca
+Peso: 5.00
+Autor: Gabriel_Garcia_Marquez
+
+============================================================
+Codigo: 3
+Capacidad: 15.00
+Disponible: 0.50
+Listado de libros: 
+------------------------------------------------------------
+Titulo: El_viejo_y_el_mar
+Peso: 4.50
+Autor: Hernest_Hemingway
+
+Titulo: LA_ENCICLOPEDIA_DE_LOS_DINOSAURIOS
+Peso: 10.00
+Anho: 2018
+
+============================================================
+Codigo: 4
+Capacidad: 10.00
+Disponible: 1.50
+Listado de libros: 
+------------------------------------------------------------
+Titulo: Boletin_de_Arqueologia_PUCP
+Peso: 1.50
+Anho: 2022
+Numero: 1
+
+Titulo: Confesiones_de_una_mascara
+Peso: 5.50
+Autor: Yukio_Mishima
+
+Titulo: Historica
+Peso: 1.50
+Anho: 2021
+Numero: 4
+
+============================================================
+Codigo: 5
+Capacidad: 15.00
+Disponible: 3.00
+Listado de libros: 
+------------------------------------------------------------
+Titulo: LA_ENCICLOPEDIA_DE_LOS_BARCOS
+Peso: 12.00
+Anho: 2014
+

@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Codigo Estante: AAA        Cantidad de libros: 4
+Anchura x Altura:  6 x 4   Peso Maximo: 10.00 Kg
+Tipo: Horizontal           Peso Total:   8.25 Kg
+CODIGO  NOMBRE          ANCHO  ALTO  PESO
+ABC123   El libro de la Selva                     2   5  3.75    
+ABC321   El libro de la Costa                     2   4  1.00    
+EFG321   La enciclopedia de la Muerte             2   3  2.00    
+CBA321   El libro del Peru                        2   7  1.50    
+------------------------------------------------------------
+------------------------------------------------------------
+Codigo Estante: BBB        Cantidad de libros: 2
+Anchura x Altura:  4 x 6   Peso Maximo: 10.00 Kg
+Tipo: Vertical             Peso Total:   8.30 Kg
+CODIGO  NOMBRE          ANCHO  ALTO  PESO
+EFG123   La enciclopedia de la Vida               2   4  6.30    0
+ABC321   El libro de la Oceania                   2   4  2.00    0
+------------------------------------------------------------
+------------------------------------------------------------
+Codigo Estante: CCC        Cantidad de libros: 1
+Anchura x Altura: 10 x 8   Peso Maximo: 10.00 Kg
+Tipo: Horizontal           Peso Total:   4.75 Kg
+CODIGO  NOMBRE          ANCHO  ALTO  PESO
+CBA123   El libro de la Sierra                    4   4  4.75    
+------------------------------------------------------------
+------------------------------------------------------------
+Codigo Estante: DDD        Cantidad de libros: 1
+Anchura x Altura:  8 x10   Peso Maximo: 10.00 Kg
+Tipo: Vertical             Peso Total:   8.70 Kg
+CODIGO  NOMBRE          ANCHO  ALTO  PESO
+EFG333   La enciclopedia de la Resurreccion       6   6  8.70    0
+------------------------------------------------------------
+
+================================================================================
+Informacion de todos los libros: 
+Cantidad de Libros Total: 8
+ABC123   El libro de la Selva                     2   5  3.75   Aventura
+EFG123   La enciclopedia de la Vida               2   4  6.30    1
+ABC321   El libro de la Costa                     2   4  1.00   Historia
+EFG321   La enciclopedia de la Muerte             2   3  2.00    2
+CBA123   El libro de la Sierra                    4   4  4.75   Comedia
+CBA321   El libro del Peru                        2   7  1.50   Terror
+EFG333   La enciclopedia de la Resurreccion       6   6  8.70    3
+ABC321   El libro de la Oceania                   2   4  2.00   Xddd
+================================================================================

@@ -1,0 +1,25 @@
+ID: 5
+Tipo: Vertical
+Capacidad: 15
+Libros contenidos: 
+
+ID: 2
+Tipo: Vertical
+Capacidad: 10
+Libros contenidos: 
+
+ID: 4
+Tipo: Horizontal
+Capacidad: 10
+Libros contenidos: 
+
+ID: 3
+Tipo: Horizontal
+Capacidad: 15
+Libros contenidos: 
+
+ID: 1
+Tipo: Horizontal
+Capacidad: 20
+Libros contenidos: 
+

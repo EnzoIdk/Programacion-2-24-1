@@ -1,0 +1,47 @@
+    CODIGO    NOMBRE                                       PRECIO
+   A106001    Arroz 1 Kg                                                      3.50
+   A106002    Azucar Rubia 1 Kg                                               2.50
+   A106005    Leche Evaporada                                                 1.80
+   A106021    Gaseosa Cocacola 1.5 litros                                     5.00
+   A107933    Detergente Liquido 1 litro                                     20.00
+   A107987    Detergente en Polvo 2 Kg                                       35.00
+   A108231    Gaseosa Cocacola 2.5 litros                                    12.00
+   A108239    Agua Mineral 2.0 litros                                         7.00
+   A200214    Frugos de durazno 1.5 litros                                    4.50
+   JS27568    Cocina a gas meza vitroceramica FFEF 3013                     450.00
+   CI87702    Ipod Dock AD 7000W                                            300.00
+   UH03336    Cocina electrica   Panel digital FFGF 304L                   1090.00
+   FZ98234    Memoria USB 4 GB                                               24.00
+   TL56384    HP ENVY dv6 - 7382 LA                                        2500.00
+   IT60920    Home Theater Todoriki HTTP - RS 88                           1080.50
+   CE69353    Parlantes inalambricos Bluetooth BTX 300                      320.00
+   WL09498    Radio audiovisual AVH - P8450BT                                90.00
+   SW29687    Telefono celular marca MiTel N 83 con camara de 3.5 MP        200.00
+   FQ88002    Lapiz puntero Targus p ipad 3                                  90.50
+   DX44682    Tostadora de pan con 4 slots 5632                             120.00
+   YY65200    Reproductor de discos Blu-Ray 3D 300 W                        300.00
+   ZY49698    Camara Digital Casio QV - R 300 LCD 3.45                      500.00
+   JI98835    Audifonos SE - MJ511HP K W                                     18.50
+   JR86507    Equipo multifuncional Inyeccion de tinta MFC - J825DW          60.00
+   RW87354    Samsung Galaxy S III mini 3G                                  450.00
+   WS24612    Equipo se donido XBOOM CM 8530 - 1800W                       1090.00
+   UK47509    Equipo laser multifuncional monocromatico DCP - 7065DN        150.00
+   IG92877    Audifonos Action Fit SA4ACT04ON                                18.50
+   BP15881    HandyCam PJ 430.4 Full HD zoom 30.5                           500.00
+   YW28008    Mini grabadora recargable GDM - 15                            840.00
+   KS19431    Sintonizador digital con USB 2.0 y antena                      22.00
+   MB82598    Camara fotografica modelo FX1056                              200.00
+   FT98440    Celular Nokia ASHA 308.3 SIM card 2                           450.00
+   YR12572    Samsung Galaxy Tab 2 WiFi 10.1                               1250.00
+   UE09721    Sony XPERIA Tecnologia 3G 1.5 GHz                             560.00
+   IO29421    Licuadora de 10 velocidades con filtro 12834                  350.00
+   HL94468    MP3 SA 3 MXX 2 GB                                              25.00
+   OT32425    "Smart TV 42"" Led 3D Serie 7500 + Blu-ray DMP_BDT 220"      1700.00
+   TT61626    Centro de lavado electrico FFLE - 1011 MW cap kg 16          2500.00
+   BB53001    Reproductor DVD marca GRNA modelo 12.453                      120.00
+   SB26669    Notebook modelo M51G maraca Lenovo                           2400.00
+   BF72860    Impresora Laser color Modelo PVGR                             350.00
+   YW80393    Cyber-Shot Serie WX 200 LCD 2.7                               600.00
+   NL61668    Televisor LCD 32.5 pulgadas marca TVsitos                     750.00
+   BL95867    Refrigeradora No frost 500 lt cap.                           1760.00
+   YF17264    Estuche Flip cover Cod. 91125                                 230.00

@@ -1,0 +1,521 @@
+Estantes: 
+===========================================================
+Id: 1
+Tipo: H
+Capacidad: 20
+Libros contenidos: 
+===========================================================
+titulo: Diamantes y pedernales
+Peso: 0.4
+Autor: Jose Maria Arguedas
+
+titulo: ENCICLOPEDIA SALVAT
+Peso: 12
+Sku: 78323     Anio: 2015     vigencia: 0
+
+titulo: El otonio del patriarca
+Peso: 0.5
+Autor: Gabriel Garcia Marquez
+
+titulo: El viejo y el mar
+Peso: 0.4
+Autor: Hernest Hemingway
+
+titulo: Confesiones de una mascara
+Peso: 0.3
+Autor: Yukio Mishima
+
+titulo: La Iliada
+Peso: 0.5
+Autor: Homero
+
+titulo: Las aventuras de Pinocho
+Peso: 0.4
+Autor: Carlo Collodi
+
+titulo: Cien anios de soledad
+Peso: 0.5
+Autor: Gabriel Garcia Marquez
+
+titulo: Todo se desmorona
+Peso: 0.4
+Autor: Chinua Achebe
+
+titulo: LA ENCICLOPEDIA DE LOS BARCOS
+Peso: 2
+Sku: 35902     Anio: 2014     vigencia: 0
+
+titulo: LA ENCICLOPEDIA DE LOS DINOSAURIOS
+Peso: 2
+Sku: 36225     Anio: 2018     vigencia: 0
+
+titulo: La chica del tren
+Peso: 0.4
+Autor: Paula Hawkins
+
+===========================================================
+
+Id: 2
+Tipo: V
+Capacidad: 10
+Libros contenidos: 
+===========================================================
+titulo: Espania con honra
+Peso: 0.4
+Autor: Daniel Aquillue
+
+titulo: Los pilares de la tierra
+Peso: 0.3
+Autor: Ken Follett
+
+titulo: El doble
+Peso: 0.4
+Autor: Fiodor Dostoyevski
+
+titulo: Apocalipticos e integrados
+Peso: 0.4
+Autor: Umberto Eco
+
+titulo: Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN: 10292004    Anio: 2023     Vigencia: 1
+
+titulo: Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN: 10292004    Anio: 2023     Vigencia: 1
+
+titulo: Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN: 10292004    Anio: 2023     Vigencia: 1
+
+titulo: Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN: 10292004    Anio: 2022     Vigencia: 1
+
+titulo: Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN: 10292004    Anio: 2022     Vigencia: 1
+
+titulo: Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN: 10292004    Anio: 2021     Vigencia: 1
+
+titulo: Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN: 10292004    Anio: 2021     Vigencia: 1
+
+titulo: Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN: 10292004    Anio: 2019     Vigencia: 0
+
+titulo: Relato de un naufrago
+Peso: 0.4
+Autor: Gabriel Garcia Marquez
+
+titulo: El handicap de la vida
+Peso: 0.3
+Autor: Rudyard Kipling
+
+titulo: Las aventuras de Sherlock Holmes
+Peso: 0.4
+Autor: Arthur Conan Doyle
+
+titulo: El pendulo de Foucault
+Peso: 0.3
+Autor: Umberto Eco
+
+titulo: El cementerio de Praga
+Peso: 0.4
+Autor: Umberto Eco
+
+titulo: El problema final
+Peso: 0.4
+Autor: Arturo Perez-Reverte
+
+titulo: Ficciones
+Peso: 0.4
+Autor: Jorge Luis Borges
+
+titulo: Travesuras de la ninia mala
+Peso: 0.3
+Autor: Mario Vargas Llosa
+
+titulo: Tormenta de espadas
+Peso: 0.4
+Autor: George R.R.Martin
+
+titulo: El evangelio seg n Jesucristo
+Peso: 0.5
+Autor: Jose Saramago
+
+titulo: Los tres mosqueteros
+Peso: 0.3
+Autor: Alejandro Dumas
+
+titulo: El nombre de la rosa
+Peso: 0.6
+Autor: Umberto Eco
+
+titulo: El codigo Da Vinci
+Peso: 0.5
+Autor: Dan Brown
+
+titulo: Revolucion
+Peso: 0.5
+Autor: Arturo Perez-Reverte
+
+titulo: Harry Potter y la Orden del Fenix ( Harry Potter 5)
+Peso: 0.5
+Autor: J. K. Rowling
+
+===========================================================
+
+Id: 3
+Tipo: H
+Capacidad: 15
+Libros contenidos: 
+===========================================================
+titulo: Hombres buenos
+Peso: 0.5
+Autor: Arturo Perez-Reverte
+
+titulo: La piel del tambor
+Peso: 0.5
+Autor: Arturo Perez-Reverte
+
+titulo: Don Quijote de la Mancha
+Peso: 0.7
+Autor: Miguel de Cervantes
+
+titulo: Paris era una fiesta
+Peso: 0.5
+Autor: Hernest Hemingway
+
+titulo: Un dia de colera
+Peso: 0.5
+Autor: Arturo Perez-Reverte
+
+titulo: Moby Dick
+Peso: 0.5
+Autor: Herman Melville
+
+titulo: Fortaleza digitali
+Peso: 0.5
+Autor: Dan Brown
+
+titulo: El corazon de las tinieblas
+Peso: 0.5
+Autor: Joseph Conrad
+
+titulo: Una historia de Espania
+Peso: 0.5
+Autor: Arturo Perez-Reverte
+
+titulo: Cumbres borrascosas
+Peso: 0.5
+Autor: Emily Bront
+
+titulo: Historia de la Edad Media
+Peso: 0.5
+Autor: Indro Montanelli
+
+titulo: El Hobbit
+Peso: 0.5
+Autor: J.R.R. Tolkien
+
+titulo: 1984
+Peso: 0.5
+Autor: George Orwell
+
+titulo: La Eneida
+Peso: 0.5
+Autor: Virgilio
+
+titulo: Dioses tumbas y sabios
+Peso: 0.5
+Autor: C. W. Ceram
+
+titulo: El Principito
+Peso: 0.4
+Autor: Antoine de Saint-Exupery
+
+titulo: El hombre que pudo reinar
+Peso: 0.5
+Autor: Rudyard Kipling
+
+titulo: Los hombres que no amaban a las mujeres
+Peso: 0.5
+Autor: Stieg Larsson
+
+titulo: En el camino
+Peso: 0.5
+Autor: Jack Kerouac
+
+titulo: El perfume
+Peso: 0.5
+Autor: Patrick Suskind
+
+titulo: Educacion
+Peso: 0.18
+ISSN: 10199403    Anio: 2024     Vigencia: 1
+
+titulo: Educacion
+Peso: 0.18
+ISSN: 10199403    Anio: 2023     Vigencia: 1
+
+titulo: Educacion
+Peso: 0.18
+ISSN: 10199403    Anio: 2023     Vigencia: 1
+
+titulo: Educacion
+Peso: 0.18
+ISSN: 10199403    Anio: 2023     Vigencia: 1
+
+titulo: Educacion
+Peso: 0.18
+ISSN: 10199403    Anio: 2022     Vigencia: 1
+
+titulo: Educacion
+Peso: 0.18
+ISSN: 10199403    Anio: 2022     Vigencia: 1
+
+titulo: Educacion
+Peso: 0.18
+ISSN: 10199403    Anio: 2022     Vigencia: 1
+
+titulo: El eterno marido
+Peso: 0.5
+Autor: Fiodor Dostoyevski
+
+titulo: La transformacion del mundo
+Peso: 0.5
+Autor: J rgen Osterhammel
+
+titulo: La isla del tesoro
+Peso: 0.5
+Autor: Robert Louis Stevenson
+
+titulo: Juego de tronos
+Peso: 0.7
+Autor: George R.R.Martin
+
+titulo: Mil soles esplendidos
+Peso: 0.5
+Autor: Khaled Hosseini
+
+titulo: Capitanes intrepidos
+Peso: 0.5
+Autor: Rudyard Kipling
+
+===========================================================
+
+Id: 4
+Tipo: H
+Capacidad: 10
+Libros contenidos: 
+===========================================================
+titulo: Los barcos se pierden en tierra
+Peso: 0.5
+Autor: Arturo Perez-Reverte
+
+titulo: El guardian entre el centeno
+Peso: 0.5
+Autor: J. D. Salinger
+
+titulo: Historia del siglo XX: 1914-1991
+Peso: 0.5
+Autor: Eric Hobsbawm
+
+titulo: El Maestro y Margarita
+Peso: 0.5
+Autor: Mijail Bulgakov
+
+titulo: Las aventuras de Huckleberry Finn
+Peso: 0.5
+Autor: Mark Twain
+
+titulo: Los diarios de Adan y Eva
+Peso: 0.5
+Autor: Mark Twain
+
+titulo: La ciudad y los perros
+Peso: 0.5
+Autor: Mario Vargas Llosa
+
+titulo: Mi isla
+Peso: 0.5
+Autor: Elisabet Benavent
+
+titulo: El francotirador paciente
+Peso: 0.5
+Autor: Arturo Perez-Reverte
+
+titulo: Divina comedia
+Peso: 0.7
+Autor: Dante Alighieri
+
+titulo: Revista de Psicolog a
+Peso: 0.2
+ISSN: 12549247    Anio: 2024     Vigencia: 1
+
+titulo: Revista de Psicolog a
+Peso: 0.2
+ISSN: 12549247    Anio: 2023     Vigencia: 1
+
+titulo: Revista de Psicolog a
+Peso: 0.2
+ISSN: 12549247    Anio: 2023     Vigencia: 1
+
+titulo: Revista de Psicolog a
+Peso: 0.2
+ISSN: 12549247    Anio: 2022     Vigencia: 1
+
+titulo: Historica
+Peso: 0.25
+ISSN: 2223375    Anio: 2023     Vigencia: 1
+
+titulo: Historica
+Peso: 0.25
+ISSN: 2223375    Anio: 2023     Vigencia: 1
+
+titulo: Historica
+Peso: 0.25
+ISSN: 2223375    Anio: 2022     Vigencia: 1
+
+titulo: Historica
+Peso: 0.25
+ISSN: 2223375    Anio: 2022     Vigencia: 1
+
+titulo: Historica
+Peso: 0.25
+ISSN: 2223375    Anio: 2022     Vigencia: 1
+
+titulo: Historica
+Peso: 0.25
+ISSN: 2223375    Anio: 2022     Vigencia: 1
+
+titulo: Historica
+Peso: 0.25
+ISSN: 2223375    Anio: 2019     Vigencia: 0
+
+titulo: ENCICLOPEDIA VIDA SALVAJE DEL MUNDO
+Peso: 2
+Sku: 17974     Anio: 2020     vigencia: 1
+
+===========================================================
+
+Id: 5
+Tipo: V
+Capacidad: 15
+Libros contenidos: 
+===========================================================
+titulo: ATLAS ILUSTRADO - MATEMATICAS E INFORMATICA
+Peso: 1.5
+Sku: 46903     Anio: 2022     vigencia: 1
+
+titulo: Rimas y leyendas
+Peso: 0.4
+Autor: Gustavo Adolfo Becquer
+
+titulo: La tabla de Flandes
+Peso: 0.4
+Autor: Arturo Perez-Reverte
+
+titulo: Dr. Jekyll y Mr. Hyde
+Peso: 0.5
+Autor: Robert Louis Stevenson
+
+titulo: Las aventuras de Tom Sawye
+Peso: 0.5
+Autor: Mark Twain
+
+titulo: Harry Potter y las reliquias de la muerte (Harry Potter 7)
+Peso: 0.4
+Autor: J. K. Rowling
+
+titulo: La caida de los gigantes
+Peso: 0.4
+Autor: Ken Follett
+
+titulo: Dracula
+Peso: 0.4
+Autor: Bram Stoker
+
+titulo: El tango de la guardia vieja
+Peso: 0.4
+Autor: Arturo Perez-Reverte
+
+titulo: Ulises
+Peso: 0.5
+Autor: James Joyce
+
+titulo: Ensayo sobre la ceguera
+Peso: 0.4
+Autor: Jose Saramago
+
+titulo: El gato negro y otros cuentos
+Peso: 0.4
+Autor: Edgar Allan Poe
+
+titulo: El ruido y la furia
+Peso: 0.4
+Autor: William Faulkner
+
+titulo: El proceso
+Peso: 0.4
+Autor: Franz Kafka
+
+titulo: El club Dumas
+Peso: 0.7
+Autor: Arturo Perez-Reverte
+
+titulo: Progreso del peregrino
+Peso: 0.4
+Autor: John Bunyan
+
+titulo: El italiano
+Peso: 0.4
+Autor: Arturo Perez-Reverte
+
+titulo: El invierno del mundo
+Peso: 0.4
+Autor: Ken Follett
+
+titulo: El reino de este mundo
+Peso: 0.4
+Autor: Alejo Carpentier
+
+titulo: Vidas intrepidas
+Peso: 0.4
+Autor: Julio Albi de la Cuesta
+
+titulo: Un asunto de honor
+Peso: 0.4
+Autor: Arturo Perez-Reverte
+
+titulo: Los renglones torcidos de Dios
+Peso: 0.4
+Autor: Torcuato Luca de Tena
+
+titulo: Jane Eyre
+Peso: 0.4
+Autor: Charlotte Bront 
+
+titulo: Mudlarking
+Peso: 0.4
+Autor: Lara Maiklem
+
+titulo: ANIMALES: UNA EXPLORACION DEL MUNDO ZOOLOGICO
+Peso: 2.5
+Sku: 22685     Anio: 2018     vigencia: 0
+
+titulo: Harry Potter y la piedra filosofal (Harry Potter 1)
+Peso: 0.4
+Autor: J. K. Rowling
+
+titulo: Palmeras en la nieve
+Peso: 0.4
+Autor: Luz Gabas
+
+===========================================================
+

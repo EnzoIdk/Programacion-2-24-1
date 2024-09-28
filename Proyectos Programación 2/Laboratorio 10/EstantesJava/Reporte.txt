@@ -1,0 +1,67 @@
+========================================================================================================================
+1 30 0
+------------------------------------------------------------------------------------------------------------------------
+Libros asignados: 
+------------------------------------------------------------------------------------------------------------------------
+IIM5175    Diamantes_y_pedernales                                       Jose_Maria_Arguedas                       2   30.23  2
+YDK7687    El_otonio_del_patriarca                                      Gabriel_Garcia_Marquez                   60   82.02  4
+ZOY6470    El_viejo_y_el_mar                                            Hernest_Hemingway                        25   68.01  2
+ETZ8565    Confesiones_de_una_mascara                                   Yukio_Mishima                            27  175.68  4
+LQL0880    Contra_el_fascismo                                           Umberto_Eco                              34   71.63  2
+VFZ9435    El_olor_de_la_Edad_Media                                     Javier_Traite                            49   96.28  4
+SFZ1256    La_Iliada                                                    Homero                                   34  154.35  2
+EDQ0577    Las_aventuras_de_Pinocho                                     Carlo_Collodi                            27   31.54  4
+YJI3961    Cien_anios_de_soledad                                        Gabriel_Garcia_Marquez                   45   99.35  2
+VPN5351    El_Amante                                                    Ana_Maria_Moix                           27  182.76  4
+========================================================================================================================
+2 20 0
+------------------------------------------------------------------------------------------------------------------------
+Libros asignados: 
+------------------------------------------------------------------------------------------------------------------------
+PVS2464    Sapiens                                                      Yuval_Noah_Harari                        18  148.82  2
+DVL7760    Falco                                                        Arturo_Perez-Reverte                     57   98.18  4
+QRH6838    Las_cronicas_de_Narnia                                       C._S._Lewis                              43  162.37  3
+LDL2628    Harry_Potter_y_el_caliz_de_fuego_(Harry_Potter_4)            J.K._Rowling                              3  140.97  5
+SBU9053    Tierra_arrasada                                              Alfredo_Gonzalez_Ruibal                  34   53.71  5
+JTX5687    Veinte_mil_leguas_de_viaje_submarino                         Julio_Verne                              29   72.66  1
+========================================================================================================================
+3 25 0
+------------------------------------------------------------------------------------------------------------------------
+Libros asignados: 
+------------------------------------------------------------------------------------------------------------------------
+ZJM1292    El_suenio_del_celta                                          Mario_Vargas_Llosa                       52   66.03  3
+CRA4157    El_forastero_misterioso                                      Mark_Twain                               39  234.14  5
+RII8346    Las_dos_Dianas                                               Alejandro_Dumas                          23   69.63  3
+JBR9372    El_maestro_de_esgrima                                        Arturo_Perez-Reverte                     60    1.94  5
+NEO9165    Emperador_de_Roma                                            Mary_Beard                               65  234.34  3
+TBZ2657    Olalla                                                       Robert_Louis_Stevenson                    5   42.95  5
+OMN0252    Los_hermanos_Karamazov                                       Fiodor_Dostoyevski                       42  241.73  1
+========================================================================================================================
+4 20 0
+------------------------------------------------------------------------------------------------------------------------
+Libros asignados: 
+------------------------------------------------------------------------------------------------------------------------
+IBP7411    Nunca                                                        Ken_Follett                              40   68.15  3
+GPH1575    La_gran_aventura_de_los_griegos                              Javier_Negrete                            3   11.18  5
+XIU2628    Cabo_Trafalgar                                               Arturo_Perez-Reverte                     21   34.25  3
+DDT0017    Viaje_al_fin_de_la_noche                                     Louis_Ferdinand_Celine                   38  125.28  6
+SQB7146    Cronica_de_una_muerte_anunciada                              Gabriel_Garcia_Marquez                   31   83.99  3
+========================================================================================================================
+5 35 0
+------------------------------------------------------------------------------------------------------------------------
+Libros asignados: 
+------------------------------------------------------------------------------------------------------------------------
+ILG7766    Iliada                                                       Homero                                    7  296.63  4
+HGQ0131    Odisea                                                       Homero                                   22   62.13  4
+HLB4548    Frankenstein_o_el_moderno_Prometeo                           Mary_W._Shelley                          18  118.29  4
+VHK9148    Historia_y_cronologia_del_mundo                              Isaac_Asimov                             63   14.07  3
+MVU0233    La_conspiracioni                                             Dan_Brown                                60  192.02  4
+KWL0415    1923                                                         Roberto_Villa_Garcia                     24   78.57  3
+WPU8819    Tristam_Shandy                                               Laurence_Sterne                          47   59.08  2
+HCT8192    Diario                                                       Ana_FranK                                63   99.10  2
+CKC4095    El_Gran_Gatsby                                               F._Scott_Fitzgerald                      26   32.40  2
+JLQ6546    El_retorno_del_Rey                                           J.R.R.Tolkien                            37   48.76  1
+MSW8176    Todo_se_desmorona                                            Chinua_Achebe                            23   37.03  2
+TDY0497    La_chica_del_tren                                            Paula_Hawkins                            40   62.79  1
+NBL8415    Espania_con_honra                                            Daniel_Aquillue                          50  252.00  2
+IMC3155    Los_pilares_de_la_tierra                                     Ken_Follett                              35  182.44  1

@@ -1,0 +1,12 @@
+Camion 1: PESO:  10.00
+10.00
+Camion 2: PESO:  9.00
+9.00
+Camion 3: PESO:  8.00
+1.00
+4.00
+3.00
+Camion 4: PESO:  7.00
+7.00
+Camion 5: PESO:  6.00
+6.00

@@ -1,0 +1,1265 @@
+DNI:          17972674
+Placa:        B4I-014
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     ZWF.661 5 1
+     UWA.476 2.8 4
+     UTN.601 0.8 1
+DNI:          19829266
+Placa:        E1J-798
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     TXM.139 15 3
+     RDT.761 15 3
+     UXG.019 40 2
+DNI:          22777006
+Placa:        M8Q-758
+Carga maxima: 300
+Filas:        1
+Puertas:      2
+Pedidos:
+     FCN.617 5 1
+     XLF.273 120 2
+     YYK.309 165 3
+
+DNI:          23928045
+Placa:        H8S-849
+Carga maxima: 300
+Filas:        2
+Puertas:      3
+Pedidos:
+     TMN.884 2 2
+     OXP.732 15 3
+     LWG.915 100 2
+     TKM.141 250 5
+
+DNI:          24995742
+Placa:        X9D-758
+Carga maxima: 1000
+Ejes:         2
+Llantas:      6
+Pedidos:      
+     KCO.488 20 4
+     YMU.875 150 3
+     DON.719 3 3
+     BWD.036 45 1
+DNI:          25171011
+Placa:        M7F-612
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     VCL.867 150 3
+     OPT.996 18 6
+     AWB.345 18 6
+     CIM.038 45 1
+     QRC.609 3 3
+     VCL.867 50 1
+DNI:          26233063
+Placa:        W1S-239
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     ZAF.449 2 2
+     UWA.476 0.7 1
+     KSO.608 135 3
+     JFC.432 80 4
+DNI:          26290971
+Placa:        V9J-051
+Carga maxima: 300
+Filas:        1
+Puertas:      2
+Pedidos:
+     TYF.885 6 3
+     PVZ.181 15 3
+     GKG.558 15 3
+     TZY.323 100 5
+
+DNI:          26976877
+Placa:        B7V-643
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     VTV.269 80 4
+     AFL.718 50 5
+     JXD.139 40 2
+     SSE.115 220 4
+     KQQ.136 15 3
+     YUQ.590 220 4
+DNI:          27635082
+Placa:        O8J-848
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+DNI:          27912250
+Placa:        M0X-657
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     ICX.503 50 1
+     LWG.915 200 4
+     QFR.958 150 3
+     FLJ.040 3 3
+     LWG.915 50 1
+DNI:          28390487
+Placa:        I3A-223
+Carga maxima: 300
+Filas:        1
+Puertas:      2
+Pedidos:
+     GLC.370 4 2
+
+DNI:          29337157
+Placa:        M1E-751
+Carga maxima: 300
+Filas:        1
+Puertas:      1
+Pedidos:
+     ZEX.027 4.5 3
+     HFM.021 20 4
+     QHC.492 120 6
+     WZD.331 220 4
+
+DNI:          29847168
+Placa:        H7P-047
+Carga maxima: 1500
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     BCK.361 0.6 1
+DNI:          31193794
+Placa:        T3B-722
+Carga maxima: 1200
+Ejes:         2
+Llantas:      6
+Pedidos:      
+     JDC.028 0.25 1
+     BXY.119 225 5
+DNI:          31611146
+Placa:        S1D-093
+Carga maxima: 300
+Filas:        1
+Puertas:      1
+Pedidos:
+     YOT.530 16 4
+     XSD.310 55 1
+     FVQ.662 200 4
+
+DNI:          32565207
+Placa:        D7L-648
+Carga maxima: 1000
+Ejes:         2
+Llantas:      8
+Pedidos:      
+     IDO.503 15 6
+     UXG.019 80 4
+     FVQ.662 250 5
+     TKM.141 200 4
+     ZWF.661 30 6
+DNI:          32821689
+Placa:        I0E-459
+Carga maxima: 300
+Filas:        1
+Puertas:      2
+Pedidos:
+     ISU.815 0.5 1
+     ONB.903 4.5 3
+     MTF.868 25 5
+     MMA.577 300 5
+
+DNI:          32904023
+Placa:        T6W-978
+Carga maxima: 400
+Filas:        1
+Puertas:      2
+Pedidos:
+     KQQ.136 5 1
+     QFP.254 6 4
+     KJX.387 15 3
+     RBE.789 60 6
+     SAM.013 150 3
+     DUG.251 200 4
+
+DNI:          33397650
+Placa:        H6H-085
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     IHG.413 4.8 3
+     VJI.529 30 6
+DNI:          33713901
+Placa:        L4B-291
+Carga maxima: 400
+Filas:        2
+Puertas:      2
+Pedidos:
+     VVS.017 0.8 1
+     UWA.476 1.4 2
+     ZVA.180 330 6
+
+DNI:          35565959
+Placa:        L8A-167
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     CIM.038 180 4
+     QRC.609 5 5
+     DFJ.952 100 2
+     BZS.261 50 1
+     VJI.529 25 5
+     JXD.139 100 5
+DNI:          35584593
+Placa:        I0K-077
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     SSD.176 220 4
+     AVM.258 200 4
+     KCO.488 5 1
+DNI:          36008913
+Placa:        T9A-930
+Carga maxima: 1000
+Ejes:         2
+Llantas:      6
+Pedidos:      
+     HFC.845 30 6
+DNI:          36380447
+Placa:        D2V-055
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     OWN.701 7.5 5
+     HLR.109 3.6 2
+DNI:          37110873
+Placa:        R0P-255
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     SSD.176 55 1
+     QUU.384 160 4
+     YZD.580 15 5
+     GXF.122 20 2
+     UWA.476 1.4 2
+     FCN.617 30 6
+DNI:          38637282
+Placa:        X8U-894
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     FLJ.040 6 6
+     OFS.384 1.7 1
+DNI:          38913831
+Placa:        C0S-417
+Carga maxima: 300
+Filas:        1
+Puertas:      3
+Pedidos:
+     YZD.580 3 1
+     FLW.631 3 3
+     JFC.432 60 3
+     BCN.855 150 3
+
+DNI:          40112594
+Placa:        T8Y-354
+Carga maxima: 300
+Filas:        2
+Puertas:      3
+Pedidos:
+     BCK.361 1.2 2
+     EBI.299 150 3
+     FVQ.662 200 4
+     KSO.608 270 6
+
+DNI:          40348917
+Placa:        M8W-853
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     WZD.331 165 3
+     SNY.500 200 4
+     FLJ.040 2 2
+     BMJ.772 55 1
+     DFJ.952 100 2
+     VRR.793 3 3
+DNI:          41036366
+Placa:        H1W-140
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     SJD.818 220 4
+     AQS.362 1 2
+     QVJ.982 20 4
+DNI:          42157219
+Placa:        T7F-869
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     OTS.581 2.5 5
+     III.576 60 6
+     KCO.488 10 2
+     KWP.672 60 6
+DNI:          42798099
+Placa:        N5Y-450
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     AQS.362 0.5 1
+     TMN.884 5 5
+     OQI.373 90 2
+     CNN.411 360 6
+     RDT.761 30 6
+DNI:          42928709
+Placa:        R5C-239
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     NSM.283 250 5
+     OQI.373 225 5
+     XLF.273 240 4
+     QFP.254 7.5 5
+     QIL.029 12 4
+     GLC.370 12 6
+DNI:          43043986
+Placa:        V7O-315
+Carga maxima: 1000
+Ejes:         2
+Llantas:      6
+Pedidos:      
+     ZEX.027 1.5 1
+     QFP.254 7.5 5
+     SSD.176 275 5
+     TXM.139 15 3
+DNI:          43053402
+Placa:        L3N-150
+Carga maxima: 400
+Filas:        1
+Puertas:      3
+Pedidos:
+     VRR.793 2 2
+     YOT.530 8 2
+     FVQ.662 300 6
+     MMA.577 360 6
+
+DNI:          43488351
+Placa:        T5L-371
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     XLF.273 300 5
+     DIQ.718 30 6
+     QTK.083 360 6
+DNI:          43877279
+Placa:        K5K-595
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     SNY.500 200 4
+     TYF.885 10 5
+     SSD.176 220 4
+     QUU.384 200 5
+DNI:          44229880
+Placa:        V4I-691
+Carga maxima: 1200
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     JXD.139 80 4
+     SNY.500 150 3
+     HLR.109 9 5
+DNI:          44679500
+Placa:        R7U-941
+Carga maxima: 300
+Filas:        2
+Puertas:      2
+Pedidos:
+     AWB.345 3 1
+
+DNI:          45783712
+Placa:        H8M-598
+Carga maxima: 300
+Filas:        1
+Puertas:      2
+Pedidos:
+     VZV.827 50 1
+     YUQ.590 110 2
+     QFR.958 150 3
+     YMU.875 200 4
+     SNY.500 250 5
+     SSD.176 330 6
+
+DNI:          45828535
+Placa:        C0G-556
+Carga maxima: 1200
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     QJO.060 30 6
+     XSD.310 220 4
+     AVM.258 100 2
+     TZY.323 120 6
+     YMU.875 250 5
+DNI:          45877001
+Placa:        A7Y-833
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     VVS.017 3.2 4
+     PJG.338 10 2
+     GBJ.693 5 5
+     RDT.761 25 5
+     KBY.991 12 6
+DNI:          46462527
+Placa:        R8O-904
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     KWP.672 30 3
+     LWG.915 300 6
+     ISU.815 3 6
+DNI:          48184351
+Placa:        W2L-827
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     KQA.580 90 2
+     TXM.139 5 1
+DNI:          48467976
+Placa:        A6D-661
+Carga maxima: 300
+Filas:        1
+Puertas:      1
+Pedidos:
+     JDQ.505 200 5
+
+DNI:          49087435
+Placa:        I1D-713
+Carga maxima: 1200
+Ejes:         2
+Llantas:      6
+Pedidos:      
+     VDD.853 4 2
+     BCK.361 1.8 3
+     SJQ.827 1.8 1
+     PJG.338 5 1
+     XZR.640 240 6
+     AFL.718 10 1
+DNI:          50365593
+Placa:        G6I-762
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     AFL.718 50 5
+     JDC.028 1.5 6
+     LWG.915 150 3
+     TMN.884 6 6
+     ZVA.180 330 6
+     TZY.323 20 1
+DNI:          50375303
+Placa:        D5W-953
+Carga maxima: 1200
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     JXD.139 120 6
+     CRU.009 200 5
+     KQA.580 225 5
+     AFL.718 10 1
+     YJD.279 250 5
+     SJQ.827 3.6 2
+DNI:          52097922
+Placa:        A1Q-612
+Carga maxima: 1000
+Ejes:         2
+Llantas:      6
+Pedidos:      
+     ISU.815 2.5 5
+     OWN.701 3 2
+     GBD.525 275 5
+     UTN.601 1.6 2
+     XSD.310 330 6
+     MMA.577 120 2
+DNI:          53166028
+Placa:        P7T-999
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     QHC.492 20 1
+     ONB.903 4.5 3
+     TXM.139 15 3
+DNI:          54716824
+Placa:        V9F-655
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     SPR.580 3 3
+     UDR.957 50 1
+     ZEX.027 9 6
+     CRU.009 240 6
+DNI:          54761731
+Placa:        K6X-977
+Carga maxima: 1200
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     DEV.433 6 3
+     ZVA.180 220 4
+     FVB.607 250 5
+     VZV.827 50 1
+     OTS.581 2.5 5
+DNI:          55552996
+Placa:        G0F-080
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     AQS.362 0.5 1
+     UXG.019 120 6
+     SJD.818 55 1
+     FQG.293 1 1
+     QTK.083 60 1
+     SSD.176 330 6
+DNI:          57263719
+Placa:        J2K-636
+Carga maxima: 300
+Filas:        2
+Puertas:      1
+Pedidos:
+     YOT.530 20 5
+     DOV.560 20 4
+     ZWF.661 25 5
+     OTH.462 80 2
+     TZY.323 120 6
+     BWD.036 135 3
+     OTH.462 200 5
+
+DNI:          57690875
+Placa:        O7D-970
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     CIM.038 135 3
+     XLF.273 240 4
+     XTE.383 6 6
+DNI:          58187172
+Placa:        O4X-603
+Carga maxima: 1000
+Ejes:         2
+Llantas:      6
+Pedidos:      
+     KBY.991 12 6
+     VXS.438 0.5 2
+DNI:          59162728
+Placa:        C2S-070
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     FEG.454 200 4
+DNI:          59407188
+Placa:        D9A-711
+Carga maxima: 300
+Filas:        2
+Puertas:      3
+Pedidos:
+     OWN.701 1.5 1
+     LYZ.614 15 3
+     RDT.761 25 5
+     BIT.434 60 6
+
+DNI:          60574154
+Placa:        J2M-606
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     BWD.036 90 2
+     III.576 60 6
+     KDA.627 250 5
+DNI:          62324793
+Placa:        P5B-640
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     LDR.510 3 1
+     YJD.279 250 5
+     FQG.293 1 1
+     XBD.314 250 5
+     OPJ.039 90 2
+DNI:          62566305
+Placa:        C4O-436
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     TYF.885 8 4
+     DIQ.718 20 4
+     GXF.122 50 5
+     AVM.258 50 1
+     CNQ.172 180 3
+DNI:          63437380
+Placa:        K1F-766
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     PJG.338 10 2
+     III.576 50 5
+     AWB.345 12 4
+     KQA.580 90 2
+     YEZ.591 200 5
+DNI:          64394265
+Placa:        U5N-536
+Carga maxima: 300
+Filas:        1
+Puertas:      1
+Pedidos:
+     OFS.384 8.5 5
+     YUQ.590 55 1
+     OTW.288 100 5
+     YYK.309 330 6
+
+DNI:          66409237
+Placa:        Y4Y-028
+Carga maxima: 300
+Filas:        2
+Puertas:      2
+Pedidos:
+     DFF.034 2 4
+     AWT.354 6 6
+     UXG.019 80 4
+     CRU.009 160 4
+     BRD.969 180 3
+     ICX.503 250 5
+
+DNI:          67418025
+Placa:        W9Y-717
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     QUU.384 40 1
+     EVN.510 250 5
+     FEG.454 100 2
+     YYU.726 9.6 6
+DNI:          69324480
+Placa:        S9I-160
+Carga maxima: 300
+Filas:        1
+Puertas:      3
+Pedidos:
+     VXS.438 0.75 3
+     DIQ.718 5 1
+     VJI.529 5 1
+     UOD.420 9 3
+     JCW.489 300 5
+
+DNI:          69639726
+Placa:        Q5S-871
+Carga maxima: 300
+Filas:        2
+Puertas:      3
+Pedidos:
+     DON.719 1 1
+     OPT.996 9 3
+
+DNI:          69975105
+Placa:        N5J-515
+Carga maxima: 300
+Filas:        1
+Puertas:      3
+Pedidos:
+     FQG.293 5 5
+     HFM.021 30 6
+     TMJ.043 240 6
+     WZD.331 330 6
+
+DNI:          71378466
+Placa:        J8D-125
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     BIT.434 40 4
+     FVQ.662 100 2
+     ARS.231 3.6 6
+     OQI.373 45 1
+     XSD.310 165 3
+DNI:          71463316
+Placa:        N1O-921
+Carga maxima: 300
+Filas:        1
+Puertas:      2
+Pedidos:
+     UWA.476 2.1 3
+     AWT.354 4 4
+     QFP.254 9 6
+     KCO.488 25 5
+     BCN.855 200 4
+     EBI.299 300 6
+
+DNI:          71984468
+Placa:        J7Y-327
+Carga maxima: 300
+Filas:        1
+Puertas:      3
+Pedidos:
+     PQH.935 2 2
+     TZY.323 20 1
+     JJN.837 200 5
+
+DNI:          73185299
+Placa:        L4O-783
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     OTH.462 120 3
+     QHC.492 60 3
+     QUU.384 120 3
+     QFP.254 7.5 5
+     AVM.258 150 3
+DNI:          73535476
+Placa:        W3T-571
+Carga maxima: 300
+Filas:        1
+Puertas:      3
+Pedidos:
+     UWA.476 3.5 5
+     FLJ.040 4 4
+     LDR.510 6 2
+     KJX.387 20 4
+     CIM.038 135 3
+
+DNI:          73786035
+Placa:        O4X-500
+Carga maxima: 300
+Filas:        2
+Puertas:      3
+Pedidos:
+     AQS.362 0.5 1
+     DEN.125 4 4
+
+DNI:          73914283
+Placa:        F3E-797
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     OBI.353 20 1
+     BRD.969 180 3
+     OBI.353 80 4
+DNI:          76388967
+Placa:        J2F-853
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     SJQ.827 9 5
+     EBI.299 250 5
+     RSE.049 6 6
+     CNQ.172 360 6
+     PFD.286 330 6
+     DOV.560 10 2
+DNI:          77191257
+Placa:        I0Y-720
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     QVJ.982 25 5
+     ZWF.661 20 4
+     KWP.672 20 2
+     TZY.323 60 3
+     ZEX.027 9 6
+     AVM.258 300 6
+DNI:          77484838
+Placa:        N0Z-560
+Carga maxima: 1000
+Ejes:         2
+Llantas:      8
+Pedidos:      
+     UWA.476 0.7 1
+     BTO.226 80 4
+     AFL.718 10 1
+     UDR.957 150 3
+     YUQ.590 330 6
+     YGV.332 15 3
+DNI:          77642521
+Placa:        W8F-397
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     QUU.384 200 5
+     DFJ.952 250 5
+     YYU.726 3.2 2
+DNI:          78078115
+Placa:        P7I-760
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     XZR.640 200 5
+     DFF.034 1 2
+     FQG.293 4 4
+     XOA.735 120 2
+     TMJ.043 120 3
+     DFJ.952 250 5
+DNI:          78757121
+Placa:        T0V-569
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     OQI.373 135 3
+     ZXK.295 180 4
+     GXF.122 10 1
+     ARS.231 2.4 4
+     KJX.387 20 4
+DNI:          78922174
+Placa:        P6I-223
+Carga maxima: 1200
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     TKM.141 250 5
+     AFL.718 50 5
+     EJW.346 60 6
+     XBD.314 150 3
+     XBD.314 100 2
+     OQI.373 135 3
+DNI:          79140840
+Placa:        T9L-709
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     DFF.034 1.5 3
+     TYF.885 4 2
+     HLR.109 1.8 1
+     OTH.462 40 1
+     TMN.884 5 5
+     JXD.139 80 4
+DNI:          79372768
+Placa:        P2Q-870
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     GLC.370 8 4
+     QVJ.982 30 6
+     SAM.013 50 1
+     EUZ.452 25 5
+DNI:          79420973
+Placa:        L2H-207
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     SSE.115 275 5
+     GXF.122 30 3
+DNI:          79464412
+Placa:        K0D-676
+Carga maxima: 300
+Filas:        1
+Puertas:      3
+Pedidos:
+     CJE.310 15 5
+     MTF.868 30 6
+     JXD.139 80 4
+     NSM.283 100 2
+
+DNI:          79475585
+Placa:        W6Z-142
+Carga maxima: 300
+Filas:        2
+Puertas:      1
+Pedidos:
+     KQQ.136 30 6
+     BWD.036 225 5
+
+DNI:          79901434
+Placa:        D6F-465
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     OBI.353 120 6
+     ZEX.027 3 2
+     AHB.459 5.1 3
+     OXP.732 10 2
+     CSZ.863 10 5
+     TXM.139 10 2
+DNI:          80048864
+Placa:        H2K-127
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     BCK.361 1.8 3
+     RDT.761 25 5
+     PPX.620 5 1
+     BWD.036 135 3
+DNI:          81114108
+Placa:        W7R-114
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     VRR.793 4 4
+     BCN.855 200 4
+     RBE.789 20 2
+     DFF.034 2.5 5
+     OFS.384 5.1 3
+     DUG.251 250 5
+DNI:          83236386
+Placa:        O3T-110
+Carga maxima: 300
+Filas:        2
+Puertas:      1
+Pedidos:
+     OFS.384 1.7 1
+     OPT.996 6 2
+     MTF.868 10 2
+     UJV.290 250 5
+
+DNI:          83505958
+Placa:        P7E-145
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     TYF.885 10 5
+     EJW.346 30 3
+     MQR.442 1 1
+DNI:          84165595
+Placa:        J0Q-121
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     DFJ.952 50 1
+     RDT.761 30 6
+     HFM.021 30 6
+     JFC.432 60 3
+     QHC.492 80 4
+DNI:          85871751
+Placa:        E3U-231
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     MYC.756 100 2
+DNI:          85949265
+Placa:        N2C-590
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     JFC.432 80 4
+     TMJ.043 240 6
+     YUQ.590 110 2
+     VRR.793 5 5
+     LDR.510 18 6
+DNI:          86241107
+Placa:        L3W-411
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     CIM.038 90 2
+     HFC.845 15 3
+     UXG.019 40 2
+     FEG.454 100 2
+DNI:          86402303
+Placa:        H6X-124
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     OQI.373 135 3
+     OQI.373 135 3
+     RBE.789 60 6
+     HFM.021 30 6
+DNI:          86828079
+Placa:        W1C-444
+Carga maxima: 300
+Filas:        1
+Puertas:      1
+Pedidos:
+     MQR.442 3 3
+     YGV.332 5 1
+     QIL.029 15 5
+
+DNI:          87800799
+Placa:        N4J-043
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     KWP.672 20 2
+     VRR.793 2 2
+     WZD.331 110 2
+     GBD.525 330 6
+     ICX.503 100 2
+     BTO.226 60 3
+DNI:          87813843
+Placa:        E1N-544
+Carga maxima: 1500
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     MLE.193 200 4
+     XSD.310 165 3
+     LDR.510 18 6
+     OQI.373 45 1
+DNI:          88956889
+Placa:        B3U-845
+Carga maxima: 1000
+Ejes:         2
+Llantas:      8
+Pedidos:      
+     TMN.884 1 1
+     YUQ.590 110 2
+     HFM.021 30 6
+     UWA.476 2.1 3
+     MYC.756 200 4
+     UWA.476 4.2 6
+DNI:          88995291
+Placa:        V7P-711
+Carga maxima: 400
+Filas:        2
+Puertas:      2
+Pedidos:
+     HLR.109 3.6 2
+     MTF.868 15 3
+
+DNI:          89148118
+Placa:        R8H-409
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     TKM.141 300 6
+     XLF.273 300 5
+     AFL.718 10 1
+     JFC.432 100 5
+     EBI.299 300 6
+DNI:          89298238
+Placa:        E6T-667
+Carga maxima: 1500
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     PFD.286 110 2
+     QTK.083 180 3
+     QFP.254 3 2
+     UJV.290 200 4
+     YOT.530 16 4
+     YOT.530 4 1
+DNI:          89429489
+Placa:        S6Y-726
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     VXS.438 0.25 1
+     QUU.384 40 1
+     UXG.019 20 1
+     VCL.867 300 6
+     BXY.119 135 3
+DNI:          89863424
+Placa:        Y9G-536
+Carga maxima: 1000
+Ejes:         2
+Llantas:      6
+Pedidos:      
+     SSE.115 220 4
+     FVB.607 50 1
+     OTH.462 240 6
+     QRC.609 3 3
+DNI:          90237332
+Placa:        L6D-758
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     PFD.286 220 4
+     QFP.254 4.5 3
+     PVZ.181 25 5
+     OQI.373 45 1
+     TKM.141 150 3
+DNI:          90365520
+Placa:        M4Z-108
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     KWP.672 60 6
+     KBY.991 12 6
+     OPJ.039 45 1
+     EUZ.452 30 6
+     VDD.853 10 5
+DNI:          91897732
+Placa:        C3A-423
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     TMN.884 2 2
+     XZR.640 200 5
+     WLL.607 45 1
+     OXP.732 10 2
+     PFD.286 110 2
+DNI:          93160528
+Placa:        E0I-722
+Carga maxima: 300
+Filas:        2
+Puertas:      3
+Pedidos:
+     YYU.726 1.6 1
+     DUG.251 100 2
+     QTK.083 180 3
+     BRD.969 300 5
+
+DNI:          93845419
+Placa:        S4J-282
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     CIM.038 225 5
+     AWB.345 15 5
+     QIL.029 18 6
+     NSR.955 100 2
+DNI:          94080926
+Placa:        D6W-048
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     NMV.644 200 5
+     TXM.139 25 5
+     CIM.038 90 2
+     OTW.288 100 5
+     SPR.580 5 5
+DNI:          94326707
+Placa:        U3F-754
+Carga maxima: 1000
+Ejes:         2
+Llantas:      8
+Pedidos:      
+DNI:          95015539
+Placa:        F1F-571
+Carga maxima: 1200
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     CSZ.863 4 2
+DNI:          95161027
+Placa:        B4R-105
+Carga maxima: 1000
+Ejes:         3
+Llantas:      6
+Pedidos:      
+     VJI.529 10 2
+     III.576 50 5
+     VVS.017 4 5
+     FQG.293 4 4
+     OQI.373 45 1
+     TZY.323 100 5
+DNI:          95751208
+Placa:        A8J-929
+Carga maxima: 300
+Filas:        1
+Puertas:      2
+Pedidos:
+     UOD.420 12 4
+     BWD.036 135 3
+     BRD.969 240 4
+
+DNI:          96258632
+Placa:        Y9F-491
+Carga maxima: 1200
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     CRU.009 80 2
+     QHC.492 40 2
+     EBI.299 250 5
+DNI:          96659352
+Placa:        T1K-210
+Carga maxima: 1000
+Ejes:         2
+Llantas:      6
+Pedidos:      
+     ADX.669 200 4
+     KQA.580 270 6
+     GBJ.693 3 3
+     KQQ.136 15 3
+DNI:          97403853
+Placa:        I0W-872
+Carga maxima: 1000
+Ejes:         3
+Llantas:      8
+Pedidos:      
+     KQQ.136 30 6
+     BCK.361 3 5
+     YJD.279 150 3
+     GBJ.693 4 4
+DNI:          98140264
+Placa:        Z4L-514
+Carga maxima: 400
+Filas:        1
+Puertas:      2
+Pedidos:
+     DFF.034 1 2
+     CJE.310 9 3
+     BRD.969 60 1
+     QHC.492 80 4
+
+DNI:          98589725
+Placa:        H3E-885
+Carga maxima: 1000
+Ejes:         2
+Llantas:      8
+Pedidos:      
+     VRR.793 1 1
+DNI:          99842319
+Placa:        N6D-256
+Carga maxima: 300
+Filas:        1
+Puertas:      2
+Pedidos:
+     ZAF.449 1 1
+     DUG.251 100 2
+

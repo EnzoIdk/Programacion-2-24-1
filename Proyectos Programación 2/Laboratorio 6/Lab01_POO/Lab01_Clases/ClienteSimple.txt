@@ -1,0 +1,8 @@
+54393647   Reyes Tang Edward 
+Libros entregados:
+    Pedido No.    Codigo     Precio
+       00002      CRY6839    159.10
+       00003      VYG3594    104.74
+Total a pagar: 263.84
+Libros no entregados por falta de stock: 
+    Pedido No.    Codigo

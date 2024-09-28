@@ -1,0 +1,35 @@
+Codigo Estante: AAA     Cantidad de Libros: 3
+Anclura del Estante: 6     Altura del Estante: 4
+
+[ ][ ][ ][*][ ][ ]
+[*][ ][ ][*][ ][ ]
+[*][*][*][*][ ][ ]
+[*][*][*][*][ ][ ]
+
+
+ABC123    El libro de la Selva                                            1    3
+ABC321    El libro de la Costa                                            2    2
+CBA123    El libro de la Sierra                                           1    4
+
+Codigo Estante: BBB     Cantidad de Libros: 1
+Anclura del Estante: 10     Altura del Estante: 8
+
+[ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+[*][*][ ][ ][ ][ ][ ][ ][ ][ ]
+[*][*][ ][ ][ ][ ][ ][ ][ ][ ]
+[*][*][ ][ ][ ][ ][ ][ ][ ][ ]
+[*][*][ ][ ][ ][ ][ ][ ][ ][ ]
+[*][*][ ][ ][ ][ ][ ][ ][ ][ ]
+[*][*][ ][ ][ ][ ][ ][ ][ ][ ]
+[*][*][ ][ ][ ][ ][ ][ ][ ][ ]
+
+
+CBA321    El libro del Peru                                               2    7
+
+Informacion de todos los Libros:
+Cantidad de Libros Total: 5
+ABC123    El libro de la Selva                                            1    3
+ABC321    El libro de la Costa                                            2    2
+CBA123    El libro de la Sierra                                           1    4
+CBA321    El libro del Peru                                               2    7
+CCC123    NO SE PUDO COLOCAR                                             11    5

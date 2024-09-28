@@ -1,0 +1,1817 @@
+Placa: P9A-528
+Chofer: CASTILLO/MEJIA/GUSTAVO-ALONSO
+Ciudades: Lima Ica Arequipa Moquegua Tacna  
+----------------------------------------------
+     Nombre: CRUZ/JUGO/SANDRO-FAUSTO
+     DNI: 25171011
+     Destino: Arequipa
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: SEGURA/MALCA/RONY
+     DNI: 39923112
+     Destino: Arequipa
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: QUIROGA/SALAZAR/JOHNNY-ROBERTO
+     DNI: 87800799
+     Destino: Arequipa
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: MOSCOSO/SUELDO/MARINA
+     DNI: 67418025
+     Destino: Moquegua
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: EPIQUEN/ALAMO/NANCY
+     DNI: 77484838
+     Destino: Ica
+     Ariticulos: Antifaz Vino Pantuflas  
+******************************************
+     Nombre: DE-LA-CUBA/JUGO/LUCERO-DELICIA
+     DNI: 78755618
+     Destino: Moquegua
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: AYALA/ZEVALLOS/JOHAN-ENRIQUE
+     DNI: 59297012
+     Destino: Arequipa
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: SALAZAR/GONZALES/DAVID-RAFAEL
+     DNI: 64394265
+     Destino: Ica
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: LANDEO/LARRIEGA/MARTIN
+     DNI: 31611146
+     Destino: Tacna
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: VEGA/GARCIA/JANET-REBECA
+     DNI: 34057485
+     Destino: Ica
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: FLORIAN/MORALES/YDALI
+     DNI: 55661032
+     Destino: Ica
+     Ariticulos: Almohada Whisky  
+******************************************
+----------------------------------------------
+Placa: H9R-580
+Chofer: SAENZ/ARANDA/WILMER
+Ciudades: Lima Junin Pasco Pucallpa  
+----------------------------------------------
+     Nombre: GONZALES/QUIO/ISABEL
+     DNI: 76388967
+     Destino: Junin
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: SANCHEZ/HUAYANAY/DIALY-LUCERO
+     DNI: 50375303
+     Destino: Pasco
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: MONTERO/BOLANOS/OFELIA-BEATRIZ
+     DNI: 19580504
+     Destino: Pasco
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: MENDOZA/EGUSQUIZA/ROSARIO
+     DNI: 81310110
+     Destino: Pucallpa
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: LOPEZ/JAUREGUI/ROLANDO
+     DNI: 48184351
+     Destino: Pasco
+     Ariticulos: Whisky Gaseosa Audifonos Almohada  
+******************************************
+     Nombre: LOYOLA/IBEROS/ANGEL-GUSTAVO
+     DNI: 54761731
+     Destino: Pucallpa
+     Ariticulos: Audifonos Pisco Antifaz Pantuflas Almohada  
+******************************************
+     Nombre: LAURA/WONG/MELVIN-HENRRY
+     DNI: 31419360
+     Destino: Pucallpa
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: ZIMIC/SALAS/FRANCISCO
+     DNI: 50862708
+     Destino: Junin
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: IBEROS/VALDERRAMA/RAFAEL
+     DNI: 78500352
+     Destino: Junin
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: FALCON/POZO/WALTER
+     DNI: 95161027
+     Destino: Junin
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: LOPEZ/LAURA/FELICITA
+     DNI: 28546649
+     Destino: Pasco
+     Ariticulos: Pantuflas Pisco Antifaz  
+******************************************
+     Nombre: MEDINA/VELASQUEZ/MILENA-JENNY
+     DNI: 81190754
+     Destino: Pucallpa
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: ROSEMBERG/LAU/JULIO-HENRRY
+     DNI: 19449476
+     Destino: Pasco
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: SEDANO/MERCADO/FIORELLA-GLORIA
+     DNI: 45828535
+     Destino: Pasco
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: ESCALANTE/ESPINO/EMIGDIO-FRANCISCO
+     DNI: 90983614
+     Destino: Pucallpa
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: CONTRERAS/MEZA/ERIKA-BLANCA
+     DNI: 83505958
+     Destino: Pucallpa
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: LOYOLA/MORI/NICOLAS-FERNANDO
+     DNI: 46462527
+     Destino: Pucallpa
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: CASTILLO/CHUNG/FELICITA-ERIKA
+     DNI: 87503190
+     Destino: Junin
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: SANTISTEBAN/AYALA/CAROLA-MARITZA
+     DNI: 26290971
+     Destino: Pucallpa
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: TSUKAZAN/AMEZQUITA/DELIA
+     DNI: 78078115
+     Destino: Pasco
+     Ariticulos: Pantuflas Almohada Whisky Antifaz  
+******************************************
+     Nombre: SANTISTEBAN/BRAVO/EDGARD
+     DNI: 89863424
+     Destino: Pasco
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: URBINA/HIJAR/RAFAEL
+     DNI: 78862029
+     Destino: Pucallpa
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: LAU/VIZCARRA/HECTOR-ALEX
+     DNI: 25504077
+     Destino: Pasco
+     Ariticulos: Whisky Gaseosa Antifaz  
+******************************************
+     Nombre: AURIS/ZIMIC/JAVIER-DANIEL
+     DNI: 35065161
+     Destino: Pasco
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+----------------------------------------------
+Placa: V1S-429
+Chofer: CALIXTO/TORRES/MIGUEL
+Ciudades: Lima Huanuco Pucallpa Yurimaguas Iquitos  
+----------------------------------------------
+     Nombre: VALDERRAMA/MENDOZA/LUIS-ADOLFO
+     DNI: 69975105
+     Destino: Huanuco
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: BARRIOS/TOMASICHE/CARLOS-ALBERTO
+     DNI: 81274303
+     Destino: Yurimaguas
+     Ariticulos: Almohada Antifaz  
+******************************************
+     Nombre: VEGA/MUNOZ/GONZALO
+     DNI: 35956910
+     Destino: Iquitos
+     Ariticulos: Gaseosa Almohada  
+******************************************
+     Nombre: REYES/TANG/EDWARD
+     DNI: 11743727
+     Destino: Yurimaguas
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: JUSTINO/NORABUENA/VIRGINIA-KARINA
+     DNI: 27473221
+     Destino: Yurimaguas
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: VALVERDE/SEGURA/MIGUEL-JOSE
+     DNI: 54716824
+     Destino: Yurimaguas
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: GONZALES/ARIAS/HENRY
+     DNI: 28014253
+     Destino: Iquitos
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: URBINA/CASTILLO/HELI
+     DNI: 13588661
+     Destino: Yurimaguas
+     Ariticulos: Audifonos  
+******************************************
+     Nombre: URBINA/ANTEZANO/VALENTINA-PAULA
+     DNI: 87334863
+     Destino: Iquitos
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: SORIA/VILLA/HENRRY
+     DNI: 45877001
+     Destino: Yurimaguas
+     Ariticulos: Whisky Vino Cobertor Almohada  
+******************************************
+     Nombre: ALDAVE/ZEVALLOS/ROSARIO
+     DNI: 29847168
+     Destino: Yurimaguas
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: ZAMBRANO/LEYVA/ALVARO
+     DNI: 89148118
+     Destino: Iquitos
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: PATINO/CHUNG/BEATRIZ-ROSA
+     DNI: 73884562
+     Destino: Iquitos
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: RIVERO/CORRALES/JUAN-FERNANDO
+     DNI: 83236386
+     Destino: Iquitos
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: VALDERRAMA/CHANG/JOHAN-JUVENAL
+     DNI: 71762850
+     Destino: Iquitos
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: PAIRAZAMAN/ALAMO/MOISES-MIGUEL
+     DNI: 47944203
+     Destino: Huanuco
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: ESCALANTE/ROJAS/INES-ADRIA
+     DNI: 90404826
+     Destino: Iquitos
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: VILCARA/RODRIGUEZ/ANNIE
+     DNI: 35565959
+     Destino: Yurimaguas
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+----------------------------------------------
+Placa: Z0V-608
+Chofer: ZARATE/URBINA/DELIA
+Ciudades: Lima Huaraz Trujillo Cajamarca Chachapoyas Tarapoto  
+----------------------------------------------
+     Nombre: CANALES/MOYA/ALONSO-JULIO
+     DNI: 59407188
+     Destino: Trujillo
+     Ariticulos: Antifaz Whisky Pisco  
+******************************************
+     Nombre: HIJAR/PAIRAZAMAN/JENNY-DELICIA
+     DNI: 23972672
+     Destino: Huaraz
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: HAZA/CABRERA/ALBERTO
+     DNI: 24833706
+     Destino: Tarapoto
+     Ariticulos: Pantuflas  
+******************************************
+     Nombre: SUAREZ/MUNOZ/MADELEINE
+     DNI: 52256304
+     Destino: Trujillo
+     Ariticulos: Antifaz  
+******************************************
+     Nombre: PRECIADO/PINTO/SURAMI-HELI
+     DNI: 26221442
+     Destino: Cajamarca
+     Ariticulos: Almohada Audifonos Gaseosa Antifaz Pisco  
+******************************************
+     Nombre: SUAREZ/ZIMIC/MOISES
+     DNI: 58187172
+     Destino: Cajamarca
+     Ariticulos: Pantuflas Vino Whisky  
+******************************************
+     Nombre: DURAND/MEZA/WALDEMAR-EDGARD
+     DNI: 24829546
+     Destino: Trujillo
+     Ariticulos: Cobertor  
+******************************************
+     Nombre: JAUREGUI/BRAVO/LUZ-SOFIA
+     DNI: 78475257
+     Destino: Cajamarca
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: CORONEL/ZEGARRA/FIORELLA
+     DNI: 95751208
+     Destino: Cajamarca
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: POZO/CHUNG/RAFAEL
+     DNI: 45783712
+     Destino: Trujillo
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: MALDONADO/FLORIAN/JOHANA
+     DNI: 17711594
+     Destino: Huaraz
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: ROMERO/ALFARO/MONICA-JOHANA
+     DNI: 62566305
+     Destino: Trujillo
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: MALDONADO/RAMIREZ/SILVANA
+     DNI: 73831431
+     Destino: Huaraz
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: MOSCOSO/ARIAS/FIORELLA
+     DNI: 55626526
+     Destino: Huaraz
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: SALAS/AGUERO/DANIEL
+     DNI: 79875775
+     Destino: Huaraz
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: VIZCARDO/YEP/GUIDA-YOLANDA
+     DNI: 29337157
+     Destino: Tarapoto
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: GAVIDIA/MORENO/ISRAEL-ROLANDO
+     DNI: 62324793
+     Destino: Cajamarca
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: ROJAS/PATINO/GONZALO-JAIR
+     DNI: 69639726
+     Destino: Trujillo
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: PEREZ/FARFAN/RICHARD-SANDRO
+     DNI: 69158037
+     Destino: Huaraz
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: PALOMARES/SANTISTEBAN/HENRRY
+     DNI: 17913944
+     Destino: Huaraz
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: RARAZ/SUCHERO/ADOLFO
+     DNI: 43877279
+     Destino: Tarapoto
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: PRECIADO/TOKESHI/HENRY
+     DNI: 99532801
+     Destino: Chachapoyas
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: CORTEZ/SEGURA/CARMELA-INES
+     DNI: 16159030
+     Destino: Tarapoto
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: MIYAKE/CARO/HENRRY-EDGAR
+     DNI: 71378466
+     Destino: Cajamarca
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: HERNANDEZ/BARRIOS/EMILIO
+     DNI: 22010173
+     Destino: Huaraz
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: JUSTINO/FORZANI/ERICKA-VICTORIA
+     DNI: 64333011
+     Destino: Tarapoto
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: ZAMBRANO/SHIRAKAWA/WILMER
+     DNI: 81114108
+     Destino: Tarapoto
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+----------------------------------------------
+Placa: Q8B-464
+Chofer: ZAMORA/CABRERA/CARMEN
+Ciudades: Lima Huaraz Trujillo Chiclayo Piura Sullana Tumbes  
+----------------------------------------------
+     Nombre: VILLEGAS/CASTRO/ALONSO
+     DNI: 15561764
+     Destino: Sullana
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: CRUZ/FUENTES/JOHANA-YDALI
+     DNI: 70532120
+     Destino: Tumbes
+     Ariticulos: Almohada Antifaz  
+******************************************
+     Nombre: FARFAN/FALCON/ELIZABETH-KARIN
+     DNI: 42804086
+     Destino: Chiclayo
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: CHAVEZ/PRADO/SILVANA
+     DNI: 52338712
+     Destino: Tumbes
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: AURIS/JOLAY/DIANA
+     DNI: 79420973
+     Destino: Piura
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: SHIRAKAWA/MIRANDA/MADELEINE
+     DNI: 23716946
+     Destino: Piura
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: SUAREZ/BRAVO/MARIELLA-TATIANA
+     DNI: 50365593
+     Destino: Sullana
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: CARO/POLO/SANDRO
+     DNI: 33332473
+     Destino: Tumbes
+     Ariticulos: Pisco Almohada  
+******************************************
+     Nombre: DIAZ/ANTEZANO/MAGALI-SILVANA
+     DNI: 45132265
+     Destino: Huaraz
+     Ariticulos: Audifonos Pantuflas  
+******************************************
+     Nombre: LANDEO/CHAVARRI/FAUSTO
+     DNI: 14170550
+     Destino: Chiclayo
+     Ariticulos: Vino Whisky Cobertor  
+******************************************
+     Nombre: SERRANO/RAMIREZ/ARTURO-GUSTAVO
+     DNI: 66433105
+     Destino: Chiclayo
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: MEREL/TAVERA/WALTER
+     DNI: 24995742
+     Destino: Chiclayo
+     Ariticulos: Vino Gaseosa Audifonos  
+******************************************
+     Nombre: CALIXTO/TOMASICHE/MONICA-DORIS
+     DNI: 64877170
+     Destino: Chiclayo
+     Ariticulos: Gaseosa  
+******************************************
+     Nombre: PRADO/FORZANI/LOURDES
+     DNI: 32904023
+     Destino: Chiclayo
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: LANDEO/ESTRADA/MIGUEL-ALEX
+     DNI: 33718985
+     Destino: Sullana
+     Ariticulos: Gaseosa Pisco Almohada Whisky Pantuflas  
+******************************************
+     Nombre: GUEVARA/MIYAKE/MILENA
+     DNI: 52650685
+     Destino: Tumbes
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: CANO/CHUNG/EMILIO-NICOLAS
+     DNI: 53166028
+     Destino: Tumbes
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: PORTUGAL/RAFFO/ALEXANDER
+     DNI: 79464412
+     Destino: Piura
+     Ariticulos: Gaseosa Vino Almohada Pantuflas Pisco  
+******************************************
+     Nombre: RETTO/ARCA/ANNIE-MAGDA
+     DNI: 79475585
+     Destino: Sullana
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: BENITES/BENAVENTE/FLOR-PATRICIA
+     DNI: 62229503
+     Destino: Chiclayo
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: PINTO/CALIXTO/SHIRLEY
+     DNI: 24716202
+     Destino: Sullana
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: FLORES/IPARRAGUIRRE/HENRRY-RICARDO
+     DNI: 69324480
+     Destino: Piura
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: IPARRAGUIRRE/PAREDES/RAUL
+     DNI: 28390487
+     Destino: Trujillo
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: GORDILLO/YINO/YVONNE-ROSARIO
+     DNI: 50222718
+     Destino: Piura
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: CASTILLO/ZAMORA/VICTOR-NESTOR
+     DNI: 36008913
+     Destino: Sullana
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: LANDEO/SUELDO/ADOLFO
+     DNI: 59608456
+     Destino: Tumbes
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: VARGAS/ALAMO/DANIEL
+     DNI: 92039993
+     Destino: Huaraz
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: TORREALBA/ARCA/VICTORIA-GLENDA
+     DNI: 79140840
+     Destino: Huaraz
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: PATINO/BOLANOS/DELICIA-VIRGINIA
+     DNI: 48537380
+     Destino: Sullana
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: CHUMPITAZ/ALCOCER/ANGEL-ERICK
+     DNI: 80294521
+     Destino: Trujillo
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: RAFFO/ARIAS/SURAMI-ANNIE
+     DNI: 54073409
+     Destino: Huaraz
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: MIRANDA/CHUMPITAZ/ALFONSO
+     DNI: 47925388
+     Destino: Tumbes
+     Valija: No 
+     Almuerzo: No 
+******************************************
+----------------------------------------------
+Placa: M3H-482
+Chofer: CABRERA/MORENO/DELIA-ESTEFANIA
+Ciudades: Lima Huacho Pasco  
+----------------------------------------------
+     Nombre: CABRERA/LUNA/SHIRLEY-ISABEL
+     DNI: 61358228
+     Destino: Huacho
+     Ariticulos: Pisco Whisky  
+******************************************
+     Nombre: BENAVENTE/ARANDA/MOISES
+     DNI: 87000267
+     Destino: Huacho
+     Ariticulos: Audifonos Vino Almohada  
+******************************************
+     Nombre: MORI/SUAREZ/EDILBERTO-JESUS
+     DNI: 67592501
+     Destino: Huacho
+     Ariticulos: Almohada Gaseosa Pisco Vino Audifonos  
+******************************************
+     Nombre: ORTIZ/DURAND/RAUL
+     DNI: 56196922
+     Destino: Huacho
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: FERNANDEZ/ORTEGA/ELIZABETH-ELIZABETH
+     DNI: 17366750
+     Destino: Huacho
+     Ariticulos: Audifonos Whisky  
+******************************************
+     Nombre: ROMERO/PALOMARES/GLORIA-TATIANA
+     DNI: 24304492
+     Destino: Huacho
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: VARGAS/GUEVARA/HUMBERTO-ALBERTO
+     DNI: 25669913
+     Destino: Huacho
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: RUIZ/RUIZ/OFELIA-DELIA
+     DNI: 86402303
+     Destino: Huacho
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: TORO/DE-LA-CUBA/DIALY-DIANA
+     DNI: 26976877
+     Destino: Huacho
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: HERNANDEZ/MALCA/VIRGINIA
+     DNI: 42928709
+     Destino: Huacho
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+----------------------------------------------
+Placa: G8Y-563
+Chofer: FLORENCIO/POLO/FIORELLA-ERIKA
+Ciudades: Lima Ayacucho Abancay  
+----------------------------------------------
+     Nombre: MUNOZ/VERGEL/EDGAR
+     DNI: 85152986
+     Destino: Abancay
+     Ariticulos: Gaseosa Pisco Vino Pantuflas Antifaz  
+******************************************
+     Nombre: VEGA/SORIA/HENRRY
+     DNI: 21589652
+     Destino: Abancay
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: PISCOYA/PORTUGAL/WALDEMAR-GUSTAVO
+     DNI: 17972674
+     Destino: Abancay
+     Ariticulos: Whisky Cobertor Audifonos  
+******************************************
+     Nombre: FORZANI/CARO/ALONSO
+     DNI: 48832211
+     Destino: Ayacucho
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: NARVAEZ/CASTILLO/JESUS-RAFAEL
+     DNI: 26247257
+     Destino: Ayacucho
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: MORALES/QUIROGA/SILVANA-GLENDA
+     DNI: 33321424
+     Destino: Ayacucho
+     Ariticulos: Almohada Pisco Audifonos  
+******************************************
+     Nombre: ASMAD/ACUNA/ANNIE-OFELIA
+     DNI: 60184235
+     Destino: Abancay
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: SUCHERO/EPIQUEN/EDGAR-JAVIER
+     DNI: 30013565
+     Destino: Abancay
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: VELASQUEZ/HUAYANAY/EDGARD-HENRY
+     DNI: 69965717
+     Destino: Abancay
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: AYALA/VIZCARDO/EDGAR-MANUEL
+     DNI: 18297138
+     Destino: Abancay
+     Ariticulos: Pantuflas  
+******************************************
+     Nombre: ASMAD/CHAVEZ/ADRIA
+     DNI: 59347357
+     Destino: Ayacucho
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: MIYAKE/MEREL/MADELEINE-YLIANA
+     DNI: 47241133
+     Destino: Ayacucho
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: PISCOYA/MALCA/MARIA-MONICA
+     DNI: 97403853
+     Destino: Abancay
+     Ariticulos: Cobertor Gaseosa Antifaz  
+******************************************
+     Nombre: MEJIA/ZEGARRA/GIOVANA
+     DNI: 91932848
+     Destino: Abancay
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: SHIRAKAWA/SAONA/VICTORIA-MILAGROS
+     DNI: 88830718
+     Destino: Ayacucho
+     Valija: No 
+     Almuerzo: No 
+******************************************
+----------------------------------------------
+Placa: W0O-821
+Chofer: CHUNG/ZUNIGA/ZKENIA-IRMA
+Ciudades: Lima Ayacucho Abancay Cuzco Puno  
+----------------------------------------------
+     Nombre: ESPINOZA/CASTRO/YDALI-GIOVANA
+     DNI: 90237332
+     Destino: Puno
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: DURAND/CASTRO/FLOR-MARTHA
+     DNI: 16151792
+     Destino: Cuzco
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: CALDERON/ORTEGA/GUILLERMO
+     DNI: 17182437
+     Destino: Puno
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: ZEGARRA/MUNOZ/SONIA-GUIDA
+     DNI: 42798099
+     Destino: Puno
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: CERNA/PAIRAZAMAN/FIORELLA-MARGOT
+     DNI: 58464455
+     Destino: Cuzco
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: BRAVO/VIZCARRA/ROBERTO
+     DNI: 96659352
+     Destino: Cuzco
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: MONTERO/MONTERO/ANNIE
+     DNI: 75432503
+     Destino: Cuzco
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: JUSTINO/CRUZ/WILLIAMS
+     DNI: 89473250
+     Destino: Puno
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: FIGUEROA/COLLADO/EVERT
+     DNI: 38934372
+     Destino: Cuzco
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: MEJIA/DIAZ/BLANCA-MILAGROS
+     DNI: 19336444
+     Destino: Puno
+     Ariticulos: Antifaz Gaseosa  
+******************************************
+     Nombre: HENRIQUEZ/LEYVA/FERNANDO-WALTER
+     DNI: 44248752
+     Destino: Cuzco
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: AYALA/LAURA/JANET
+     DNI: 85871751
+     Destino: Puno
+     Ariticulos: Pantuflas Pisco Vino  
+******************************************
+     Nombre: CARO/RARAZ/CHRISTIAN-RONAL
+     DNI: 40112594
+     Destino: Puno
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: MOYA/ARANDA/JOHNNY
+     DNI: 35679358
+     Destino: Puno
+     Ariticulos: Pisco Pantuflas  
+******************************************
+     Nombre: SHIRAKAWA/ORTEGA/ANGEL
+     DNI: 32395559
+     Destino: Cuzco
+     Ariticulos: Pantuflas Vino  
+******************************************
+     Nombre: CORTES/LANDA/SURAMI
+     DNI: 73185299
+     Destino: Cuzco
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: SAM/YALLICO/INES
+     DNI: 90665950
+     Destino: Puno
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: PORTUGAL/BENAVENTE/JOHANA-GLORIA
+     DNI: 99289525
+     Destino: Cuzco
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: MEJIA/HUAYANAY/CHRISTIAN-ALONSO
+     DNI: 31879918
+     Destino: Puno
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: SUCHERO/PRECIADO/MILAGROS-ERICKA
+     DNI: 55552996
+     Destino: Puno
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: CORREA/ARCA/HELI
+     DNI: 44679500
+     Destino: Puno
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: SANCHEZ/PRECIADO/SANDRO-WILMER
+     DNI: 97934179
+     Destino: Puno
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+----------------------------------------------
+Placa: Q6F-925
+Chofer: JOLAY/CHUMPITAZ/WALTER
+Ciudades: Lima Arequipa Juliaca Puno  
+----------------------------------------------
+     Nombre: DIAZ/REYES/WALTER-EDGAR
+     DNI: 41368424
+     Destino: Juliaca
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: DELGADO/GONZALES/GUILLERMO-ALFONSO
+     DNI: 61002359
+     Destino: Juliaca
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: WONG/MARTEL/MADELEINE
+     DNI: 56364198
+     Destino: Juliaca
+     Ariticulos: Audifonos Pisco  
+******************************************
+     Nombre: ARCA/AMEZQUITA/EDRIC-RONALD
+     DNI: 23086600
+     Destino: Juliaca
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: LAU/BACA/MONICA-TERESA
+     DNI: 24596637
+     Destino: Arequipa
+     Ariticulos: Pantuflas  
+******************************************
+     Nombre: GAVIDIA/MENDOZA/RONALD-JOHNNY
+     DNI: 19477308
+     Destino: Arequipa
+     Ariticulos: Antifaz  
+******************************************
+     Nombre: ZARATE/ACUNA/MILENA-CINTHIA
+     DNI: 84857574
+     Destino: Juliaca
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: MARTEL/ASMAD/BRUNO-ROBERTO
+     DNI: 21814849
+     Destino: Juliaca
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: CORRALES/TSUKAZAN/IRMA-LOURDES
+     DNI: 15171622
+     Destino: Juliaca
+     Ariticulos: Gaseosa Vino  
+******************************************
+     Nombre: GARCIA/ASTETE/VICTOR-EDGAR
+     DNI: 39082665
+     Destino: Juliaca
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: MARTEL/MERCADO/TERESA-TERESA
+     DNI: 32093968
+     Destino: Arequipa
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: BRAVO/CORTES/JANET-FLOR
+     DNI: 84265465
+     Destino: Juliaca
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: MORALES/VALVERDE/INES-MARTHA
+     DNI: 47632196
+     Destino: Arequipa
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: GONZALES/MALDONADO/ZKENIA-ERIKA
+     DNI: 22280452
+     Destino: Arequipa
+     Ariticulos: Cobertor Audifonos Antifaz Whisky  
+******************************************
+     Nombre: SUAREZ/BOLANOS/RAFAEL
+     DNI: 93553218
+     Destino: Arequipa
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: SORIA/CASTILLO/LUIS-GUSTAVO
+     DNI: 77642521
+     Destino: Arequipa
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: CORONEL/CHUMPITAZ/HELI
+     DNI: 58821689
+     Destino: Juliaca
+     Ariticulos: Audifonos Gaseosa  
+******************************************
+     Nombre: ACUNA/AYLLON/BLANCA-LUZ
+     DNI: 37787771
+     Destino: Juliaca
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: LAM/VIZCARDO/MILAGROS-YVONNE
+     DNI: 35584593
+     Destino: Arequipa
+     Valija: No 
+     Almuerzo: No 
+******************************************
+----------------------------------------------
+Placa: G7Y-809
+Chofer: TABORI/ARIAS/ROSARIO
+Ciudades: Lima Arequipa Cuzco Puerto-Maldonado  
+----------------------------------------------
+     Nombre: AYALA/ACUNA/RONY-ALEX
+     DNI: 87813843
+     Destino: Puerto-Maldonado
+     Ariticulos: Antifaz Cobertor Whisky Pisco  
+******************************************
+     Nombre: RAMIREZ/ASTETE/KARINA-ESTEFANIA
+     DNI: 15988939
+     Destino: Puerto-Maldonado
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: VILLEGAS/PALOMINO/DORIS-FREYSA
+     DNI: 94675504
+     Destino: Puerto-Maldonado
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: JUSTINO/LOYOLA/JENNY-MAGDA
+     DNI: 41036366
+     Destino: Puerto-Maldonado
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: ACUNA/YINO/ROCIO-YOLANDA
+     DNI: 35039741
+     Destino: Puerto-Maldonado
+     Ariticulos: Pantuflas Pisco  
+******************************************
+     Nombre: PINTO/CABELLO/SILVIA-FELICITA
+     DNI: 63437380
+     Destino: Puerto-Maldonado
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: VILLA/SEDANO/MARTIN-JUVENAL
+     DNI: 63627446
+     Destino: Puerto-Maldonado
+     Ariticulos: Audifonos  
+******************************************
+     Nombre: GONZALES/AGUIRRE/EMILIO-EMIGDIO
+     DNI: 39598526
+     Destino: Puerto-Maldonado
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: ARROYO/GORDILLO/MARIA-HELI
+     DNI: 28119151
+     Destino: Puerto-Maldonado
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: ZEGARRA/CASANOVA/ESTEFANIA
+     DNI: 20864087
+     Destino: Puerto-Maldonado
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: MARTINEZ/MARTINEZ/CARMELA
+     DNI: 99842319
+     Destino: Arequipa
+     Ariticulos: Gaseosa Audifonos Cobertor  
+******************************************
+     Nombre: MEREL/SALAZAR/ANNIE-LOURDES
+     DNI: 18843347
+     Destino: Puerto-Maldonado
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+----------------------------------------------
+Placa: F1D-694
+Chofer: RODRIGUEZ/SERRANO/CESAR-JAIME
+Ciudades: Lima Huancavelica Ayacucho  
+----------------------------------------------
+     Nombre: MORI/CARO/FREYSA
+     DNI: 97704824
+     Destino: Huancavelica
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: LOZADA/AGUERO/ANTONIO-ELOY
+     DNI: 73775471
+     Destino: Huancavelica
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: HIJAR/ARCA/ADOLFO
+     DNI: 11602775
+     Destino: Huancavelica
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: ARCA/LEIVA/DELICIA-ROSA
+     DNI: 99995135
+     Destino: Huancavelica
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: VILLA/YALLICO/TATIANA-NANCY
+     DNI: 20790905
+     Destino: Huancavelica
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: SOLIS/CHUNG/ROLANDO
+     DNI: 20229814
+     Destino: Huancavelica
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: AQUINO/BACA/ALEX
+     DNI: 99250306
+     Destino: Huancavelica
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: DURAND/VALVERDE/ENRIQUE-JORGE
+     DNI: 78377191
+     Destino: Huancavelica
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+----------------------------------------------
+Placa: I1X-633
+Chofer: VILCARA/JUGO/JULIO
+Ciudades: Lima Huancavelica Pasco Huanuco Tingo-Maria  
+----------------------------------------------
+     Nombre: TRIGUEROS/JUGO/LUZ
+     DNI: 48090595
+     Destino: Tingo-Maria
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: PRADO/VERGEL/CARLOS-JULIAN
+     DNI: 69990549
+     Destino: Tingo-Maria
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: CUBA/POMAJAMBO/VICTORIA-FIORELLA
+     DNI: 22344625
+     Destino: Tingo-Maria
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: VILLEGAS/LEIVA/FELICITA
+     DNI: 50349647
+     Destino: Tingo-Maria
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: NORABUENA/PRECIADO/CINTHIA
+     DNI: 47866569
+     Destino: Tingo-Maria
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: PALOMINO/ADAMS/SANDRO-RONALD
+     DNI: 90365520
+     Destino: Huanuco
+     Ariticulos: Cobertor Antifaz Vino Audifonos  
+******************************************
+     Nombre: PISCOYA/BRAVO/CESAR-BRUNO
+     DNI: 42593311
+     Destino: Tingo-Maria
+     Ariticulos: Almohada Antifaz  
+******************************************
+     Nombre: CASTRO/SUAREZ/ROLANDO
+     DNI: 99315346
+     Destino: Huanuco
+     Ariticulos: Audifonos Antifaz  
+******************************************
+     Nombre: TABORI/CARBAJAL/YDALI-MAGDA
+     DNI: 38637282
+     Destino: Tingo-Maria
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: BENAVENTE/ZIMIC/MADELEINE-ZKENIA
+     DNI: 43053402
+     Destino: Tingo-Maria
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: SALAZAR/CORRALES/LORENA-IRMA
+     DNI: 22899205
+     Destino: Huanuco
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+----------------------------------------------
+Placa: H7K-813
+Chofer: AMEZQUITA/CONTRERAS/HUMBERTO-ALFONSO
+Ciudades: Lima Huaraz Huanuco Moyobamaba  
+----------------------------------------------
+     Nombre: SUELDO/RUIZ/ANTONIO
+     DNI: 78239339
+     Destino: Moyobamaba
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: QUIO/GAVIDIA/DIALY-FELICITA
+     DNI: 93845419
+     Destino: Moyobamaba
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: CUBA/DURAND/YVONNE
+     DNI: 52097922
+     Destino: Moyobamaba
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: VERGEL/HIJAR/JESUS
+     DNI: 37110873
+     Destino: Moyobamaba
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: LUNA/CUEVA/RICHARD
+     DNI: 42157219
+     Destino: Moyobamaba
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: CORONADO/FIGUEROA/JOHAN
+     DNI: 52061162
+     Destino: Moyobamaba
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: CHUMPITAZ/CARBAJAL/MARITZA
+     DNI: 88956889
+     Destino: Moyobamaba
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: BERROCAL/YALLICO/ANNIE-SOFIA
+     DNI: 79372768
+     Destino: Moyobamaba
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: SALAS/PENA/KARINA-CARMEN
+     DNI: 99251008
+     Destino: Moyobamaba
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: SUAREZ/MORALES/AMARU
+     DNI: 80208319
+     Destino: Moyobamaba
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: PRECIADO/RIVERO/JOHANA
+     DNI: 42172802
+     Destino: Moyobamaba
+     Ariticulos: Vino Pantuflas Audifonos  
+******************************************
+     Nombre: PRECIADO/ADAMS/ERIKA-DELIA
+     DNI: 86828079
+     Destino: Moyobamaba
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: PALOMARES/BARRIOS/EDWARD-CESAR
+     DNI: 44229880
+     Destino: Moyobamaba
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: ANTEZANO/SEGURA/TERESA-DELIA
+     DNI: 74028555
+     Destino: Moyobamaba
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: FLORENCIO/CORONADO/ALONSO
+     DNI: 17266507
+     Destino: Huaraz
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: VILLEGAS/CASTRO/SOFIA-VIRGINIA
+     DNI: 33713901
+     Destino: Moyobamaba
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+----------------------------------------------
+Placa: W4M-272
+Chofer: SHIRAKAWA/FLORIAN/JAIME-JULIAN
+Ciudades: Lima Moquegua Tacna  
+----------------------------------------------
+     Nombre: PAREDES/PATINO/CHRISTIAN
+     DNI: 84551054
+     Destino: Moquegua
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: CORREA/VIZCARDO/MIGUEL
+     DNI: 45749698
+     Destino: Tacna
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: AURIS/SALAZAR/MADELEINE-GUIDA
+     DNI: 87027873
+     Destino: Tacna
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: VALVERDE/MAEIREIZO/MELVIN-JAIR
+     DNI: 72652460
+     Destino: Tacna
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: SOMA/PINTO/LOURDES-SONIA
+     DNI: 97738037
+     Destino: Tacna
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: DIAZ/VELASQUEZ/MARINA-OFELIA
+     DNI: 69937474
+     Destino: Moquegua
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: QUIROGA/CASANOVA/BRUNO
+     DNI: 15210391
+     Destino: Moquegua
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: VASQUEZ/PAZ/ALEX-MARTIN
+     DNI: 45232784
+     Destino: Tacna
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: PALOMARES/VERA/HENRRY-HUMBERTO
+     DNI: 29594780
+     Destino: Moquegua
+     Ariticulos: Pantuflas Whisky  
+******************************************
+----------------------------------------------
+Placa: S0M-437
+Chofer: COLLADO/VILLA/RAUL
+Ciudades: Lima Trujillo Piura Tumbes  
+----------------------------------------------
+     Nombre: GAVIDIA/ESCALANTE/EVERT-GONZALO
+     DNI: 63124303
+     Destino: Piura
+     Ariticulos: Pisco Whisky  
+******************************************
+     Nombre: RAFFO/CHUNG/ADRIA-GLORIA
+     DNI: 47917936
+     Destino: Tumbes
+     Ariticulos: Vino Audifonos  
+******************************************
+     Nombre: CHUNG/LEE/ALVARO
+     DNI: 18523250
+     Destino: Tumbes
+     Ariticulos: Almohada Vino  
+******************************************
+     Nombre: RUIZ/GORDILLO/CAROLA-ERIKA
+     DNI: 19291013
+     Destino: Trujillo
+     Ariticulos: Almohada  
+******************************************
+     Nombre: JUSTINO/CASTILLO/SANDRO-CHRISTIAN
+     DNI: 80048864
+     Destino: Tumbes
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: RETAMOSO/BARRERA/OSCAR
+     DNI: 98297137
+     Destino: Trujillo
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: AYALA/SANCHEZ/MARIA-TERESA
+     DNI: 73535476
+     Destino: Piura
+     Ariticulos: Pantuflas Vino Pisco Almohada  
+******************************************
+     Nombre: CABRERA/CANALES/GUILLERMO-EDRIC
+     DNI: 62935160
+     Destino: Piura
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: ARCA/VILCA/RONALD
+     DNI: 23928045
+     Destino: Tumbes
+     Ariticulos: Antifaz Audifonos Whisky  
+******************************************
+----------------------------------------------
+Placa: U3G-207
+Chofer: PEREZ/ANTEZANO/DAVID-CARLOS
+Ciudades: Lima Pisco Ica Nazca  
+----------------------------------------------
+     Nombre: GAMARRA/ALCOCER/VIRGINIA
+     DNI: 91897732
+     Destino: Nazca
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: MINAYA/CERNA/LORENA-FIORELLA
+     DNI: 43488351
+     Destino: Nazca
+     Ariticulos: Audifonos Antifaz Pisco Whisky  
+******************************************
+     Nombre: LANDA/PISCOYA/CHRISTIAN
+     DNI: 68445757
+     Destino: Pisco
+     Ariticulos: Pisco Vino  
+******************************************
+     Nombre: ZAMBRANO/MOSCOSO/OFELIA-MARIA
+     DNI: 65802912
+     Destino: Nazca
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: IPARRAGUIRRE/VILLEGAS/NICOLAS-EDILBERTO
+     DNI: 71984468
+     Destino: Pisco
+     Ariticulos: Audifonos Almohada Cobertor Whisky  
+******************************************
+     Nombre: PRADO/FALCON/EDGAR-RICHARD
+     DNI: 53759600
+     Destino: Pisco
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: HENRIQUEZ/ESPINO/BEATRIZ
+     DNI: 83302451
+     Destino: Pisco
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: VEGA/TSUKAZAN/VALENTINA
+     DNI: 40348917
+     Destino: Ica
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: YEP/ZAVALETA/ROSARIO-MARIBEL
+     DNI: 74067467
+     Destino: Pisco
+     Ariticulos: Gaseosa Cobertor Audifonos Almohada Vino  
+******************************************
+     Nombre: CHUMPITAZ/PALOMARES/VIRGINIA
+     DNI: 30057152
+     Destino: Nazca
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: GARCIA/YINO/AMERICO-WALDEMAR
+     DNI: 31193794
+     Destino: Nazca
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: ARCA/AQUINO/DELICIA
+     DNI: 19515050
+     Destino: Ica
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: HENRIQUEZ/PORTUGAL/ALEX
+     DNI: 53693075
+     Destino: Ica
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: BARRERA/FLORES/ENRIQUE
+     DNI: 12663268
+     Destino: Nazca
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: CERNA/HIJAR/JOSE-ROLANDO
+     DNI: 74032894
+     Destino: Nazca
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: MEJIA/FLORIAN/ARTURO
+     DNI: 41347722
+     Destino: Ica
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: PRADO/TORREALBA/CARMEN-JANET
+     DNI: 57263719
+     Destino: Ica
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: ALAMO/MEZA/ALVARO
+     DNI: 78922174
+     Destino: Pisco
+     Ariticulos: Pisco Whisky Almohada  
+******************************************
+     Nombre: CHANG/SEGURA/ANGEL
+     DNI: 94326707
+     Destino: Ica
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: TSUKAZAN/AYALA/MARINA-MAGDA
+     DNI: 26233063
+     Destino: Nazca
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: LOZADA/VALVERDE/MOISES-HENRRY
+     DNI: 43043986
+     Destino: Nazca
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: BARRERA/MIRANDA/ALEXANDER-MARTIN
+     DNI: 80528968
+     Destino: Pisco
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: MERCADO/CORONEL/ELIA
+     DNI: 90153517
+     Destino: Pisco
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: PEREZ/TORRES/MILAGROS-REBECA
+     DNI: 88995291
+     Destino: Ica
+     Ariticulos: Audifonos Pantuflas Almohada  
+******************************************
+     Nombre: HIJAR/YEP/WILLIAMS-CHRISTIAN
+     DNI: 53054602
+     Destino: Pisco
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+----------------------------------------------
+Placa: W4X-437
+Chofer: ZEGARRA/CABELLO/CINTHIA-MILENA
+Ciudades: Lima Chiclayo Paita Sullana Talara  
+----------------------------------------------
+     Nombre: YALLICO/PAREDES/LOURDES-CARMELA
+     DNI: 16552775
+     Destino: Paita
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: MEJIA/DE-LA-HAZA/FRANCISCO-EDGAR
+     DNI: 39417975
+     Destino: Talara
+     Ariticulos: Whisky Gaseosa  
+******************************************
+     Nombre: ASMAD/PINTO/MARIA-LORENA
+     DNI: 22777006
+     Destino: Paita
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: ALFARO/PRECIADO/JOHNNY
+     DNI: 89298238
+     Destino: Paita
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: CALIXTO/CASTILLO/ERICK-PAUL
+     DNI: 27329072
+     Destino: Talara
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: CORRALES/ZUNIGA/JENNY
+     DNI: 77191257
+     Destino: Paita
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: SAKAGUCHI/MORI/CARLOS-RONAL
+     DNI: 66066730
+     Destino: Paita
+     Ariticulos: Vino  
+******************************************
+     Nombre: ORTIZ/EPIQUEN/HENRY-ISRAEL
+     DNI: 73786035
+     Destino: Paita
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: ALAMO/ZEGARRA/ISRAEL-GUSTAVO
+     DNI: 98140264
+     Destino: Paita
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: VIZCARDO/SINCHE/MARIBEL
+     DNI: 76685676
+     Destino: Talara
+     Ariticulos: Pantuflas  
+******************************************
+     Nombre: FUENTES/TSUKAZAN/PATRICIA-OFELIA
+     DNI: 38913831
+     Destino: Paita
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: ESCALANTE/YINO/EDWARD-GONZALO
+     DNI: 13245501
+     Destino: Talara
+     Ariticulos: Cobertor Antifaz Pantuflas  
+******************************************
+     Nombre: CASANOVA/CARBAJAL/RICARDO-ISRAEL
+     DNI: 73914283
+     Destino: Paita
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: NORABUENA/VILLEGAS/ARTURO-RAFAEL
+     DNI: 57690875
+     Destino: Talara
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: ASTETE/SOLIS/FANNY
+     DNI: 78757121
+     Destino: Talara
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: LOZADA/IBEROS/HELI-BLANCA
+     DNI: 59602968
+     Destino: Paita
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: LOZADA/GONZALES/JAIME
+     DNI: 60574154
+     Destino: Talara
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: MERCADO/CARO/OFELIA-CARMEN
+     DNI: 90687076
+     Destino: Paita
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+----------------------------------------------
+Placa: M9J-101
+Chofer: NORABUENA/ZEGARRA/DELICIA
+Ciudades: Lima Huacho Cimbote  
+----------------------------------------------
+     Nombre: ARANDA/MINAYA/JANET-CINTHIA
+     DNI: 44888415
+     Destino: Cimbote
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: RONDON/EGUSQUIZA/CARMELA-VALENTINA
+     DNI: 33397650
+     Destino: Cimbote
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: GALLO/MARTINEZ/VICTOR-GUILLERMO
+     DNI: 49087435
+     Destino: Cimbote
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: LOZADA/ARGUEDAS/FELICITA-VALENTINA
+     DNI: 74217478
+     Destino: Cimbote
+     Valija: Sí 
+     Almuerzo: No 
+******************************************
+     Nombre: RIVERO/RETTO/JESUS
+     DNI: 36380447
+     Destino: Cimbote
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: HUAYANAY/CORTES/GLENDA-MARINA
+     DNI: 59162728
+     Destino: Cimbote
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: BENITES/SANCHEZ/MARGOT-DELICIA
+     DNI: 48467976
+     Destino: Cimbote
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: INGA/FLORES/CESAR-ADOLFO
+     DNI: 91510172
+     Destino: Cimbote
+     Ariticulos: Almohada Cobertor  
+******************************************
+     Nombre: EGUSQUIZA/BERROCAL/DORIS-NANCY
+     DNI: 90010594
+     Destino: Cimbote
+     Valija: No 
+     Almuerzo: No 
+******************************************
+     Nombre: SALAZAR/FLORENCIO/SANDRO-JOHNNY
+     DNI: 79901434
+     Destino: Cimbote
+     Valija: No 
+     Almuerzo: Sí 
+******************************************
+     Nombre: CAMACHO/AGUERO/ELIA-ROSA
+     DNI: 75454254
+     Destino: Cimbote
+     Ariticulos: Vino Cobertor  
+******************************************
+     Nombre: CABRERA/MORI/GLENDA
+     DNI: 62303425
+     Destino: Cimbote
+     Ariticulos: Pisco Gaseosa Whisky Almohada Antifaz  
+******************************************
+     Nombre: SAM/ESTRADA/MARINA-ESTEFANIA
+     DNI: 51673086
+     Destino: Cimbote
+     Valija: Sí 
+     Almuerzo: Sí 
+******************************************
+     Nombre: SERRANO/IPARRAGUIRRE/VIRGINIA
+     DNI: 89429489
+     Destino: Cimbote
+     Ariticulos: Almohada Antifaz Whisky Vino  
+******************************************
+----------------------------------------------

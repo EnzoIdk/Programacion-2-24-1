@@ -1,0 +1,1001 @@
+LIBROS
+IIM5175    Diamantes_y_pedernales                                       Jose_Maria_Arguedas                       0   30.23
+YDK7687    El_otonio_del_patriarca                                      Gabriel_Garcia_Marquez                   60   82.02
+ZOY6470    El_viejo_y_el_mar                                            Hernest_Hemingway                        23   68.01
+ETZ8565    Confesiones_de_una_mascara                                   Yukio_Mishima                            26  175.68
+LQL0880    Contra_el_fascismo                                           Umberto_Eco                              34   71.63
+VFZ9435    El_olor_de_la_Edad_Media                                     Javier_Traite                            44   96.28
+SFZ1256    La_Iliada                                                    Homero                                   32  154.35
+EDQ0577    Las_aventuras_de_Pinocho                                     Carlo_Collodi                            26   31.54
+YJI3961    Cien_anios_de_soledad                                        Gabriel_Garcia_Marquez                   43   99.35
+VPN5351    El_Amante                                                    Ana_Maria_Moix                           26  182.76
+PVS2464    Sapiens                                                      Yuval_Noah_Harari                        18  148.82
+DVL7760    Falco                                                        Arturo_Perez-Reverte                     55   98.18
+QRH6838    Las_cronicas_de_Narnia                                       C._S._Lewis                              40  162.37
+LDL2628    Harry_Potter_y_el_caliz_de_fuego_(Harry_Potter_4)            J.K._Rowling                              2  140.97
+SBU9053    Tierra_arrasada                                              Alfredo_Gonzalez_Ruibal                  33   53.71
+ZJM1292    El_suenio_del_celta                                          Mario_Vargas_Llosa                       52   66.03
+CRA4157    El_forastero_misterioso                                      Mark_Twain                               39  234.14
+RII8346    Las_dos_Dianas                                               Alejandro_Dumas                          22   69.63
+JBR9372    El_maestro_de_esgrima                                        Arturo_Perez-Reverte                     58    1.94
+NEO9165    Emperador_de_Roma                                            Mary_Beard                               64  234.34
+TBZ2657    Olalla                                                       Robert_Louis_Stevenson                    3   42.95
+IBP7411    Nunca                                                        Ken_Follett                              39   68.15
+GPH1575    La_gran_aventura_de_los_griegos                              Javier_Negrete                            3   11.18
+XIU2628    Cabo_Trafalgar                                               Arturo_Perez-Reverte                     18   34.25
+DDT0017    Viaje_al_fin_de_la_noche                                     Louis_Ferdinand_Celine                   38  125.28
+ILG7766    Iliada                                                       Homero                                    6  296.63
+HGQ0131    Odisea                                                       Homero                                   21   62.13
+HLB4548    Frankenstein_o_el_moderno_Prometeo                           Mary_W._Shelley                          18  118.29
+SQB7146    Cronica_de_una_muerte_anunciada                              Gabriel_Garcia_Marquez                   28   83.99
+VHK9148    Historia_y_cronologia_del_mundo                              Isaac_Asimov                             63   14.07
+MVU0233    La_conspiracioni                                             Dan_Brown                                59  192.02
+KWL0415    1923                                                         Roberto_Villa_Garcia                     20   78.57
+WPU8819    Tristam_Shandy                                               Laurence_Sterne                          43   59.08
+JTX5687    Veinte_mil_leguas_de_viaje_submarino                         Julio_Verne                              29   72.66
+HCT8192    Diario                                                       Ana_FranK                                62   99.10
+OMN0252    Los_hermanos_Karamazov                                       Fiodor_Dostoyevski                       42  241.73
+CKC4095    El_Gran_Gatsby                                               F._Scott_Fitzgerald                      22   32.40
+JLQ6546    El_retorno_del_Rey                                           J.R.R.Tolkien                            34   48.76
+MSW8176    Todo_se_desmorona                                            Chinua_Achebe                            23   37.03
+TDY0497    La_chica_del_tren                                            Paula_Hawkins                            40   62.79
+NBL8415    Espania_con_honra                                            Daniel_Aquillue                          47  252.00
+IMC3155    Los_pilares_de_la_tierra                                     Ken_Follett                              34  182.44
+FWK6327    El_doble                                                     Fiodor_Dostoyevski                       23  109.19
+GQC1814    Apocalipticos_e_integrados                                   Umberto_Eco                              25    1.08
+PRD1648    Relato_de_un_naufrago                                        Gabriel_Garcia_Marquez                   10   71.86
+SBF7018    El_handicap_de_la_vida                                       Rudyard_Kipling                           2   71.69
+LVP3355    Las_aventuras_de_Sherlock_Holmes                             Arthur_Conan_Doyle                       35   50.40
+FBO8724    El_pendulo_de_Foucault                                       Umberto_Eco                              63  104.07
+WCZ0845    El_cementerio_de_Praga                                       Umberto_Eco                               3  154.00
+WOF6634    El_problema_final                                            Arturo_Perez-Reverte                     62  174.46
+CUV7849    Ficciones                                                    Jorge_Luis_Borges                        50  255.52
+VMW6915    Travesuras_de_la_ninia_mala                                  Mario_Vargas_Llosa                        8  292.26
+MBQ9495    Tormenta_de_espadas                                          George_R.R.Martin                        24  202.58
+LQA8555    Rimas_y_leyendas                                             Gustavo_Adolfo_Becquer                   13  248.74
+IMK4892    La_tabla_de_Flandes                                          Arturo_Perez-Reverte                     18  272.34
+QCA9584    Dr._Jekyll_y_Mr._Hyde                                        Robert_Louis_Stevenson                   25  168.95
+XJT3661    Las_aventuras_de_Tom_Sawye                                   Mark_Twain                               64   36.07
+THT4126    Harry_Potter_y_las_reliquias_de_la_muerte_(Harry_Potter_7)   J._K._Rowling                            15  195.13
+PZP7176    La_caida_de_los_gigantes                                     Ken_Follett                              26   15.93
+UQL8643    Dracula                                                      Bram_Stoker                              22   15.12
+RLQ7170    El_tango_de_la_guardia_vieja                                 Arturo_Perez-Reverte                     63  114.29
+KTA8754    Ulises                                                       James_Joyce                              20   37.22
+TOJ1764    Ensayo_sobre_la_ceguera                                      Jose_Saramago                            38  154.27
+GWE4133    El_gato_negro_y_otros_cuentos                                Edgar_Allan_Poe                          63  298.03
+ZPD6557    El_ruido_y_la_furia                                          William_Faulkner                          9  267.59
+IUG2294    El_proceso                                                   Franz_Kafka                              15  129.10
+WGA2754    El_club_Dumas                                                Arturo_Perez-Reverte                      7  124.58
+YJE2497    Progreso_del_peregrino                                       John_Bunyan                              65   88.79
+XCC4070    El_italiano                                                  Arturo_Perez-Reverte                     14  111.54
+OBD2849    El_invierno_del_mundo                                        Ken_Follett                              50   76.39
+UCJ9882    El_reino_de_este_mundo                                       Alejo_Carpentier                         18   54.97
+QVU3526    Vidas_intrepidas                                             Julio_Albi_de_la_Cuesta                  45   49.89
+VTY5195    Un_asunto_de_honor                                           Arturo_Perez-Reverte                     48  184.37
+FKK6524    Los_renglones_torcidos_de_Dios                               Torcuato_Luca_de_Tena                    36   55.95
+KPE7420    Jane_Eyre                                                    Charlotte_Brontë                        30  288.51
+MWB2923    Mudlarking                                                   Lara_Maiklem                             54  195.24
+ISY5671    Harry_Potter_y_la_piedra_filosofal_(Harry_Potter_1)          J._K._Rowling                            23   33.90
+NBE1339    Palmeras_en_la_nieve                                         Luz_Gabas                                20  122.65
+JHP0390    El_conde_de_Montecristo                                      Alexandre_Dumas                           5  133.79
+OWU1533    Cuatro_principes                                             John_Julius_Norwich                      30  213.86
+SFR1226    Ana_la_de_las_tejas_verdes                                   Lucy_Maud_Montgomery                      1  193.39
+HRT0664    Los_funerales_de_la_Mama_Grande                              Gabriel_Garcia_Marquez                   41   76.33
+HPP3360    El_pintor_de_batallas                                        Arturo_Perez-Reverte                     49   12.72
+DND9446    Lo_que_el_viento_se_llevo                                    Margaret_Mitchell                        58  129.25
+LJD9991    Baudolino                                                    Umberto_Eco                               5  197.87
+XIU6076    Rebelion_en_la_granja                                        George_Orwell                            38  232.77
+PWX7633    La_tia_Julia_y_el_escribidor                                 Mario_Vargas_Llosa                       40  278.80
+UXZ2187    Los_7_habitos_de_la_gente_altamente_efectiva                 Stephen_R._Covey                         32  114.50
+UEJ1235    Grandes_esperanzas                                           Charles_Dickens                          62  129.07
+DDQ0721    En_busca_del_tiempo_perdido                                  Marcel_Proust                            48  250.24
+HWM4049    Romper_el_circulo                                            Colleen_Hoover                           59  201.21
+EWI3090    La_seniora_Dalloway                                          Virginia_Woolf                           16   46.34
+JZC7527    El_tambor_de_hojalata                                        Gunter_Grass                              0  147.44
+WYE2119    El_asedio                                                    Arturo_Perez-Reverte                     43   90.66
+YKQ9278    Alicia_en_el_pais_de_las_maravillas                          Lewis_Carroll                            22   94.02
+ZNF2241    El_extranio_caso_del_Dr._Jekyll_y_Mr._Hyde                   Robert_Louis_Stevenson                   47  187.19
+CTW5846    El_medievo_cristiano                                         Mario_Merlino                             0  213.41
+FWP8469    Justine_o_los_infortunios                                    Charles_Dickens                          30  260.00
+CRY6839    Ricardo_III                                                  William_Shakespeare                      38  159.10
+WMN3648    Pasaje_a_la_India                                            E._M._Forster                             3   61.94
+QBL9575    Los_miserables                                               Victor_Hugo                              51  287.51
+VOI0019    El_evangelio_según_Jesucristo                               Jose_Saramago                            51    2.32
+TMR5068    Los_tres_mosqueteros                                         Alejandro_Dumas                          51  254.78
+RWW7975    El_nombre_de_la_rosa                                         Umberto_Eco                              43  251.27
+LJE6687    El_codigo_Da_Vinci                                           Dan_Brown                                33  151.29
+PPI9259    Revolucion                                                   Arturo_Perez-Reverte                     53   89.88
+ZYF6683    Harry_Potter_y_la_Orden_del_Fenix_(_Harry_Potter_5)          J._K._Rowling                            25  280.76
+GKG6581    Hombres_buenos                                               Arturo_Perez-Reverte                     43  100.33
+WWT1581    La_piel_del_tambor                                           Arturo_Perez-Reverte                     54   15.88
+CMP1150    Don_Quijote_de_la_Mancha                                     Miguel_de_Cervantes                      25   19.50
+CPE5718    Paris_era_una_fiesta                                         Hernest_Hemingway                        49  254.78
+SHF2360    Un_dia_de_colera                                             Arturo_Perez-Reverte                     10   19.44
+ETV5056    Moby_Dick                                                    Herman_Melville                          31  199.59
+USE5598    Fortaleza_digitali                                           Dan_Brown                                36  212.47
+TVR7016    El_corazon_de_las_tinieblas                                  Joseph_Conrad                            31  196.32
+BSX2922    Una_historia_de_Espania                                      Arturo_Perez-Reverte                      0  146.19
+GXB5722    Cumbres_borrascosas                                          Emily_Brontë                            45  141.69
+ZLE2920    Historia_de_la_Edad_Media                                    Indro_Montanelli                         26  208.38
+MNL3677    El_Hobbit                                                    J.R.R._Tolkien                           39  205.14
+ZAL2738    1984                                                         George_Orwell                            33  107.80
+PQZ1316    La_Eneida                                                    Virgilio                                 43  110.29
+DDU0764    Dioses_tumbas_y_sabios                                       C._W._Ceram                               6   39.20
+EEJ4830    El_Principito                                                Antoine_de_Saint-Exupery                 50   82.02
+DPZ8059    El_hombre_que_pudo_reinar                                    Rudyard_Kipling                          21  159.18
+JJV7549    Los_hombres_que_no_amaban_a_las_mujeres                      Stieg_Larsson                            20  110.16
+JXK3142    En_el_camino                                                 Jack_Kerouac                             46  104.88
+USM9579    El_perfume                                                   Patrick_Suskind                          21  121.60
+JGG5049    El_eterno_marido                                             Fiodor_Dostoyevski                       51  138.03
+MIK5358    La_transformacion_del_mundo                                  Jürgen_Osterhammel                      30   41.61
+BDK4183    La_isla_del_tesoro                                           Robert_Louis_Stevenson                   28   49.99
+ECT0289    Juego_de_tronos                                              George_R.R.Martin                         8  223.26
+DVR5984    Mil_soles_esplendidos                                        Khaled_Hosseini                          22  145.32
+EBE0042    Capitanes_intrepidos                                         Rudyard_Kipling                          39  237.89
+CXW5879    Los_barcos_se_pierden_en_tierra                              Arturo_Perez-Reverte                     49   46.15
+GOG7446    El_guardian_entre_el_centeno                                 J._D._Salinger                           56  230.55
+QYH7021    Historia_del_siglo_XX:_1914-1991                             Eric_Hobsbawm                             1   26.46
+KCI5219    El_Maestro_y_Margarita                                       Mijail_Bulgakov                          21  251.70
+FMX8255    Las_aventuras_de_Huckleberry_Finn                            Mark_Twain                               53  137.78
+ZQY9966    El_suenio_del_tio                                            Fiodor_Dostoyevski                       28  235.88
+DXP8640    El_retrato_de_Dorian_Gray                                    Oscar_Wilde                              62   32.41
+LRV5687    La_guerra_del_fin_del_mundo                                  Mario_Vargas_Llosa                       63    7.82
+EBT7258    Linea_de_fuego                                               Arturo_Perez-Reverte                      2  201.06
+ELC8965    Las_aventuras_de_Rocambole                                   Ponson_Du_Terrail                        37   13.46
+ULM8751    La_sumisa                                                    Fiodor_Dostoyevski                        7  131.62
+PGK5617    El_Rey_Lear                                                  William_Shakespeare                      36   31.72
+QFG6515    El_libro_de_la_selva                                         Rudyard_Kipling                          60   53.38
+QVX9089    Madame_Bovary                                                Gustave_Flaubert                         27   86.76
+QMI4747    La_isla_de_los_amores_infinitos                              Daina_Chaviano                           25  189.13
+SMW0186    La_sombra_del_viento                                         Carlos_Ruiz_Zafon                        63  144.22
+HSE3213    Por_quien_doblan_las_campanas                                Hernest_Hemingway                        19   72.12
+RZX8790    El_senior_de_las_moscas                                      William_Golding                          20  197.01
+XMT1768    Los_diarios_de_Adan_y_Eva                                    Mark_Twain                               21  253.82
+HGN9910    La_ciudad_y_los_perros                                       Mario_Vargas_Llosa                       60   17.11
+JNC0786    Mi_isla                                                      Elisabet_Benavent                        45  291.57
+HHR5161    El_francotirador_paciente                                    Arturo_Perez-Reverte                     22  232.45
+FNM6936    Divina_comedia                                               Dante_Alighieri                          48  279.18
+HVZ1228    El_húsar                                                    Arturo_Perez-Reverte                     42  205.18
+MKB4184    Napoleon                                                     Alejandro_Dumas                          65  273.55
+KBF4088    Harry_Potter_y_el_prisionero_de_Azkaban_(Harry_Potter_3)     J.K._Rowling                             23  162.02
+ZQD4253    Harry_Potter_y_el_misterio_del_principe_(_Harry_Potter_6)    J._K._Rowling                            63  113.13
+PHL4155    El_idiota                                                    Fiodor_Dostoyevski                       19  194.39
+EYV0597    Cuentos_de_la_selva                                          Horacio_Quiroga                           2  250.81
+AKU9740    Conversacion_en_La_Catedral                                  Mario_Vargas_Llosa                       30  230.59
+ACM9578    Amadis_de_gaula                                              Garci_Rodriguez_Montalvo                 33   12.07
+OCI8959    David_Copperfield                                            Charles_Dickens                          63  140.94
+EJE8138    Yawar_fiesta                                                 Jose_Maria_Arguedas                      14  294.05
+WHU1288    La_hija_italiana                                             Soraya_Lane                              13   55.12
+ICU6090    La_fiesta_del_chivo                                          Mario_Vargas_Llosa                       13  104.59
+BUC5125    El_faro_de_Stalingrado                                       Iain_MacGregor                           25  101.02
+BUY4915    La_sombra_del_aguila                                         Arturo_Perez-Reverte                     21   72.44
+USK1312    Un_mundo_sin_fin                                             Ken_Follett                              50  102.92
+VFO4193    La_catedral_del_mar                                          Ildefonso_Falcones                       20  193.60
+OWO8918    Origen                                                       Dan_Brown                                60  125.45
+YZV6954    Corazon_de_las_tinieblas                                     Joseph_Conrad                            27   61.22
+CLG5566    Pantaleon_y_las_visitadoras                                  Mario_Vargas_Llosa                        0   79.21
+IUI3314    El_coronel_no_tiene_quien_le_escriba                         Gabriel_Garcia_Marquez                   31  128.38
+EFD3949    La_divina_comedia                                            Dante_Alighieri                          26    9.73
+FVV9246    Matar_a_un_ruisenior                                         Harper_Lee                               54   80.88
+SPM4763    Eva                                                          Arturo_Perez-Reverte                     17   83.27
+BHD6079    Zorba_el_griego                                              Nikos_Kazantzakis                         9   86.71
+RYI5447    El_corazon_es_un_cazador_solitario                           Carson_Mccullers                         13  108.89
+BUB3833    Otelo                                                        William_Shakespeare                      11  282.62
+EUO8195    El_jardin_del_Eden                                           Hernest_Hemingway                        11   34.50
+KSX7995    El_simbolo_perdidoi                                          Dan_Brown                                 6  157.98
+MTZ2227    Hamlet                                                       William_Shakespeare                      42  292.95
+JSM8271    La_Odisea                                                    Homero                                   50   29.60
+KVL6246    La_edad_media_-_barbaros_-_cristianos_y_musulmanes           Umberto_Eco                              17  265.01
+QMJ4188    Emma                                                         Jane_Austen                              20    9.10
+QKH2262    Fiesta                                                       Hernest_Hemingway                        21   83.83
+HXB2949    El_medico                                                    Noah_Gordon                              32  192.30
+OBH4691    Crimen_y_castigo                                             Fiodor_Dostoyevski                       61  101.85
+IPE3429    Sidi                                                         Arturo_Perez-Reverte                     48   69.56
+ILA4795    La_ladrona_de_libros                                         Markus_ZusaK                             38   66.39
+EFQ0297    Trampa_22                                                    Joseph_Heller                            31  199.81
+BRG4234    La_telarania_de_Carlota                                      E._B._White                              15  284.83
+EZP0333    La_Reina_del_Sur                                             Arturo_Perez-Reverte                     58   96.07
+MBB0685    El_capitan_Alatriste                                         Arturo_Perez-Reverte                     24  221.97
+CST1133    Inferno                                                      Dan_Brown                                 8   31.40
+RNG2321    El_Aleph                                                     Jorge_Luis_Borges                        34  238.45
+RSK1164    El_amor_en_los_tiempos_del_colera                            Gabriel_Garcia_Marquez                   21   91.91
+WYS2674    Secuestrado                                                  Robert_Louis_Stevenson                   54   71.22
+CRR5443    Un_mundo_feliz                                               Aldous_Huxley                            26   35.50
+JEN0751    Ana_Karenina                                                 Leon_Tolstoi                             50  146.88
+IGT8523    Una_columna_de_fuego                                         Ken_Follett                              20   46.11
+FYV9055    Macbeth                                                      William_Shakespeare                      40  147.76
+LGB2311    Decameron                                                    Giovanni_Boccaccio                        7  271.10
+MEH2993    Hijos_de_un_tiempo_perdido                                   Jose_Maria_Bermúdez_de_Castro            4  125.36
+CJN4376    Harry_Potter_y_la_camara_secreta_(Harry_Potter_2)            J._K._Rowling                             6  151.91
+ION3794    Crepúsculo                                                  Stephenie_Meyer                          46   25.97
+HDA2333    Lituma_en_los_Andes                                          Mario_Vargas_Llosa                       51  152.96
+CKR6798    El_lobo_estepario                                            Hermann_Hesse                            48  149.43
+GDA4236    Gente_normal                                                 Sally_Rooney                             61  115.31
+BAP2859    El_túnel                                                    Ernesto_Sabato                            5  132.00
+EHX6253    La_isla_de_las_tormentas                                     Ken_Follett                               6  266.04
+OUU5470    La_carta_esferica                                            Arturo_Perez-Reverte                     25  265.73
+PQB0775    El_diablo_de_la_botella_y_otros_cuentos                      Robert_Louis_Stevenson                   27  177.59
+DEF7625    Las_uvas_de_la_ira                                           John_SteinbecK                           19  278.27
+UDS2730    Los_Nibelungos                                               Anonimo                                  21  160.51
+DTH6788    Los_perros_duros_no_bailan                                   Arturo_Perez-Reverte                     20    5.00
+KLV1872    Orgullo_y_prejuicio                                          Jane_Austen                              52  185.25
+BUT4998    Lolita                                                       Vladimir_Nabokov                         27  246.78
+XBC5847    Tiempos_recios                                               Mario_Vargas_Llosa                       32  268.13
+AZL1098    El_extranjero                                                Albert_Camus                             65   28.90
+BZY0235    Fausto                                                       Johann_Wolfgang_Von_Goethe               17   55.75
+QQQ4712    Nuestra_Seniora_de_Paris                                     Victor_Hugo                              57  249.38
+BTX3816    El_jugador                                                   Fiodor_Dostoyevski                       51  232.71
+MLC7198    Los_rios_profundos                                           Jose_Maria_Arguedas                       6  141.87
+JZU0977    El_alquimista                                                Paulo_Coelho                             61  179.82
+AGQ7769    La_Flecha_Negra                                              Robert_Louis_Stevenson                   49   99.67
+BXE0974    Los_viajes_de_Gulliver                                       Jonathan_Swift                           61   44.79
+UFK9792    El_psicoanalista                                             John_Katzenbach                          39   60.52
+XRL3393    Le_dedico_mi_silencio                                        Mario_Vargas_Llosa                       45  138.16
+GUN8655    Angeles_y_demoniosi                                          Dan_Brown                                51   76.44
+NGQ6935    La_casa_de_los_espiritus                                     Isabel_Allende                           57  104.53
+PWB4941    La_montania_magica                                           Thomas_Mann                              63   22.15
+NEW1762    Territorio_comanche                                          Arturo_Perez-Reverte                     19  296.53
+QHZ8547    Adios_a_las_armas                                            Hernest_Hemingway                        49  246.91
+PCS8992    Y_no_quedo_ninguno                                           Agatha_Christie                          30   80.07
+VFI8064    A_sangre_fria                                                Truman_Capote                            23  254.69
+XTM9385    El_mundo                                                     Simon_Sebag_Montefiore                   63  155.79
+VDL9379    Los_juegos_del_hambre                                        Suzanne_Collins                          33  259.55
+IFL0150    Romeo_y_Julieta                                              William_Shakespeare                      60   35.64
+JZQ8143    Suenios_de_robot                                             Isaac_Asimov                             28   60.51
+SXT1015    Mientras_agonizo                                             William_Faulkner                          1   57.87
+KGO1734    Una_historia_del_mundo                                       Andrew_Marr                              12   47.90
+SMI7078    Los_cachorros                                                Mario_Vargas_Llosa                       26  148.98
+RAO4129    Stalingrado                                                  Jonathan_Trigg                           17   80.13
+VYG3594    Los_demonios                                                 Fiodor_Dostoyevski                        2  104.74
+HLC2748    El_senior_de_los_anillos_(Trilogia)                          J.R.R.Tolkien                            30   85.46
+GJM4671    Origenes                                                     Lewis_Dartnell                           36   50.78
+VYK6352    Armas_germenes_y_acero                                       Jared_Diamond                            34   65.26
+VSG3432    Bajo_bandera_negra                                           David_Cordingly                           5  220.82
+OQK1590    Cometas_en_el_cielo                                          Khaled_Hosseini                           3  100.56
+JXC1015    Robinson_Crusoe                                              Daniel_Defoe                             58   58.13
+TAB4639    El_color_que_cayo_del_cielo                                  H._P._Lovecraft                          41   26.91
+YXF2137    En_agosto_nos_vemos                                          Gabriel_Garcia_Marquez                   35  106.78
+SIR3963    Memorias_de_una_geisha                                       Arthur_Golden                            34  226.47
+ALH8812    Guerra_y_Paz                                                 Leon_Tolstoi                             48  296.10
+UCA0857    SPQR:_una_historia_de_la_antigua_Roma                        Mary_Beard                                9    8.77
+KLO8691    Catedral                                                     Raymond_Carver                           25  134.66
+HPM0950    Fahrenheit_451                                               Ray_Bradbury                             41  103.01
+JOF6762    Ojos_azules                                                  Arturo_Perez-Reverte                     43    1.24
+DEK2757    En_llamas                                                    Suzanne_Collins                           0   61.18
+RRE8138    Trilogia_de_la_Fundacion                                     Isaac_Asimov                             44  138.92
+JKE9650    La_metamorfosis                                              Franz_Kafka                              44  217.54
+BZX4462    Culpa_mia                                                    Mercedes_Ron                             37  174.37
+NFP3266    Sabotaje                                                     Arturo_Perez-Reverte                      2   29.28
+
+CLIENTES
+54393647  Reyes_Tang_Edward_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             13     UCJ9882       54.97
+             13     SPM4763       83.27
+             86     BSX2922      146.19
+             86     IBP7411       68.15
+             86     OWU1533      213.86
+Total a pagar:     566.44
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+67066631  Arca_Amezquita_Edric_Ronald
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             35     JZC7527      147.44
+             35     CST1133       31.40
+             35     KSX7995      157.98
+             35     DVR5984      145.32
+Total a pagar:     482.14
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+32231860  Cerna_Hijar_Jose_Rolando
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             19     DDQ0721      250.24
+             19     RWW7975      251.27
+Total a pagar:     501.51
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+14500753  Delgado_Gonzales_Guillermo_Alfonso
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             66     ALH8812      296.10
+             66     JLQ6546       48.76
+             66     OQK1590      100.56
+            116     JLQ6546       48.76
+            116     BUC5125      101.02
+            116     PQZ1316      110.29
+            116     ILA4795       66.39
+            120     LDL2628      140.97
+Total a pagar:     912.85
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+26916299  Chung_Lee_Alvaro_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+Total a pagar:       0.00
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+87804471  Diaz_Antezano_Magali_Silvana
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             42     JXK3142      104.88
+             42     ZPD6557      267.59
+             51     ELC8965       13.46
+             51     ZOY6470       68.01
+             64     RNG2321      238.45
+             64     ICU6090      104.59
+             64     CXW5879       46.15
+             87     VPN5351      182.76
+             87     EEJ4830       82.02
+Total a pagar:    1107.91
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+81462164  Fernandez_Ortega_Elizabeth_Elizabeth
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             59     EZP0333       96.07
+             59     CLG5566       79.21
+             65     CMP1150       19.50
+             95     ULM8751      131.62
+             95     TBZ2657       42.95
+             95     TOJ1764      154.27
+             95     EBT7258      201.06
+            110     KVL6246      265.01
+Total a pagar:     989.69
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+37500242  Pinto_Calixto_Shirley_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+Total a pagar:       0.00
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+45834351  Santisteban_Meza_Rosa_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             26     VFZ9435       96.28
+             26     BZY0235       55.75
+             26     TVR7016      196.32
+Total a pagar:     348.35
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+35030611  Cabrera_Luna_Shirley_Isabel
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             53     HRT0664       76.33
+             75     ZLE2920      208.38
+             75     BUT4998      246.78
+Total a pagar:     531.49
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+81082011  Shirakawa_Ortega_Angel_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             52     JXK3142      104.88
+             52     CXW5879       46.15
+             52     KBF4088      162.02
+             52     CRR5443       35.50
+             90     QRH6838      162.37
+            124     HPP3360       12.72
+            124     UQL8643       15.12
+            124     CRY6839      159.10
+Total a pagar:     697.86
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+92240876  Mejia_Diaz_Blanca_Milagros
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             22     BTX3816      232.71
+             22     DEK2757       61.18
+             41     SMI7078      148.98
+             41     RZX8790      197.01
+             41     EWI3090       46.34
+             41     OCI8959      140.94
+             79     KWL0415       78.57
+             79     VMW6915      292.26
+             79     PPI9259       89.88
+            121     QCA9584      168.95
+            121     VSG3432      220.82
+            121     MNL3677      205.14
+Total a pagar:    1882.78
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+45181396  Cerna_Durand_Martin_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             72     SFZ1256      154.35
+             72     BZY0235       55.75
+             72     XCC4070      111.54
+             98     KLO8691      134.66
+             98     UCJ9882       54.97
+Total a pagar:     511.27
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+45002711  Landeo_Sueldo_Adolfo_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             43     DPZ8059      159.18
+             43     AKU9740      230.59
+             43     KWL0415       78.57
+Total a pagar:     468.34
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+96056368  Raffo_Chung_Adria_Gloria
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             32     GOG7446      230.55
+             32     JXK3142      104.88
+             32     HHR5161      232.45
+Total a pagar:     567.88
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+38724322  Inga_Flores_Cesar_Adolfo
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             17     RSK1164       91.91
+             17     HGN9910       17.11
+             17     HWM4049      201.21
+            113     WCZ0845      154.00
+            113     CKC4095       32.40
+            113     ZYF6683      280.76
+            113     TMR5068      254.78
+Total a pagar:    1032.17
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+60740809  Lozada_Yino_Martha_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+              9     XTM9385      155.79
+              9     VSG3432      220.82
+              9     CTW5846      213.41
+             83     DDU0764       39.20
+             83     PPI9259       89.88
+             83     IFL0150       35.64
+Total a pagar:     754.74
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+49516360  Mendoza_Egusquiza_Rosario_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             68     PQZ1316      110.29
+            101     NBL8415      252.00
+            101     LQA8555      248.74
+            101     VFZ9435       96.28
+            118     EBT7258      201.06
+            118     YKQ9278       94.02
+            118     WCZ0845      154.00
+Total a pagar:    1156.39
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+34460612  Morales_Valverde_Ines_Martha
+Libros entregados:
+    Pedido No.     Codigo     Precio
+              1     CRY6839      159.10
+              1     VYG3594      104.74
+              3     PQZ1316      110.29
+              3     XCC4070      111.54
+             58     SFR1226      193.39
+             58     GUN8655       76.44
+             96     CKC4095       32.40
+             96     ZLE2920      208.38
+Total a pagar:     996.28
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+11750801  Raffo_Arias_Surami_Annie
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             18     KGO1734       47.90
+             18     CRY6839      159.10
+             18     HCT8192       99.10
+             18     VDL9379      259.55
+             45     WYE2119       90.66
+             70     KLV1872      185.25
+            125     GQC1814        1.08
+            125     ZQY9966      235.88
+            125     VOI0019        2.32
+            125     MVU0233      192.02
+Total a pagar:    1272.86
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+85870289  Paredes_Patino_Christian_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             56     HPP3360       12.72
+            122     SFZ1256      154.35
+            122     FWK6327      109.19
+Total a pagar:     276.26
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+20449598  Velasquez_Huayanay_Edgard_Henry
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             36     NEW1762      296.53
+             36     WMN3648       61.94
+             36     MLC7198      141.87
+Total a pagar:     500.34
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+72832218  Vega_Garcia_Janet_Rebeca
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             10     HWM4049      201.21
+             10     MNL3677      205.14
+             10     VMW6915      292.26
+             46     SQB7146       83.99
+             46     IMK4892      272.34
+            103     KWL0415       78.57
+            103     BDK4183       49.99
+            103     JSM8271       29.60
+Total a pagar:    1213.10
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+66747161  Vasquez_Paz_Alex_Martin
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             24     KGO1734       47.90
+             24     EEJ4830       82.02
+             24     WYE2119       90.66
+             74     RII8346       69.63
+             74     CRR5443       35.50
+Total a pagar:     325.71
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+88080249  Coronel_Chumpitaz_Heli_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             55     NEO9165      234.34
+             55     PZP7176       15.93
+             55     MEH2993      125.36
+             55     MBB0685      221.97
+             89     SQB7146       83.99
+             89     NFP3266       29.28
+             89     TAB4639       26.91
+Total a pagar:     737.78
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+61212473  Forzani_Caro_Alonso_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             54     JGG5049      138.03
+Total a pagar:     138.03
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+21344013  Aquino_Toro_Valentina_Rocio
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             31     PCS8992       80.07
+             31     UXZ2187      114.50
+             31     BXE0974       44.79
+             31     JEN0751      146.88
+             40     ZQD4253      113.13
+             40     USM9579      121.60
+             40     CKR6798      149.43
+             40     IMC3155      182.44
+             73     QQQ4712      249.38
+             73     IMK4892      272.34
+             73     PQZ1316      110.29
+             73     VFZ9435       96.28
+Total a pagar:    1681.13
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+76693511  Laura_Wong_Melvin_Henrry
+Libros entregados:
+    Pedido No.     Codigo     Precio
+            115     BUY4915       72.44
+            115     HGN9910       17.11
+            115     UDS2730      160.51
+Total a pagar:     250.06
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+79743481  Salas_Aguero_Daniel_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             67     EJE8138      294.05
+Total a pagar:     294.05
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+61039260  Cerna_Pairazaman_Fiorella_Margot
+Libros entregados:
+    Pedido No.     Codigo     Precio
+Total a pagar:       0.00
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+14142586  Piscoya_Bravo_Cesar_Bruno
+Libros entregados:
+    Pedido No.     Codigo     Precio
+Total a pagar:       0.00
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+36699613  Mejia_De_La_Haza_Francisco_Edgar
+Libros entregados:
+    Pedido No.     Codigo     Precio
+              7     SMW0186      144.22
+              7     SBU9053       53.71
+Total a pagar:     197.93
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+14268463  Diaz_Correa_Irma_Virginia
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             25     FYV9055      147.76
+             25     VFI8064      254.69
+             48     BZY0235       55.75
+             48     PQZ1316      110.29
+             48     IFL0150       35.64
+             48     JNC0786      291.57
+             88     IFL0150       35.64
+             88     VMW6915      292.26
+             88     EHX6253      266.04
+             88     XBC5847      268.13
+             93     ETZ8565      175.68
+            127     BHD6079       86.71
+            127     JLQ6546       48.76
+            127     AGQ7769       99.67
+Total a pagar:    2168.59
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+33958767  Perez_Farfan_Richard_Sandro
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             34     CRY6839      159.10
+             34     RZX8790      197.01
+             44     LRV5687        7.82
+             44     XIU6076      232.77
+             44     JZC7527      147.44
+Total a pagar:     744.14
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+86898639  Pasquel_Quio_Surami_Janet
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             20     XIU2628       34.25
+             20     UEJ1235      129.07
+             33     DEK2757       61.18
+             33     FMX8255      137.78
+             33     CJN4376      151.91
+Total a pagar:     514.19
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+20610190  Auris_Zimic_Javier_Daniel
+Libros entregados:
+    Pedido No.     Codigo     Precio
+Total a pagar:       0.00
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+             50     JZC7527
+----------------------------------------
+65071478  Arroyo_Gordillo_Maria_Heli
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             16     RWW7975      251.27
+             23     FYV9055      147.76
+             23     QRH6838      162.37
+             69     IPE3429       69.56
+             69     MWB2923      195.24
+            111     WOF6634      174.46
+            111     WPU8819       59.08
+Total a pagar:    1059.74
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+63602514  Shirakawa_Miranda_Madeleine_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             81     KPE7420      288.51
+             81     DVR5984      145.32
+             81     QKH2262       83.83
+Total a pagar:     517.66
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+51235238  Prado_Falcon_Edgar_Richard
+Libros entregados:
+    Pedido No.     Codigo     Precio
+              8     ZAL2738      107.80
+            123     JZQ8143       60.51
+            123     UXZ2187      114.50
+            123     VFZ9435       96.28
+Total a pagar:     379.09
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+37751890  Romero_Palomares_Gloria_Tatiana
+Libros entregados:
+    Pedido No.     Codigo     Precio
+              5     KWL0415       78.57
+              5     IMK4892      272.34
+             30     HGQ0131       62.13
+             30     RLQ7170      114.29
+             30     VMW6915      292.26
+             63     CRY6839      159.10
+             63     WGA2754      124.58
+             63     FNM6936      279.18
+             76     JBR9372        1.94
+             76     FWP8469      260.00
+             76     WPU8819       59.08
+             76     CKC4095       32.40
+             91     BTX3816      232.71
+             91     NEW1762      296.53
+             92     HPM0950      103.01
+             92     NBL8415      252.00
+             92     QVX9089       86.76
+            106     HPM0950      103.01
+Total a pagar:    2809.89
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+46582367  Justino_Forzani_Ericka_Victoria
+Libros entregados:
+    Pedido No.     Codigo     Precio
+              4     IIM5175       30.23
+              4     MBQ9495      202.58
+             78     EBT7258      201.06
+             78     QYH7021       26.46
+Total a pagar:     460.33
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+27109544  Henriquez_Espino_Beatriz_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             15     WWT1581       15.88
+             15     OBD2849       76.39
+             15     CMP1150       19.50
+             15     HSE3213       72.12
+             60     FNM6936      279.18
+             60     ECT0289      223.26
+             60     WWT1581       15.88
+Total a pagar:     702.21
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+17750908  Chumpitaz_Iberos_Ronal_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             27     QBL9575      287.51
+             27     DDQ0721      250.24
+             27     CKC4095       32.40
+             27     XJT3661       36.07
+            109     IUG2294      129.10
+            109     XIU2628       34.25
+            109     PQB0775      177.59
+            119     USE5598      212.47
+            119     ZYF6683      280.76
+            119     RYI5447      108.89
+Total a pagar:    1549.28
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+66152145  Hernandez_Barrios_Emilio_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+Total a pagar:       0.00
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+42302422  Maldonado_Ramirez_Silvana_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+              2     WPU8819       59.08
+              2     CTW5846      213.41
+             28     YZV6954       61.22
+             28     QKH2262       83.83
+             97     TAB4639       26.91
+             97     RWW7975      251.27
+             97     ZOY6470       68.01
+             97     KTA8754       37.22
+            108     QBL9575      287.51
+            108     WHU1288       55.12
+            108     RZX8790      197.01
+            108     JZQ8143       60.51
+Total a pagar:    1401.10
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+37328103  Palomares_Vera_Henrry_Humberto
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             71     EZP0333       96.07
+             71     YJI3961       99.35
+            102     MBQ9495      202.58
+            102     JXK3142      104.88
+            117     CST1133       31.40
+            117     LJD9991      197.87
+            117     OBH4691      101.85
+            117     KTA8754       37.22
+Total a pagar:     871.22
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+48053960  Corrales_Tsukazan_Irma_Lourdes
+Libros entregados:
+    Pedido No.     Codigo     Precio
+            126     VFZ9435       96.28
+            126     SQB7146       83.99
+            126     YZV6954       61.22
+Total a pagar:     241.49
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+83265244  Wong_Martel_Madeleine_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             57     JZU0977      179.82
+             57     PQB0775      177.59
+             57     WWT1581       15.88
+             57     EJE8138      294.05
+             80     BXE0974       44.79
+             80     ALH8812      296.10
+            104     PZP7176       15.93
+            104     HVZ1228      205.18
+            104     RSK1164       91.91
+            104     LJE6687      151.29
+Total a pagar:    1472.54
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+50860318  Salazar_Corrales_Lorena_Irma
+Libros entregados:
+    Pedido No.     Codigo     Precio
+            114     UDS2730      160.51
+Total a pagar:     160.51
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+87570336  Pairazaman_Alamo_Moises_Miguel
+Libros entregados:
+    Pedido No.     Codigo     Precio
+Total a pagar:       0.00
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+47659552  Prado_Vergel_Carlos_Julian
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             11     QMI4747      189.13
+             11     IUI3314      128.38
+             11     NFP3266       29.28
+             11     QRH6838      162.37
+             21     XIU6076      232.77
+             21     VFI8064      254.69
+             39     YJI3961       99.35
+             39     NBL8415      252.00
+             82     NGQ6935      104.53
+            112     HPP3360       12.72
+            112     KVL6246      265.01
+            112     OCI8959      140.94
+Total a pagar:    1871.17
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+57431952  Castro_Suarez_Rolando_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             84     DVL7760       98.18
+             84     USE5598      212.47
+             84     TBZ2657       42.95
+             99     VSG3432      220.82
+             99     JGG5049      138.03
+            100     JZQ8143       60.51
+            100     QHZ8547      246.91
+            100     UCA0857        8.77
+            100     BTX3816      232.71
+            107     CRR5443       35.50
+            107     MBQ9495      202.58
+            107     PHL4155      194.39
+Total a pagar:    1693.82
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+            107     DEK2757
+----------------------------------------
+58717040  Cabrera_Canales_Guillermo_Edric
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             85     FBO8724      104.07
+            105     YZV6954       61.22
+            105     BZY0235       55.75
+            105     RNG2321      238.45
+Total a pagar:     459.49
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+33583840  Villa_Yallico_Tatiana_Nancy
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             14     KSX7995      157.98
+             14     WPU8819       59.08
+             14     JJV7549      110.16
+             14     JBR9372        1.94
+             94     RWW7975      251.27
+             94     RLQ7170      114.29
+             94     RSK1164       91.91
+Total a pagar:     786.63
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+15129661  Valverde_Flores_Irma_Ydali
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             37     JSM8271       29.60
+             47     WOF6634      174.46
+             47     RAO4129       80.13
+             47     QCA9584      168.95
+             47     FMX8255      137.78
+Total a pagar:     590.92
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+65830353  Caro_Polo_Sandro_
+Libros entregados:
+    Pedido No.     Codigo     Precio
+             29     TOJ1764      154.27
+             29     EDQ0577       31.54
+             29     BZY0235       55.75
+             62     GWE4133      298.03
+             62     BDK4183       49.99
+             62     VSG3432      220.82
+             62     HPP3360       12.72
+             77     XIU2628       34.25
+             77     JSM8271       29.60
+             77     GDA4236      115.31
+             77     SMW0186      144.22
+Total a pagar:    1146.50
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------
+69200503  Norabuena_Preciado_Cinthia
+Libros entregados:
+    Pedido No.     Codigo     Precio
+              6     CPE5718      254.78
+              6     KGO1734       47.90
+              6     IUG2294      129.10
+              6     ILG7766      296.63
+             12     DVL7760       98.18
+             12     UEJ1235      129.07
+             38     JXK3142      104.88
+             38     IIM5175       30.23
+             38     ZQY9966      235.88
+             49     GKG6581      100.33
+             61     WYE2119       90.66
+             61     UXZ2187      114.50
+Total a pagar:    1632.14
+Libros no entregados por falta de stock:
+    Pedido No.     Codigo
+----------------------------------------

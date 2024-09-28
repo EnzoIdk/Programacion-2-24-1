@@ -1,0 +1,6 @@
+  DNI                              NOMBRE                 TELEFONO
+36934113                         Serrano/Arturo            343899369
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/17/2022           497687          Cardiologia          197.06
+MONTO TOTAL GASTADO: 197.06

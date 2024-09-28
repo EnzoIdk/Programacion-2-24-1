@@ -1,0 +1,71 @@
+Codigo Estante: AAA         Cantidad de libros: 3
+Dimensiones:    Ancho: 4    Alto: 6
+[   ][   ][   ][   ]
+[   ][   ][   ][   ]
+[   ][ * ][   ][   ]
+[ * ][ * ][   ][   ]
+[ * ][ * ][ * ][ * ]
+[ * ][ * ][ * ][ * ]
+CODIGO    NOMBRE                               ANCHO     ALTO
+ABC123    El libro de la Selva                   1         3
+CBA123    El libro de la Sierra                  1         4
+ABC321    El libro de la Costa                   2         2
+
+Codigo Estante: BBB         Cantidad de libros: 3
+Dimensiones:    Ancho: 8    Alto: 10
+[   ][   ][   ][   ][   ][   ][   ][   ]
+[   ][   ][   ][   ][   ][   ][   ][   ]
+[   ][   ][   ][   ][   ][   ][   ][   ]
+[ * ][ * ][   ][   ][   ][   ][   ][   ]
+[ * ][ * ][   ][   ][   ][   ][   ][   ]
+[ * ][ * ][ * ][ * ][   ][   ][   ][   ]
+[ * ][ * ][ * ][ * ][ * ][   ][   ][   ]
+[ * ][ * ][ * ][ * ][ * ][   ][   ][   ]
+[ * ][ * ][ * ][ * ][ * ][   ][   ][   ]
+[ * ][ * ][ * ][ * ][ * ][   ][   ][   ]
+CODIGO    NOMBRE                               ANCHO     ALTO
+CBA321    El libro del Peru                      2         7
+BBB123    Un libro mas                           2         5
+AAA321    El libro magico                        1         4
+
+Codigo Estante: CCC         Cantidad de libros: 1
+Dimensiones:    Ancho: 10    Alto: 10
+[ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ]
+[ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ]
+[ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ]
+[ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ]
+[ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ]
+[ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ]
+[ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ]
+[ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ]
+[ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ]
+[ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ][ * ]
+CODIGO    NOMBRE                               ANCHO     ALTO
+CCC333    Libro de relleno                      10        10
+
+
+Informacion de todos los libros
+ABC321    El libro de la Costa                   2         2
+Ciclo:      2
+
+CBA321    El libro del Peru                      2         7
+Ciclo:      4
+
+BBB123    Un libro mas                           2         5
+Ciclo:      8
+
+ABC123    El libro de la Selva                   1         3
+Profesor: Prof. Phan
+
+CBA123    El libro de la Sierra                  1         4
+Profesor: Prof. Calderon
+
+AAA321    El libro magico                        1         4
+Curso: PROGRA2
+
+CCC333    Libro de relleno                      10        10
+Curso: FUNSIS
+
+CCC123    NO SE PUDO COLOCAR                    11         5
+Curso: ALGORITMIA
+

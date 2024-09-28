@@ -1,0 +1,1456 @@
+Producto 1:
+ADX-669   Refrigeradora cap. 220 litros                               
+Precio:    1239.38       Stock:  11
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+01/09/2023  96659352         4
+
+Producto 2:
+AFL-718   Vinera                                                      
+Precio:    1664.97       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  26976877         5
+25/08/2023  49087435         1
+26/08/2023  78922174         5
+26/08/2023  77484838         1
+30/08/2023  50365593         5
+
+Producto 3:
+AHB-459   Reproductor DVD Portatil TV 7                               
+Precio:      685.5       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  12663268         3
+25/08/2023  79901434         3
+
+Producto 4:
+AQS-362   Teclado Inalambrico USB                                     
+Precio:     233.05       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  55552996         1
+25/08/2023  73786035         1
+27/08/2023  41036366         2
+29/08/2023  16151792         1
+30/08/2023  15210391         2
+
+Producto 5:
+ARS-231   Audifonos Stereos                                           
+Precio:     327.62       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+26/08/2023  78757121         4
+28/08/2023  71378466         6
+
+Producto 6:
+AVM-258   Cocina a gas Toscana                                        
+Precio:    2831.23       Stock:   4
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  77191257         6
+24/08/2023  45828535         2
+28/08/2023  35584593         4
+30/08/2023  73185299         3
+03/09/2023  62566305         1
+
+Producto 7:
+AWB-345   Deshumedecedor DM-189H                                      
+Precio:     800.37       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  13245501         1
+25/08/2023  93845419         5
+
+Producto 8:
+AWT-354   Galaxy Gear                                                 
+Precio:    3409.22       Stock:  12
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+31/08/2023  71463316         4
+02/09/2023  66409237         6
+
+Producto 9:
+BCK-361   Tablets 10.1                                                
+Precio:    1872.53       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  97403853         5
+26/08/2023  49087435         3
+29/08/2023  29847168         1
+
+Producto 10:
+BCN-855   Cocina a gas Bahia Can                                      
+Precio:    4015.92       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  81114108         4
+28/08/2023  71463316         4
+04/09/2023  38913831         3
+
+Producto 11:
+BIT-434   Campana Extractora modelo Glass                             
+Precio:     375.09       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+26/08/2023  71378466         4
+28/08/2023  59407188         6
+
+Producto 12:
+BMJ-772   Refrigeradora Side by Side                                  
+Precio:     936.32       Stock:  11
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+01/09/2023  40348917         1
+05/09/2023  12663268         1
+
+Producto 13:
+BRD-969   Centro de Lavado Electrico                                  
+Precio:    2579.72       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  93160528         5
+27/08/2023  95751208         4
+02/09/2023  98140264         1
+04/09/2023  66409237         3
+05/09/2023  73914283         3
+
+Producto 14:
+BTO-226   Friobar                                                     
+Precio:     863.19       Stock:  18
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  77484838         4
+29/08/2023  87800799         3
+
+Producto 15:
+BWD-036   Cocina Empotrable Klimatica                                 
+Precio:    1086.34       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  77191257         5
+
+Producto 16:
+BXY-119   Cocina Empotrable Klimatica                                 
+Precio:    2716.11       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+29/08/2023  31193794         5
+02/09/2023  13245501         5
+
+Producto 17:
+BZS-261   Cocina a gas Trento                                         
+Precio:    3087.87       Stock:   7
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+01/09/2023  35565959         1
+
+Producto 18:
+CIM-038   Cocina Empotrable Petra                                     
+Precio:    2544.64       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  11602775         4
+22/08/2023  73535476         3
+25/08/2023  35565959         4
+26/08/2023  94080926         2
+27/08/2023  25171011         1
+28/08/2023  86241107         2
+
+Producto 19:
+CJE-310   Mini componente GPX33                                       
+Precio:    3643.39       Stock:   8
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+28/08/2023  79464412         5
+02/09/2023  98140264         3
+
+Producto 20:
+CNN-411   Congeladora Side by Side                                    
+Precio:    2296.29       Stock:  13
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+29/08/2023  16552775         5
+31/08/2023  42798099         6
+
+Producto 21:
+CNQ-172   Congeladora Horizontal 364 Lts.                             
+Precio:    3689.62       Stock:   5
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  76388967         6
+25/08/2023  16151792         1
+05/09/2023  62566305         3
+
+Producto 22:
+CRU-009   Lavavajilla                                                 
+Precio:    2655.78       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  66409237         4
+
+Producto 23:
+CSZ-863   Video Filmadora                                             
+Precio:    1713.57       Stock:   5
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  57690875         5
+24/08/2023  95015539         2
+03/09/2023  79901434         5
+
+Producto 24:
+DEN-125   Rack Fijo 26/32                                             
+Precio:     562.46       Stock:  20
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+28/08/2023  73786035         4
+01/09/2023  17913944         1
+
+Producto 25:
+DEV-433   Parlantes portatiles SHOQBOX                                
+Precio:    2698.74       Stock:  10
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+26/08/2023  54761731         3
+
+Producto 26:
+DFF-034   Grabadora de voz digital portátil con USB integrado         
+Precio:     259.25       Stock:   8
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  78078115         2
+27/08/2023  79140840         3
+29/08/2023  98140264         2
+31/08/2023  81114108         5
+02/09/2023  66409237         4
+
+Producto 27:
+DFJ-952   Cocina a gas Prestige 60 INOX                               
+Precio:    3342.77       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+28/08/2023  35565959         2
+29/08/2023  77642521         5
+01/09/2023  84165595         1
+02/09/2023  78078115         5
+02/09/2023  40348917         2
+
+Producto 28:
+DIQ-718   Horno Microondas de Conveccion Cello                        
+Precio:      390.8       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+02/09/2023  69324480         1
+
+Producto 29:
+DON-719   Secadora de Cabello SG-3035                                 
+Precio:     360.69       Stock:   6
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+29/08/2023  69639726         1
+30/08/2023  15210391         2
+02/09/2023  24995742         3
+
+Producto 30:
+DOV-560   Impresora Laser Mutifuncion Monocromatica                   
+Precio:    1203.14       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+05/09/2023  76388967         2
+
+Producto 31:
+DUG-251   Cocina a gas FFG3047SL                                      
+Precio:    1597.96       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  81114108         5
+25/08/2023  93160528         2
+
+Producto 32:
+EBI-299   Cocina a gas Fridare                                        
+Precio:    2287.57       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  40112594         3
+25/08/2023  96258632         5
+29/08/2023  71463316         6
+
+Producto 33:
+EJW-346   Campana Extractora                                          
+Precio:      359.7       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  83505958         3
+02/09/2023  78922174         6
+
+Producto 34:
+EQY-018   Radio AM/FM stereo RMU-51C                                  
+Precio:     301.73       Stock:   7
+Producto 35:
+EUZ-452   Impresora Mutifuncional Led Color                           
+Precio:    3623.88       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+25/08/2023  87800799         2
+26/08/2023  90365520         6
+
+Producto 36:
+EVN-510   Cocina a gas FFG3011LB                                      
+Precio:     2672.3       Stock:  10
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  67418025         5
+
+Producto 37:
+FCN-617   Televisor Plasma 60                                         
+Precio:    4121.05       Stock:   5
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+31/08/2023  22777006         1
+
+Producto 38:
+FEG-454   Sillon masajeador                                           
+Precio:     1695.7       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  59162728         4
+29/08/2023  86241107         2
+31/08/2023  67418025         2
+
+Producto 39:
+FLJ-040   Parlantes portatiles SOUNDSHOOTER                           
+Precio:    3703.37       Stock:   4
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  40348917         2
+26/08/2023  38637282         6
+26/08/2023  27912250         3
+03/09/2023  73535476         4
+
+Producto 40:
+FLW-631   Radio Reloj Despertador                                     
+Precio:     819.04       Stock:   4
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  38913831         3
+
+Producto 41:
+FQG-293   Rapiducha Premiun                                           
+Precio:    2784.31       Stock:   8
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  55552996         1
+29/08/2023  95161027         4
+29/08/2023  62324793         1
+01/09/2023  78078115         4
+04/09/2023  69975105         5
+
+Producto 42:
+FVB-607   Cocina a gas Essenza BL                                     
+Precio:    2953.07       Stock:   7
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  54761731         5
+02/09/2023  89863424         1
+
+Producto 43:
+FVQ-662   Cocina a gas Pro 6300 INOX                                  
+Precio:    1060.68       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+28/08/2023  32565207         5
+28/08/2023  43053402         6
+03/09/2023  71378466         2
+
+Producto 44:
+FYF-898   Proyector a color                                           
+Precio:    1160.46       Stock:  13
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  15561764         2
+
+Producto 45:
+GBD-525   Refrigeradora Puertas Mágicas                               
+Precio:    2700.95       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+25/08/2023  52097922         5
+30/08/2023  87800799         6
+
+Producto 46:
+GBJ-693   Radio CD                                                    
+Precio:      314.2       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  45877001         5
+03/09/2023  96659352         3
+
+Producto 47:
+GKG-558   Horno Microondas MS2042D                                    
+Precio:    1674.24       Stock:  20
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+30/08/2023  26290971         3
+
+Producto 48:
+GLC-370   Video Proyector Power Lite 95                               
+Precio:     552.24       Stock:   7
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  42928709         6
+01/09/2023  28390487         2
+02/09/2023  79372768         4
+
+Producto 49:
+GXF-122   Televisor Ultra HDTV                                        
+Precio:    1110.16       Stock:   4
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  37110873         2
+26/08/2023  78757121         1
+30/08/2023  62566305         5
+02/09/2023  79420973         3
+
+Producto 50:
+HFC-845   Televisor Serie LED R555A                                   
+Precio:    3736.75       Stock:   7
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  36008913         6
+22/08/2023  86241107         3
+26/08/2023  13245501         6
+
+Producto 51:
+HFM-021   Horno Electrico                                             
+Precio:     726.91       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  15210391         1
+28/08/2023  69975105         6
+29/08/2023  88956889         6
+31/08/2023  86402303         6
+01/09/2023  84165595         6
+
+Producto 52:
+HLR-109   Parlantes inalambricos                                      
+Precio:     439.47       Stock:  15
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  44229880         5
+25/08/2023  88995291         2
+27/08/2023  79140840         1
+04/09/2023  36380447         2
+
+Producto 53:
+HTY-123   Refrigeradora GM-S604ULV                                    
+Precio:    1173.33       Stock:   1
+Producto 54:
+ICX-503   Cocina a gas Roma                                           
+Precio:    1221.02       Stock:   4
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  66409237         5
+25/08/2023  87800799         2
+26/08/2023  27912250         1
+05/09/2023  89298238         3
+
+Producto 55:
+IDO-503   Laptop GamerVictus de 15.6                                  
+Precio:    3935.17       Stock:  11
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+01/09/2023  16151792         6
+04/09/2023  32565207         6
+
+Producto 56:
+IHG-413   Parlant Y pedestal PAM-83                                   
+Precio:      317.7       Stock:   6
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  17913944         4
+04/09/2023  33397650         3
+
+Producto 57:
+III-576   Campana Extractora Venus Plus                               
+Precio:    1077.65       Stock:   5
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+26/08/2023  42157219         6
+27/08/2023  60574154         6
+01/09/2023  49087435         2
+02/09/2023  95161027         5
+04/09/2023  63437380         5
+
+Producto 58:
+ISB-205   Camara fotografica 16MP                                     
+Precio:    2976.43       Stock:   3
+Producto 59:
+ISU-815   Audifonos                                                   
+Precio:     619.89       Stock:   4
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  32821689         1
+24/08/2023  46462527         6
+27/08/2023  52097922         5
+
+Producto 60:
+JCW-489   Conservadora Exibidora CMVE-250                             
+Precio:    2064.97       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  13245501         5
+04/09/2023  69324480         5
+
+Producto 61:
+JDC-028   Puntero Laser                                               
+Precio:      30.48       Stock:   7
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  31193794         1
+24/08/2023  87800799         5
+02/09/2023  50365593         6
+
+Producto 62:
+JDQ-505   Lavadora Modelo Aquamatic                                   
+Precio:    1572.31       Stock:  13
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+31/08/2023  48467976         5
+02/09/2023  20864087         6
+
+Producto 63:
+JFC-432   DVD DVM-L79                                                 
+Precio:     307.67       Stock:   4
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  38913831         3
+24/08/2023  89148118         5
+27/08/2023  26233063         4
+27/08/2023  84165595         3
+02/09/2023  20864087         1
+04/09/2023  85949265         4
+
+Producto 64:
+JJN-837   Lavadora Tecnologia Wobbie                                  
+Precio:    1979.92       Stock:   7
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  71984468         5
+24/08/2023  11602775         2
+26/08/2023  11602775         1
+
+Producto 65:
+JXD-139   Terma Evolucion Soltu                                       
+Precio:     586.02       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  50375303         6
+24/08/2023  79464412         4
+25/08/2023  26976877         2
+30/08/2023  35565959         5
+01/09/2023  79140840         4
+04/09/2023  44229880         4
+05/09/2023  89298238         3
+
+Producto 66:
+JYQ-045   Horno Microondas 1.2 p3                                     
+Precio:     267.15       Stock:  14
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  15561764         6
+
+Producto 67:
+KBY-991   Home Theater E4100                                          
+Precio:    1101.08       Stock:   6
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+25/08/2023  58187172         6
+30/08/2023  45877001         6
+31/08/2023  90365520         6
+
+Producto 68:
+KCO-488   Ventilador de pared                                         
+Precio:      679.6       Stock:   6
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  35584593         1
+24/08/2023  24995742         4
+28/08/2023  42157219         2
+29/08/2023  71463316         5
+05/09/2023  46462527         4
+
+Producto 69:
+KDA-627   Cocina a gas Ijasmin                                        
+Precio:    1424.46       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+28/08/2023  60574154         5
+
+Producto 70:
+KJX-387   Ventilador de techo                                         
+Precio:     613.19       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+26/08/2023  73535476         4
+27/08/2023  78757121         4
+
+Producto 71:
+KQA-580   Cocina Empotrable Glassy Plus                               
+Precio:    2907.92       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  96659352         6
+30/08/2023  48184351         2
+04/09/2023  50375303         5
+05/09/2023  63437380         2
+
+Producto 72:
+KQQ-136   Impresora Laser EPSON                                       
+Precio:    1139.56       Stock:   4
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+26/08/2023  32904023         1
+27/08/2023  26976877         3
+28/08/2023  79475585         6
+30/08/2023  96659352         3
+
+Producto 73:
+KSO-608   Secadora Modelo Italica                                     
+Precio:     914.17       Stock:  12
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  40112594         6
+28/08/2023  26233063         3
+
+Producto 74:
+KWP-672   Televisor UHD TV                                            
+Precio:     1625.3       Stock:   5
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  90365520         6
+25/08/2023  87800799         2
+26/08/2023  42157219         6
+29/08/2023  46462527         3
+02/09/2023  77191257         2
+
+Producto 75:
+LDR-510   Mini componente ESX9                                        
+Precio:    2701.87       Stock:  10
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  87813843         6
+24/08/2023  85949265         6
+25/08/2023  73535476         2
+31/08/2023  62324793         1
+
+Producto 76:
+LWG-915   Cocina a gas Murano                                         
+Precio:    1101.47       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  27912250         4
+22/08/2023  27912250         1
+23/08/2023  23928045         2
+31/08/2023  46462527         6
+
+Producto 77:
+LYZ-614   Impresore Mutifuncional Expression XP-211                   
+Precio:    3510.84       Stock:  10
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+02/09/2023  59407188         3
+
+Producto 78:
+LZK-729   Cocina a gas Kristel                                        
+Precio:    2850.91       Stock:   3
+Producto 79:
+MLE-193   Cocina a gas Ingenious                                      
+Precio:    2779.41       Stock:   6
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  87813843         4
+
+Producto 80:
+MMA-577   Congeladora Horizontal 252 Lts.                             
+Precio:     1780.3       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  52097922         2
+25/08/2023  32821689         5
+02/09/2023  43053402         6
+
+Producto 81:
+MQR-442   Reloj Digital RMM-29                                        
+Precio:     271.66       Stock:  21
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+26/08/2023  86828079         3
+26/08/2023  83505958         1
+
+Producto 82:
+MTF-868   Impresora Monocromatica WorkForce M205                      
+Precio:     971.59       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  79464412         6
+25/08/2023  83236386         2
+04/09/2023  88995291         3
+
+Producto 83:
+MYC-756   Cocina a gas Leganza INOX                                   
+Precio:     1506.8       Stock:  15
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+28/08/2023  85871751         2
+02/09/2023  88956889         4
+
+Producto 84:
+NMV-644   Lavadora Automatica                                         
+Precio:    3272.48       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+28/08/2023  94080926         5
+
+Producto 85:
+NSM-283   Cocina a gas FFG3053SL                                      
+Precio:     936.81       Stock:   6
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+28/08/2023  42928709         5
+29/08/2023  79464412         2
+
+Producto 86:
+NSR-955   Cocina a gas Blogna                                         
+Precio:    2591.44       Stock:  12
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  93845419         2
+
+Producto 87:
+OBI-353   Terma Milenium                                              
+Precio:    2960.56       Stock:   5
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  73914283         4
+27/08/2023  73914283         1
+02/09/2023  79901434         6
+
+Producto 88:
+OFS-384   Parlantes Bluetooth                                         
+Precio:     805.22       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  81114108         3
+23/08/2023  83236386         1
+27/08/2023  38637282         1
+
+Producto 89:
+ONB-903   Reproductor BLU-RAY 3D                                      
+Precio:     653.67       Stock:  10
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+29/08/2023  53166028         3
+30/08/2023  32821689         3
+
+Producto 90:
+OPJ-039   Secadora de Ropa                                            
+Precio:    2765.64       Stock:   9
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  90365520         1
+28/08/2023  62324793         2
+
+Producto 91:
+OPT-996   Mini componente GPX88                                       
+Precio:    1367.48       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  69639726         3
+22/08/2023  25171011         6
+26/08/2023  83236386         2
+
+Producto 92:
+OQI-373   Cocina Empotrable Premio Plus                               
+Precio:     906.16       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  78757121         3
+24/08/2023  86402303         3
+25/08/2023  71378466         1
+26/08/2023  86402303         3
+27/08/2023  90237332         1
+27/08/2023  78922174         3
+28/08/2023  95161027         1
+31/08/2023  87813843         1
+03/09/2023  42798099         2
+
+Producto 93:
+OTH-462   Lavadora Semi-Automatica                                    
+Precio:     531.04       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  57263719         2
+28/08/2023  89863424         6
+30/08/2023  79140840         1
+31/08/2023  73185299         3
+03/09/2023  57263719         5
+
+Producto 94:
+OTS-581   Galaxy Note 8.0                                             
+Precio:     2653.1       Stock:  14
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+28/08/2023  42157219         5
+03/09/2023  54761731         5
+
+Producto 95:
+OTW-288   Cavba de Vinos GE cap. 34 botellas                          
+Precio:    1119.18       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  94080926         5
+23/08/2023  64394265         5
+24/08/2023  15210391         3
+
+Producto 96:
+OWN-701   Olla arrocera                                               
+Precio:     220.82       Stock:  13
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  36380447         5
+29/08/2023  52097922         2
+03/09/2023  59407188         1
+
+Producto 97:
+OXP-732   Televisor OLED 4K UHD Google TV Smart 77 XR-77A80L LA8      
+Precio:    16504.5       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  79901434         2
+27/08/2023  91897732         2
+28/08/2023  23928045         3
+
+Producto 98:
+PFD-286   Refrigeradora cap. 415 litros                               
+Precio:    2776.02       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  89298238         2
+23/08/2023  90237332         4
+04/09/2023  91897732         2
+
+Producto 99:
+PJG-338   Impresora Mutifuncional Inalambricar                        
+Precio:     1067.8       Stock:  14
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  49087435         1
+23/08/2023  78078115         2
+27/08/2023  63437380         2
+29/08/2023  45877001         2
+
+Producto 100:
+PPX-620   Aire acondicionado tipo split                               
+Precio:    2873.42       Stock:   7
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+28/08/2023  80048864         1
+
+Producto 101:
+PQH-935   Rack Giratorio 26/32                                        
+Precio:      94.45       Stock:  10
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  71984468         2
+
+Producto 102:
+PVZ-181   Ventilador circular                                         
+Precio:     309.77       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  90237332         5
+03/09/2023  26290971         3
+
+Producto 103:
+QFP-254   Calentador electrico instantaneo                            
+Precio:     180.65       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  71463316         6
+23/08/2023  12663268         5
+23/08/2023  73185299         5
+28/08/2023  43043986         5
+28/08/2023  89298238         2
+
+Producto 104:
+QFR-958   Cocina a gas Bavaro                                         
+Precio:    1607.46       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  45783712         3
+04/09/2023  27912250         3
+
+Producto 105:
+QHC-492   Terma Solucion                                              
+Precio:    1907.23       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  98140264         4
+22/08/2023  84165595         4
+23/08/2023  29337157         6
+29/08/2023  53166028         1
+30/08/2023  96258632         2
+
+Producto 106:
+QIL-029   Mini componente Shake-5                                     
+Precio:    2990.55       Stock:   4
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+30/08/2023  42928709         4
+31/08/2023  93845419         6
+31/08/2023  13245501         2
+
+Producto 107:
+QJO-060   Televisor LED FULL HD                                       
+Precio:    2704.14       Stock:  17
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+26/08/2023  45828535         6
+
+Producto 108:
+QQB-968   Refrigeradora 484 litros                                    
+Precio:    1452.92       Stock:   9
+Producto 109:
+QRC-609   Camara de video EOS                                         
+Precio:    1806.66       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  87800799         1
+24/08/2023  25171011         3
+30/08/2023  89863424         3
+02/09/2023  79140840         5
+04/09/2023  35565959         5
+
+Producto 110:
+QTK-083   Congeladora Conservador Vertical 476 Lts.                   
+Precio:    2682.73       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  89298238         3
+23/08/2023  43488351         6
+23/08/2023  93160528         3
+02/09/2023  55552996         1
+
+Producto 111:
+QUU-384   Lavavajilla Blue Touch                                      
+Precio:    2545.54       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  89429489         1
+
+Producto 112:
+QVJ-982   Horno Microondas 0.7 p3                                     
+Precio:    1352.76       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+28/08/2023  79372768         6
+01/09/2023  77191257         5
+
+Producto 113:
+RAH-420   Cocina a gas Pro 6550 INOX                                  
+Precio:     157.01       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  15561764         4
+
+Producto 114:
+RBE-789   Televisor SMART TV                                          
+Precio:    3303.07       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+29/08/2023  81114108         2
+30/08/2023  86402303         6
+03/09/2023  32904023         6
+
+Producto 115:
+RDT-761   Horno Microondas con dorador                                
+Precio:     904.95       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  45877001         5
+25/08/2023  42798099         6
+26/08/2023  59407188         5
+01/09/2023  19829266         3
+
+Producto 116:
+RSE-049   Radio CD/DVD - TV                                           
+Precio:    4037.51       Stock:  10
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  15210391         5
+22/08/2023  76388967         6
+
+Producto 117:
+SAM-013   Cocina a gas FFG3047SL                                      
+Precio:    2275.18       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  79372768         1
+
+Producto 118:
+SJD-818   Refrigeradora  CoolStyle 281A Steel                         
+Precio:    3387.75       Stock:  18
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+29/08/2023  55552996         1
+02/09/2023  41036366         4
+
+Producto 119:
+SJQ-827   Reproductor Multimedia Touch Screen                         
+Precio:    1719.56       Stock:  13
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  49087435         1
+25/08/2023  50375303         2
+28/08/2023  76388967         5
+
+Producto 120:
+SNY-500   Cocina a gas Praga Quarzo                                   
+Precio:    3297.09       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+25/08/2023  45783712         5
+25/08/2023  40348917         4
+29/08/2023  44229880         3
+
+Producto 121:
+SPR-580   Dispensador de Agua                                         
+Precio:     404.35       Stock:   6
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  20864087         1
+04/09/2023  94080926         5
+05/09/2023  54716824         3
+
+Producto 122:
+SSD-176   Refrigeradora Linea Gallery                                 
+Precio:     567.71       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  43877279         4
+24/08/2023  78078115         1
+27/08/2023  55552996         6
+31/08/2023  35584593         4
+01/09/2023  43043986         5
+02/09/2023  37110873         1
+
+Producto 123:
+SSE-115   Refrigeradora  CoolStyle 311N Steel                         
+Precio:    3243.58       Stock:  10
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  89863424         4
+28/08/2023  26976877         4
+01/09/2023  79420973         5
+
+Producto 124:
+TKM-141   Cocina a gas Marsella                                       
+Precio:     402.24       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  89148118         6
+28/08/2023  78922174         5
+30/08/2023  32565207         4
+30/08/2023  23928045         5
+02/09/2023  90237332         3
+
+Producto 125:
+TMJ-043   Lavadora EcoBubble                                          
+Precio:    2400.79       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  85949265         6
+21/08/2023  11602775         6
+22/08/2023  78078115         3
+31/08/2023  69975105         6
+
+Producto 126:
+TMN-884   Secadora de mano                                            
+Precio:     310.65       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  79140840         5
+24/08/2023  88956889         1
+03/09/2023  23928045         2
+04/09/2023  91897732         2
+
+Producto 127:
+TXM-139   Televisor LED FULL HD 3D                                    
+Precio:    1092.95       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  43043986         3
+26/08/2023  79901434         2
+
+Producto 128:
+TYF-885   Videojuego TW 4                                             
+Precio:     794.14       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  62566305         4
+24/08/2023  26290971         3
+
+Producto 129:
+TZY-323   Terma a gas                                                 
+Precio:    2341.01       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  50365593         1
+21/08/2023  95161027         5
+22/08/2023  26290971         5
+25/08/2023  57263719         6
+26/08/2023  77191257         3
+28/08/2023  45828535         6
+01/09/2023  71984468         1
+02/09/2023  15210391         3
+
+Producto 130:
+UCX-285   Galaxy Tab 3                                                
+Precio:    3290.93       Stock:   8
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+01/09/2023  22280452         3
+
+Producto 131:
+UDR-957   Refrigeradora ECOTT 423 IXL                                 
+Precio:      861.7       Stock:  15
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+29/08/2023  77484838         3
+31/08/2023  54716824         1
+
+Producto 132:
+UJV-290   Cocina a gas Fassina Plus                                   
+Precio:    2423.26       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+01/09/2023  89298238         4
+01/09/2023  83236386         5
+
+Producto 133:
+UOD-420   Mini componente ESX6                                        
+Precio:     828.94       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+03/09/2023  69324480         3
+03/09/2023  95751208         4
+
+Producto 134:
+UTN-601   Autoradio XAV-601 BT                                        
+Precio:     562.51       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  17972674         1
+03/09/2023  52097922         2
+
+Producto 135:
+UWA-476   Autoradio MEX BT3150U                                       
+Precio:    1191.39       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  37110873         2
+26/08/2023  17972674         4
+28/08/2023  71463316         3
+28/08/2023  77484838         1
+02/09/2023  88956889         6
+02/09/2023  33713901         2
+03/09/2023  73535476         5
+04/09/2023  26233063         1
+04/09/2023  88956889         3
+
+Producto 136:
+UXG-019   Terma de acumulacion                                        
+Precio:     934.91       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+25/08/2023  19829266         2
+27/08/2023  32565207         4
+28/08/2023  66409237         4
+01/09/2023  86241107         2
+03/09/2023  89429489         1
+
+Producto 137:
+VCL-867   Cocina a gas Rubi 2                                         
+Precio:     699.07       Stock:   4
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  25171011         1
+26/08/2023  81114108         1
+29/08/2023  25171011         3
+
+Producto 138:
+VDD-853   Deshumedecedor  FAD30D7TSSW 3.4L 25-30m2                    
+Precio:    1095.67       Stock:   5
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  49087435         2
+31/08/2023  37110873         4
+02/09/2023  90365520         5
+
+Producto 139:
+VJI-529   Horno Empotrable Electrico                                  
+Precio:    1102.67       Stock:   2
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  95161027         2
+24/08/2023  35565959         5
+02/09/2023  33397650         6
+05/09/2023  69324480         1
+
+Producto 140:
+VRR-793   Rack Giratorio 32/60                                        
+Precio:     241.71       Stock:   4
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  81114108         4
+23/08/2023  22280452         5
+26/08/2023  40348917         3
+29/08/2023  43053402         2
+30/08/2023  85949265         5
+31/08/2023  87800799         2
+05/09/2023  98589725         1
+
+Producto 141:
+VTV-269   Extractor de aire                                           
+Precio:     854.48       Stock:   5
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+03/09/2023  26976877         4
+
+Producto 142:
+VVS-017   Tablets MW 0731                                             
+Precio:    2599.72       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  45877001         4
+24/08/2023  50365593         3
+26/08/2023  95161027         5
+03/09/2023  33713901         1
+
+Producto 143:
+VXS-438   Mouse Blue Tooth                                            
+Precio:      60.11       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  58187172         2
+21/08/2023  89429489         1
+23/08/2023  69324480         3
+01/09/2023  13245501         3
+02/09/2023  15210391         4
+04/09/2023  50375303         4
+
+Producto 144:
+VZV-827   Refrigeradora Top Mount                                     
+Precio:    1784.27       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+24/08/2023  45783712         1
+26/08/2023  54761731         1
+
+Producto 145:
+WLL-607   Cocina Electronica Convencion                               
+Precio:    1525.04       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  91897732         1
+
+Producto 146:
+WZD-331   Refrigeradora ECOTT 465 IX                                  
+Precio:    1213.79       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  40348917         3
+22/08/2023  16151792         3
+
+Producto 147:
+XBD-314   Cocina a gas Fassina                                        
+Precio:     1444.9       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  78922174         2
+30/08/2023  62324793         5
+
+Producto 148:
+XLF-273   Centro de Lavado a Gas                                      
+Precio:    2371.95       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  43488351         5
+25/08/2023  11602775         4
+26/08/2023  57690875         4
+27/08/2023  17913944         4
+27/08/2023  22777006         2
+
+Producto 149:
+XOA-735   Congeladora Vertical 392 Lts.                               
+Precio:    2708.07       Stock:   5
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  78078115         2
+05/09/2023  13245501         5
+
+Producto 150:
+XSD-310   Refrigeradora No frost                                      
+Precio:    2259.93       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+26/08/2023  31611146         1
+27/08/2023  12663268         6
+29/08/2023  71378466         3
+31/08/2023  45828535         4
+01/09/2023  87813843         3
+
+Producto 151:
+XTE-383   Rack Fijo 32/60                                             
+Precio:     261.01       Stock:   4
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  57690875         6
+
+Producto 152:
+XZG-521   Secadora Electrica FAQE7001LW                               
+Precio:     704.27       Stock:  15
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+26/08/2023  26976877         3
+03/09/2023  52097922         4
+
+Producto 153:
+XZR-640   Lavadora-Secadora FWD                                       
+Precio:    2390.58       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  49087435         6
+22/08/2023  78078115         5
+
+Producto 154:
+YEZ-591   Lavadora WA                                                 
+Precio:    1320.03       Stock:   4
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+27/08/2023  63437380         5
+
+Producto 155:
+YGV-332   Impresora Led Color                                         
+Precio:    2517.66       Stock:  14
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+25/08/2023  77484838         3
+27/08/2023  86828079         1
+
+Producto 156:
+YJD-279   Cocina a gas Florencia                                      
+Precio:    1028.43       Stock:   5
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  17913944         5
+25/08/2023  62324793         5
+31/08/2023  97403853         3
+04/09/2023  50375303         5
+
+Producto 157:
+YMU-875   Cocina a gas Plermo Quarzo                                  
+Precio:     3232.1       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+28/08/2023  24995742         3
+29/08/2023  45828535         5
+
+Producto 158:
+YOT-530   Deshumedecedor DM-190H                                      
+Precio:     941.73       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  89298238         1
+25/08/2023  57263719         5
+27/08/2023  43053402         2
+02/09/2023  89298238         4
+
+Producto 159:
+YUQ-590   Refrigeradora  CoolStyle 395N Steel                         
+Precio:    1979.07       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  85949265         2
+22/08/2023  77484838         6
+27/08/2023  26976877         4
+29/08/2023  20864087         5
+31/08/2023  45783712         2
+
+Producto 160:
+YYK-309   Refrigeradora Door in Door                                  
+Precio:    4079.44       Stock:  13
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  64394265         6
+27/08/2023  11602775         3
+27/08/2023  22777006         3
+
+Producto 161:
+YYU-726   Reproductor DVD Portatil                                    
+Precio:     767.82       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  77642521         2
+01/09/2023  93160528         1
+03/09/2023  12663268         4
+05/09/2023  67418025         6
+
+Producto 162:
+YZD-580   Mini componente ESX8                                        
+Precio:    1582.29       Stock:   3
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  38913831         1
+
+Producto 163:
+ZAF-449   Tablet Cardle                                               
+Precio:     816.43       Stock:  13
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  26233063         2
+26/08/2023  99842319         1
+
+Producto 164:
+ZEX-027   Tablet Xperia Z                                             
+Precio:    3843.75       Stock:   5
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+21/08/2023  29337157         3
+31/08/2023  54716824         6
+01/09/2023  77191257         6
+03/09/2023  43043986         1
+03/09/2023  79901434         2
+
+Producto 165:
+ZVA-180   Refrigeradora 322 litros                                    
+Precio:    2903.13       Stock:   1
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+23/08/2023  50365593         6
+24/08/2023  33713901         6
+
+Producto 166:
+ZWF-661   Impresora Led                                               
+Precio:    2731.61       Stock:   0
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+25/08/2023  13245501         1
+
+Producto 167:
+ZXK-295   Cocina Empotrable Electrica                                 
+Precio:    3679.43       Stock:   5
+Pedidos aceptados: 
+Fechas      DNI          Cantidad
+22/08/2023  78757121         4
+

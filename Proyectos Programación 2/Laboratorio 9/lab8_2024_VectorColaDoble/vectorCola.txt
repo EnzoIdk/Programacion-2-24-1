@@ -1,0 +1,626 @@
+impresion libros
+Capacidad: 20
+Clase: H
+Id: 1
+Nombre: Diamantes y pedernales
+Paginas: 120
+Peso: 0.4
+Autor: Jose Maria Arguedas
+
+Nombre: ENCICLOPEDIA SALVAT
+Paginas: 2000
+Peso: 12
+Sku: 78323 Anho: 2015 Vigencia: 1
+
+Nombre: El otonio del patriarca
+Paginas: 105
+Peso: 0.5
+Autor: Gabriel Garcia Marquez
+
+Nombre: El viejo y el mar
+Paginas: 110
+Peso: 0.4
+Autor: Hernest Hemingway
+
+Nombre: Confesiones de una mascara
+Paginas: 80
+Peso: 0.3
+Autor: Yukio Mishima
+
+Nombre: La Iliada
+Paginas: 200
+Peso: 0.5
+Autor: Homero
+
+Nombre: Las aventuras de Pinocho
+Paginas: 120
+Peso: 0.4
+Autor: Carlo Collodi
+
+Nombre: Cien anios de soledad
+Paginas: 210
+Peso: 0.5
+Autor: Gabriel Garcia Marquez
+
+Nombre: Todo se desmorona
+Paginas: 100
+Peso: 0.4
+Autor: Chinua Achebe
+
+Nombre: LA ENCICLOPEDIA DE LOS BARCOS
+Paginas: 544
+Peso: 2
+Sku: 35902 Anho: 2014 Vigencia: 1
+
+Nombre: LA ENCICLOPEDIA DE LOS DINOSAURIOS
+Paginas: 448
+Peso: 2
+Sku: 36225 Anho: 2018 Vigencia: 1
+
+Nombre: La chica del tren
+Paginas: 100
+Peso: 0.4
+Autor: Paula Hawkins
+
+
+Capacidad: 10
+Clase: V
+Id: 2
+Nombre: Los pilares de la tierra
+Paginas: 98
+Peso: 0.3
+Autor: Ken Follett
+
+Nombre: El doble
+Paginas: 120
+Peso: 0.4
+Autor: Fiodor Dostoyevski
+
+Nombre: Apocalipticos e integrados
+Paginas: 120
+Peso: 0.4
+Autor: Umberto Eco
+
+Nombre: Boletin de Arqueologia PUCP
+Paginas: 40
+Peso: 0.25
+ISSN: 10292004 Anho: 2023 Vigencia: 1
+
+Nombre: Boletin de Arqueologia PUCP
+Paginas: 45
+Peso: 0.25
+ISSN: 10292004 Anho: 2023 Vigencia: 1
+
+Nombre: Boletin de Arqueologia PUCP
+Paginas: 48
+Peso: 0.25
+ISSN: 10292004 Anho: 2023 Vigencia: 1
+
+Nombre: Boletin de Arqueologia PUCP
+Paginas: 50
+Peso: 0.25
+ISSN: 10292004 Anho: 2022 Vigencia: 1
+
+Nombre: Boletin de Arqueologia PUCP
+Paginas: 52
+Peso: 0.25
+ISSN: 10292004 Anho: 2022 Vigencia: 1
+
+Nombre: Boletin de Arqueologia PUCP
+Paginas: 52
+Peso: 0.25
+ISSN: 10292004 Anho: 2021 Vigencia: 1
+
+Nombre: Boletin de Arqueologia PUCP
+Paginas: 52
+Peso: 0.25
+ISSN: 10292004 Anho: 2021 Vigencia: 1
+
+Nombre: Boletin de Arqueologia PUCP
+Paginas: 52
+Peso: 0.25
+ISSN: 10292004 Anho: 2019 Vigencia: 1
+
+Nombre: Relato de un naufrago
+Paginas: 120
+Peso: 0.4
+Autor: Gabriel Garcia Marquez
+
+Nombre: El handicap de la vida
+Paginas: 100
+Peso: 0.3
+Autor: Rudyard Kipling
+
+Nombre: Las aventuras de Sherlock Holmes
+Paginas: 104
+Peso: 0.4
+Autor: Arthur Conan Doyle
+
+Nombre: El pendulo de Foucault
+Paginas: 98
+Peso: 0.3
+Autor: Umberto Eco
+
+Nombre: El cementerio de Praga
+Paginas: 100
+Peso: 0.4
+Autor: Umberto Eco
+
+Nombre: El problema final
+Paginas: 100
+Peso: 0.4
+Autor: Arturo Perez-Reverte
+
+Nombre: Ficciones
+Paginas: 104
+Peso: 0.4
+Autor: Jorge Luis Borges
+
+Nombre: Travesuras de la ninia mala
+Paginas: 78
+Peso: 0.3
+Autor: Mario Vargas Llosa
+
+Nombre: Tormenta de espadas
+Paginas: 100
+Peso: 0.4
+Autor: George R.R.Martin
+
+Nombre: El evangelio seg n Jesucristo
+Paginas: 100
+Peso: 0.5
+Autor: Jose Saramago
+
+Nombre: Los tres mosqueteros
+Paginas: 100
+Peso: 0.3
+Autor: Alejandro Dumas
+
+Nombre: El nombre de la rosa
+Paginas: 105
+Peso: 0.6
+Autor: Umberto Eco
+
+Nombre: El codigo Da Vinci
+Paginas: 120
+Peso: 0.5
+Autor: Dan Brown
+
+Nombre: Revolucion
+Paginas: 120
+Peso: 0.5
+Autor: Arturo Perez-Reverte
+
+Nombre: Harry Potter y la Orden del Fenix ( Harry Potter 5)
+Paginas: 120
+Peso: 0.5
+Autor: J. K. Rowling
+
+Nombre: Hombres buenos
+Paginas: 120
+Peso: 0.5
+Autor: Arturo Perez-Reverte
+
+
+Capacidad: 15
+Clase: H
+Id: 3
+Nombre: Don Quijote de la Mancha
+Paginas: 120
+Peso: 0.7
+Autor: Miguel de Cervantes
+
+Nombre: Paris era una fiesta
+Paginas: 120
+Peso: 0.5
+Autor: Hernest Hemingway
+
+Nombre: Un dia de colera
+Paginas: 120
+Peso: 0.5
+Autor: Arturo Perez-Reverte
+
+Nombre: Moby Dick
+Paginas: 120
+Peso: 0.5
+Autor: Herman Melville
+
+Nombre: Fortaleza digitali
+Paginas: 120
+Peso: 0.5
+Autor: Dan Brown
+
+Nombre: El corazon de las tinieblas
+Paginas: 120
+Peso: 0.5
+Autor: Joseph Conrad
+
+Nombre: Una historia de Espania
+Paginas: 120
+Peso: 0.5
+Autor: Arturo Perez-Reverte
+
+Nombre: Cumbres borrascosas
+Paginas: 120
+Peso: 0.5
+Autor: Emily Bront
+
+Nombre: Historia de la Edad Media
+Paginas: 120
+Peso: 0.5
+Autor: Indro Montanelli
+
+Nombre: El Hobbit
+Paginas: 120
+Peso: 0.5
+Autor: J.R.R. Tolkien
+
+Nombre: 1984
+Paginas: 120
+Peso: 0.5
+Autor: George Orwell
+
+Nombre: La Eneida
+Paginas: 120
+Peso: 0.5
+Autor: Virgilio
+
+Nombre: Dioses tumbas y sabios
+Paginas: 120
+Peso: 0.5
+Autor: C. W. Ceram
+
+Nombre: El Principito
+Paginas: 80
+Peso: 0.4
+Autor: Antoine de Saint-Exupery
+
+Nombre: El hombre que pudo reinar
+Paginas: 120
+Peso: 0.5
+Autor: Rudyard Kipling
+
+Nombre: Los hombres que no amaban a las mujeres
+Paginas: 120
+Peso: 0.5
+Autor: Stieg Larsson
+
+Nombre: En el camino
+Paginas: 120
+Peso: 0.5
+Autor: Jack Kerouac
+
+Nombre: El perfume
+Paginas: 110
+Peso: 0.5
+Autor: Patrick Suskind
+
+Nombre: Educacion
+Paginas: 48
+Peso: 0.18
+ISSN: 10199403 Anho: 2024 Vigencia: 1
+
+Nombre: Educacion
+Paginas: 50
+Peso: 0.18
+ISSN: 10199403 Anho: 2023 Vigencia: 1
+
+Nombre: Educacion
+Paginas: 52
+Peso: 0.18
+ISSN: 10199403 Anho: 2023 Vigencia: 1
+
+Nombre: Educacion
+Paginas: 46
+Peso: 0.18
+ISSN: 10199403 Anho: 2023 Vigencia: 1
+
+Nombre: Educacion
+Paginas: 48
+Peso: 0.18
+ISSN: 10199403 Anho: 2022 Vigencia: 1
+
+Nombre: Educacion
+Paginas: 48
+Peso: 0.18
+ISSN: 10199403 Anho: 2022 Vigencia: 1
+
+Nombre: Educacion
+Paginas: 48
+Peso: 0.18
+ISSN: 10199403 Anho: 2022 Vigencia: 1
+
+Nombre: El eterno marido
+Paginas: 120
+Peso: 0.5
+Autor: Fiodor Dostoyevski
+
+Nombre: La transformacion del mundo
+Paginas: 120
+Peso: 0.5
+Autor: J rgen Osterhammel
+
+Nombre: La isla del tesoro
+Paginas: 120
+Peso: 0.5
+Autor: Robert Louis Stevenson
+
+Nombre: Juego de tronos
+Paginas: 120
+Peso: 0.7
+Autor: George R.R.Martin
+
+Nombre: Mil soles esplendidos
+Paginas: 120
+Peso: 0.5
+Autor: Khaled Hosseini
+
+Nombre: Capitanes intrepidos
+Paginas: 120
+Peso: 0.5
+Autor: Rudyard Kipling
+
+Nombre: Los barcos se pierden en tierra
+Paginas: 120
+Peso: 0.5
+Autor: Arturo Perez-Reverte
+
+Nombre: El guardian entre el centeno
+Paginas: 120
+Peso: 0.5
+Autor: J. D. Salinger
+
+
+Capacidad: 10
+Clase: H
+Id: 4
+Nombre: El Maestro y Margarita
+Paginas: 120
+Peso: 0.5
+Autor: Mijail Bulgakov
+
+Nombre: Las aventuras de Huckleberry Finn
+Paginas: 120
+Peso: 0.5
+Autor: Mark Twain
+
+Nombre: Los diarios de Adan y Eva
+Paginas: 120
+Peso: 0.5
+Autor: Mark Twain
+
+Nombre: La ciudad y los perros
+Paginas: 120
+Peso: 0.5
+Autor: Mario Vargas Llosa
+
+Nombre: Mi isla
+Paginas: 120
+Peso: 0.5
+Autor: Elisabet Benavent
+
+Nombre: El francotirador paciente
+Paginas: 120
+Peso: 0.5
+Autor: Arturo Perez-Reverte
+
+Nombre: Divina comedia
+Paginas: 150
+Peso: 0.7
+Autor: Dante Alighieri
+
+Nombre: Revista de Psicolog a
+Paginas: 50
+Peso: 0.2
+ISSN: 12549247 Anho: 2024 Vigencia: 1
+
+Nombre: Revista de Psicolog a
+Paginas: 48
+Peso: 0.2
+ISSN: 12549247 Anho: 2023 Vigencia: 1
+
+Nombre: Revista de Psicolog a
+Paginas: 40
+Peso: 0.2
+ISSN: 12549247 Anho: 2023 Vigencia: 1
+
+Nombre: Revista de Psicolog a
+Paginas: 45
+Peso: 0.2
+ISSN: 12549247 Anho: 2022 Vigencia: 1
+
+Nombre: Historica
+Paginas: 46
+Peso: 0.25
+ISSN: 2223375 Anho: 2023 Vigencia: 1
+
+Nombre: Historica
+Paginas: 48
+Peso: 0.25
+ISSN: 2223375 Anho: 2023 Vigencia: 1
+
+Nombre: Historica
+Paginas: 40
+Peso: 0.25
+ISSN: 2223375 Anho: 2022 Vigencia: 1
+
+Nombre: Historica
+Paginas: 45
+Peso: 0.25
+ISSN: 2223375 Anho: 2022 Vigencia: 1
+
+Nombre: Historica
+Paginas: 48
+Peso: 0.25
+ISSN: 2223375 Anho: 2022 Vigencia: 1
+
+Nombre: Historica
+Paginas: 50
+Peso: 0.25
+ISSN: 2223375 Anho: 2022 Vigencia: 1
+
+Nombre: Historica
+Paginas: 52
+Peso: 0.25
+ISSN: 2223375 Anho: 2019 Vigencia: 1
+
+Nombre: ENCICLOPEDIA VIDA SALVAJE DEL MUNDO
+Paginas: 480
+Peso: 2
+Sku: 17974 Anho: 2020 Vigencia: 1
+
+Nombre: ATLAS ILUSTRADO - MATEMATICAS E INFORMATICA
+Paginas: 252
+Peso: 1.5
+Sku: 46903 Anho: 2022 Vigencia: 1
+
+
+Capacidad: 15
+Clase: V
+Id: 5
+Nombre: La tabla de Flandes
+Paginas: 105
+Peso: 0.4
+Autor: Arturo Perez-Reverte
+
+Nombre: Dr. Jekyll y Mr. Hyde
+Paginas: 200
+Peso: 0.5
+Autor: Robert Louis Stevenson
+
+Nombre: Las aventuras de Tom Sawye
+Paginas: 200
+Peso: 0.5
+Autor: Mark Twain
+
+Nombre: Harry Potter y las reliquias de la muerte (Harry Potter 7)
+Paginas: 100
+Peso: 0.4
+Autor: J. K. Rowling
+
+Nombre: La caida de los gigantes
+Paginas: 104
+Peso: 0.4
+Autor: Ken Follett
+
+Nombre: Dracula
+Paginas: 102
+Peso: 0.4
+Autor: Bram Stoker
+
+Nombre: El tango de la guardia vieja
+Paginas: 102
+Peso: 0.4
+Autor: Arturo Perez-Reverte
+
+Nombre: Ulises
+Paginas: 100
+Peso: 0.5
+Autor: James Joyce
+
+Nombre: Ensayo sobre la ceguera
+Paginas: 88
+Peso: 0.4
+Autor: Jose Saramago
+
+Nombre: El gato negro y otros cuentos
+Paginas: 86
+Peso: 0.4
+Autor: Edgar Allan Poe
+
+Nombre: El ruido y la furia
+Paginas: 102
+Peso: 0.4
+Autor: William Faulkner
+
+Nombre: El proceso
+Paginas: 105
+Peso: 0.4
+Autor: Franz Kafka
+
+Nombre: El club Dumas
+Paginas: 98
+Peso: 0.7
+Autor: Arturo Perez-Reverte
+
+Nombre: Progreso del peregrino
+Paginas: 98
+Peso: 0.4
+Autor: John Bunyan
+
+Nombre: El italiano
+Paginas: 98
+Peso: 0.4
+Autor: Arturo Perez-Reverte
+
+Nombre: El invierno del mundo
+Paginas: 88
+Peso: 0.4
+Autor: Ken Follett
+
+Nombre: El reino de este mundo
+Paginas: 102
+Peso: 0.4
+Autor: Alejo Carpentier
+
+Nombre: Vidas intrepidas
+Paginas: 100
+Peso: 0.4
+Autor: Julio Albi de la Cuesta
+
+Nombre: Un asunto de honor
+Paginas: 100
+Peso: 0.4
+Autor: Arturo Perez-Reverte
+
+Nombre: Los renglones torcidos de Dios
+Paginas: 104
+Peso: 0.4
+Autor: Torcuato Luca de Tena
+
+Nombre: Jane Eyre
+Paginas: 105
+Peso: 0.4
+Autor: Charlotte Bront 
+
+Nombre: Mudlarking
+Paginas: 90
+Peso: 0.4
+Autor: Lara Maiklem
+
+Nombre: ANIMALES: UNA EXPLORACION DEL MUNDO ZOOLOGICO
+Paginas: 350
+Peso: 2.5
+Sku: 22685 Anho: 2018 Vigencia: 1
+
+Nombre: Harry Potter y la piedra filosofal (Harry Potter 1)
+Paginas: 87
+Peso: 0.4
+Autor: J. K. Rowling
+
+Nombre: Palmeras en la nieve
+Paginas: 98
+Peso: 0.4
+Autor: Luz Gabas
+
+Nombre: El conde de Montecristo
+Paginas: 120
+Peso: 0.7
+Autor: Alexandre Dumas
+
+Nombre: Alicia en el pais de las maravillas
+Paginas: 100
+Peso: 0.4
+Autor: Lewis Carroll
+
+Nombre: El extranio caso del Dr. Jekyll y Mr. Hyde
+Paginas: 100
+Peso: 0.7
+Autor: Robert Louis Stevenson
+
+Nombre: El medievo cristiano
+Paginas: 100
+Peso: 0.4
+Autor: Mario Merlino
+
+

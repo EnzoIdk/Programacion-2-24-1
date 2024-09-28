@@ -1,0 +1,686 @@
+                        EMPRESA PRESTADORA DE SALUP LP1
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+43704548                       Vizcardo/Maribel            960851431
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)09/09/2022           892133          Gastroenterologia          389.91
+02)08/01/2022           147871          Traumatologia          298.45
+03)01/27/2023           300822          Cardiologia          184.46
+MONTO TOTAL GASTADO: 872.82
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+36471787                            Pena/Glenda            480411757
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)01/16/2023           600493          Gastroenterologia          780.49
+02)08/14/2022           707896          Pediatria          19.29
+03)04/03/2023           909077          Dermatologia          470.72
+04)02/02/2023           197775          Oftalmologia          977.98
+MONTO TOTAL GASTADO: 2248.48
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+71422479                        Lozada/Felicita            680516877
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/17/2022           703676          Urologia          781.15
+02)10/01/2022           802270          Pediatria          170.85
+03)08/19/2022           800631          Gastroenterologia          256.05
+04)09/23/2022           146552          Oncologia          940.91
+05)08/22/2022           300822          Cardiologia          184.46
+MONTO TOTAL GASTADO: 2333.42
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+51465986                               Sam/Ines            676247212
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/05/2022           702339          Ginecologia          902.38
+02)08/17/2022           802270          Pediatria          170.85
+03)03/30/2023           800631          Gastroenterologia          256.05
+04)10/22/2022           300822          Cardiologia          184.46
+05)08/27/2022           354519          Pediatria          897.50
+06)09/09/2022           197775          Oftalmologia          977.98
+07)12/15/2022           305578          Neumologia          169.44
+MONTO TOTAL GASTADO: 3558.66
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+20371464                            Lozada/Heli            915825030
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/28/2022           147871          Traumatologia          298.45
+02)08/12/2022           197775          Oftalmologia          977.98
+03)09/13/2022           341150          Cardiologia          893.34
+04)04/07/2023           197775          Oftalmologia          977.98
+05)08/30/2022           907988          Traumatologia          758.51
+06)08/04/2022           807862          Ginecologia          997.38
+07)10/01/2022           150928          Dermatologia          756.45
+08)11/29/2022           354519          Pediatria          897.50
+09)03/30/2023           892133          Gastroenterologia          389.91
+MONTO TOTAL GASTADO: 6947.50
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+36934113                         Serrano/Arturo            343899369
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/17/2022           497687          Cardiologia          197.06
+02)09/01/2022           535567          Pediatria          410.37
+03)11/27/2022           909077          Dermatologia          470.72
+04)12/04/2022           601846          Traumatologia          738.90
+05)08/29/2022           182620          Urologia          981.29
+06)10/30/2022           520631          Traumatologia          792.07
+MONTO TOTAL GASTADO: 3590.41
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+15290194                    Hernandez/Guillermo            624395862
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)02/09/2023           892133          Gastroenterologia          389.91
+02)04/04/2023           707896          Pediatria          19.29
+03)09/06/2022           702694          Dermatologia          523.53
+04)08/29/2022           702694          Dermatologia          523.53
+05)08/14/2022           182620          Urologia          981.29
+06)08/09/2022           802270          Pediatria          170.85
+07)04/18/2023           807862          Ginecologia          997.38
+08)08/18/2022           702694          Dermatologia          523.53
+MONTO TOTAL GASTADO: 4129.31
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+85395219                       Fuentes/Patricia            890128958
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)01/26/2023           520631          Traumatologia          792.07
+02)08/17/2022           915098          Cardiologia          146.35
+03)12/29/2022           609349          Neumologia          526.45
+04)01/26/2023           305578          Neumologia          169.44
+05)02/06/2023           800404          Endocrinologia          4.56
+MONTO TOTAL GASTADO: 1638.87
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+93961840                     Pairazaman/Tatiana            753142166
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)10/02/2022           201895          Endocrinologia          854.93
+02)08/13/2022           354519          Pediatria          897.50
+03)09/01/2022           300822          Cardiologia          184.46
+04)02/06/2023           601846          Traumatologia          738.90
+05)08/01/2022           707896          Pediatria          19.29
+06)08/29/2022           300822          Cardiologia          184.46
+07)10/01/2022           146552          Oncologia          940.91
+08)11/13/2022           146552          Oncologia          940.91
+09)09/14/2022           709926          Gastroenterologia          525.59
+MONTO TOTAL GASTADO: 5286.95
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+61061535                            Solis/Maria            737275515
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/02/2022           497687          Cardiologia          197.06
+02)08/29/2022           404143          Ginecologia          55.48
+03)03/28/2023           150928          Dermatologia          756.45
+04)08/20/2022           336876          Oftalmologia          654.46
+05)08/18/2022           909295          Oftalmologia          405.69
+06)12/15/2022           600493          Gastroenterologia          780.49
+MONTO TOTAL GASTADO: 2849.63
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+62126128                         Durand/Enrique            122222040
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)02/28/2023           909077          Dermatologia          470.72
+02)08/01/2022           702694          Dermatologia          523.53
+03)10/17/2022           800404          Endocrinologia          4.56
+04)08/17/2022           909077          Dermatologia          470.72
+05)08/01/2022           909295          Oftalmologia          405.69
+06)08/17/2022           305578          Neumologia          169.44
+07)08/27/2022           182620          Urologia          981.29
+08)02/06/2023           187089          Ginecologia          176.60
+MONTO TOTAL GASTADO: 3202.55
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+54815159                         Patino/Delicia            206563313
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/03/2022           702694          Dermatologia          523.53
+02)10/27/2022           907988          Traumatologia          758.51
+03)02/12/2023           201895          Endocrinologia          854.93
+04)02/23/2023           709926          Gastroenterologia          525.59
+05)09/17/2022           182620          Urologia          981.29
+06)08/29/2022           800404          Endocrinologia          4.56
+07)03/18/2023           802270          Pediatria          170.85
+08)11/22/2022           909077          Dermatologia          470.72
+MONTO TOTAL GASTADO: 4289.98
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+91187814                          Narvaez/Jesus            217355048
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/27/2022           341150          Cardiologia          893.34
+02)08/16/2022           807862          Ginecologia          997.38
+03)10/15/2022           802270          Pediatria          170.85
+MONTO TOTAL GASTADO: 2061.57
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+51642949                        Miranda/Alfonso            922420457
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)02/09/2023           600493          Gastroenterologia          780.49
+02)02/16/2023           707896          Pediatria          19.29
+03)11/27/2022           201895          Endocrinologia          854.93
+04)08/03/2022           707896          Pediatria          19.29
+05)02/12/2023           801383          Geriatria          319.80
+06)03/30/2023           305578          Neumologia          169.44
+07)12/18/2022           187089          Ginecologia          176.60
+MONTO TOTAL GASTADO: 2339.84
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+45201670                         Guevara/Milena            903110724
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)03/18/2023           535567          Pediatria          410.37
+02)08/21/2022           907988          Traumatologia          758.51
+03)08/14/2022           201895          Endocrinologia          854.93
+MONTO TOTAL GASTADO: 2023.81
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+31284904                       Sakaguchi/Carlos            703752482
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/26/2022           497687          Cardiologia          197.06
+02)11/17/2022           800404          Endocrinologia          4.56
+03)08/27/2022           905627          Dermatologia          869.33
+04)03/07/2023           909077          Dermatologia          470.72
+MONTO TOTAL GASTADO: 1541.67
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+93282118                        Zambrano/Ofelia            138628867
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/06/2022           497687          Cardiologia          197.06
+02)08/30/2022           601846          Traumatologia          738.90
+03)09/19/2022           354519          Pediatria          897.50
+04)10/26/2022           147871          Traumatologia          298.45
+05)08/29/2022           807862          Ginecologia          997.38
+06)03/18/2023           341150          Cardiologia          893.34
+MONTO TOTAL GASTADO: 4022.63
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+34697743                           Ayala/Ericka            587272727
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/05/2022           909295          Oftalmologia          405.69
+02)09/01/2022           506117          Urologia          337.03
+03)08/04/2022           709926          Gastroenterologia          525.59
+MONTO TOTAL GASTADO: 1268.31
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+68114999                              Rios/Ines            893464725
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/14/2022           702339          Ginecologia          902.38
+02)08/26/2022           909295          Oftalmologia          405.69
+03)09/01/2022           907988          Traumatologia          758.51
+04)10/25/2022           201895          Endocrinologia          854.93
+05)08/19/2022           254488          Endocrinologia          496.87
+MONTO TOTAL GASTADO: 3418.38
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+95656771                          Raffo/Rolando            685781560
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)02/06/2023           187089          Ginecologia          176.60
+02)01/24/2023           909295          Oftalmologia          405.69
+03)08/03/2022           197775          Oftalmologia          977.98
+MONTO TOTAL GASTADO: 1560.27
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+54149342                            Leyva/Diana            373707475
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/30/2022           905627          Dermatologia          869.33
+02)08/26/2022           507183          Pediatria          264.21
+03)03/18/2023           300822          Cardiologia          184.46
+04)08/04/2022           907988          Traumatologia          758.51
+05)03/12/2023           341150          Cardiologia          893.34
+06)08/20/2022           702339          Ginecologia          902.38
+07)03/10/2023           709926          Gastroenterologia          525.59
+MONTO TOTAL GASTADO: 4397.82
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+99891737                       Contreras/Johana            973415589
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/15/2022           182620          Urologia          981.29
+02)09/09/2022           187089          Ginecologia          176.60
+03)12/06/2022           706122          Traumatologia          842.24
+04)03/07/2023           909295          Oftalmologia          405.69
+05)04/04/2023           150928          Dermatologia          756.45
+06)04/11/2023           404143          Ginecologia          55.48
+MONTO TOTAL GASTADO: 3217.75
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+93939698                      Henriquez/Silvana            459353442
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/29/2022           197775          Oftalmologia          977.98
+02)04/04/2023           150928          Dermatologia          756.45
+03)08/01/2022           609349          Neumologia          526.45
+04)11/29/2022           707896          Pediatria          19.29
+05)09/15/2022           702694          Dermatologia          523.53
+MONTO TOTAL GASTADO: 2803.70
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+32538825                           Hijar/Martin            552348311
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/20/2022           909077          Dermatologia          470.72
+02)03/10/2023           800404          Endocrinologia          4.56
+03)09/01/2022           341150          Cardiologia          893.34
+04)11/18/2022           600493          Gastroenterologia          780.49
+05)08/29/2022           915098          Cardiologia          146.35
+MONTO TOTAL GASTADO: 2295.46
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+63640178                       Rodriguez/Blanca            979357318
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)10/04/2022           802270          Pediatria          170.85
+02)01/14/2023           506117          Urologia          337.03
+03)08/09/2022           702694          Dermatologia          523.53
+MONTO TOTAL GASTADO: 1031.41
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+35852072                        Jauregui/Victor            954019148
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)12/14/2022           600493          Gastroenterologia          780.49
+02)01/16/2023           187089          Ginecologia          176.60
+03)12/06/2022           305578          Neumologia          169.44
+04)04/11/2023           609349          Neumologia          526.45
+05)08/19/2022           706122          Traumatologia          842.24
+06)03/18/2023           702694          Dermatologia          523.53
+MONTO TOTAL GASTADO: 3018.75
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+72330000                           Vega/Carmela            322515219
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/26/2022           702694          Dermatologia          523.53
+02)02/09/2023           905627          Dermatologia          869.33
+03)08/09/2022           520631          Traumatologia          792.07
+04)09/01/2022           707896          Pediatria          19.29
+05)03/30/2023           507183          Pediatria          264.21
+06)10/26/2022           187089          Ginecologia          176.60
+MONTO TOTAL GASTADO: 2645.03
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+80694546                         Ramirez/Karina            976115294
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/29/2022           702339          Ginecologia          902.38
+02)04/11/2023           800404          Endocrinologia          4.56
+03)08/30/2022           201895          Endocrinologia          854.93
+04)08/02/2022           909295          Oftalmologia          405.69
+MONTO TOTAL GASTADO: 2167.56
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+81647285                            Vega/Henrry            966706570
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)03/15/2023           706122          Traumatologia          842.24
+02)04/18/2023           609349          Neumologia          526.45
+03)08/01/2022           909077          Dermatologia          470.72
+04)01/16/2023           702339          Ginecologia          902.38
+MONTO TOTAL GASTADO: 2741.79
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+72973662                          Vargas/Daniel            323159471
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/19/2022           800631          Gastroenterologia          256.05
+02)02/09/2023           254488          Endocrinologia          496.87
+03)12/29/2022           907988          Traumatologia          758.51
+MONTO TOTAL GASTADO: 1511.43
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+93231760                       Zarate/Alexander            896774499
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)10/27/2022           146552          Oncologia          940.91
+02)03/27/2023           609349          Neumologia          526.45
+03)08/16/2022           147871          Traumatologia          298.45
+04)03/30/2023           535567          Pediatria          410.37
+MONTO TOTAL GASTADO: 2176.18
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+77324146                          Moscoso/Janet            740909448
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)10/25/2022           254488          Endocrinologia          496.87
+02)12/29/2022           305578          Neumologia          169.44
+03)11/22/2022           201895          Endocrinologia          854.93
+04)03/28/2023           801383          Geriatria          319.80
+05)12/01/2022           915098          Cardiologia          146.35
+MONTO TOTAL GASTADO: 1987.39
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+51873364                          Calixto/Erick            175280362
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)10/22/2022           702694          Dermatologia          523.53
+02)12/29/2022           150928          Dermatologia          756.45
+03)08/03/2022           201895          Endocrinologia          854.93
+MONTO TOTAL GASTADO: 2134.91
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+45914393                         Lozada/Antonio            356363924
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/21/2022           197775          Oftalmologia          977.98
+02)08/19/2022           892133          Gastroenterologia          389.91
+03)01/24/2023           341150          Cardiologia          893.34
+04)12/20/2022           497687          Cardiologia          197.06
+MONTO TOTAL GASTADO: 2458.29
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+35347567                            Sedano/Elia            470481309
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)04/07/2023           609349          Neumologia          526.45
+02)08/23/2022           909077          Dermatologia          470.72
+MONTO TOTAL GASTADO: 997.17
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+34571095                          Infantes/Luis            539722326
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)04/02/2023           801383          Geriatria          319.80
+MONTO TOTAL GASTADO: 319.80
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+49357767                          Solis/Rolando            268485732
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)03/12/2023           600493          Gastroenterologia          780.49
+02)08/04/2022           800631          Gastroenterologia          256.05
+03)10/02/2022           146552          Oncologia          940.91
+MONTO TOTAL GASTADO: 1977.45
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+13731806                     Salamanca/Virginia            504346365
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)11/08/2022           801383          Geriatria          319.80
+02)01/11/2023           702694          Dermatologia          523.53
+03)11/16/2022           644057          Oftalmologia          232.61
+04)08/24/2022           187089          Ginecologia          176.60
+05)08/08/2022           520631          Traumatologia          792.07
+06)08/24/2022           800631          Gastroenterologia          256.05
+07)08/08/2022           187089          Ginecologia          176.60
+MONTO TOTAL GASTADO: 2477.26
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+22679759                            Bravo/Janet            639486017
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)03/07/2023           187089          Ginecologia          176.60
+02)01/21/2023           187089          Ginecologia          176.60
+MONTO TOTAL GASTADO: 353.20
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+94683380                          Farfan/Margot            654189411
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/17/2022           801383          Geriatria          319.80
+02)09/06/2022           520631          Traumatologia          792.07
+03)02/01/2023           709926          Gastroenterologia          525.59
+04)09/09/2022           336876          Oftalmologia          654.46
+MONTO TOTAL GASTADO: 2291.92
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+92275859                        Egusquiza/Doris            340934240
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/02/2022           703676          Urologia          781.15
+MONTO TOTAL GASTADO: 781.15
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+35606314                           Mercado/Elia            861780261
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)04/04/2023           644057          Oftalmologia          232.61
+02)04/03/2023           354519          Pediatria          897.50
+03)01/27/2023           892133          Gastroenterologia          389.91
+04)01/11/2023           709926          Gastroenterologia          525.59
+MONTO TOTAL GASTADO: 2045.61
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+65912822                          Camacho/Ydali            938453880
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/06/2022           354519          Pediatria          897.50
+02)01/16/2023           601846          Traumatologia          738.90
+03)03/18/2023           802270          Pediatria          170.85
+MONTO TOTAL GASTADO: 1807.25
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+59561864                        Rosemberg/Julio            762180890
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)12/17/2022           807862          Ginecologia          997.38
+02)08/03/2022           300822          Cardiologia          184.46
+MONTO TOTAL GASTADO: 1181.84
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+59596317                       Justino/Virginia            900594107
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)12/16/2022           892133          Gastroenterologia          389.91
+02)04/27/2023           254488          Endocrinologia          496.87
+03)09/01/2022           915098          Cardiologia          146.35
+04)12/14/2022           254488          Endocrinologia          496.87
+MONTO TOTAL GASTADO: 1530.00
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+52313890                          Rivero/Wilver            744249340
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/17/2022           609349          Neumologia          526.45
+02)11/27/2022           150928          Dermatologia          756.45
+03)08/16/2022           702694          Dermatologia          523.53
+MONTO TOTAL GASTADO: 1806.43
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+37282858                           Soma/Lourdes            227523525
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/29/2022           300822          Cardiologia          184.46
+02)09/13/2022           800631          Gastroenterologia          256.05
+03)02/09/2023           341150          Cardiologia          893.34
+04)01/11/2023           909295          Oftalmologia          405.69
+MONTO TOTAL GASTADO: 1739.54
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+27709566                             Ortiz/Raul            796752488
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/23/2022           801383          Geriatria          319.80
+02)03/28/2023           709926          Gastroenterologia          525.59
+03)12/01/2022           506117          Urologia          337.03
+04)03/18/2023           800404          Endocrinologia          4.56
+MONTO TOTAL GASTADO: 1186.98
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+41964357                            Arca/Magali            826306601
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/16/2022           706122          Traumatologia          842.24
+02)03/15/2023           404143          Ginecologia          55.48
+03)09/17/2022           707896          Pediatria          19.29
+MONTO TOTAL GASTADO: 917.01
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+14956687                          Luna/Waldemar            346368780
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)04/18/2023           535567          Pediatria          410.37
+02)08/21/2022           703676          Urologia          781.15
+MONTO TOTAL GASTADO: 1191.52
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+77440060                      Escalante/Emigdio            261313606
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)10/22/2022           201895          Endocrinologia          854.93
+02)04/26/2023           807862          Ginecologia          997.38
+03)08/20/2022           707896          Pediatria          19.29
+04)08/26/2022           800404          Endocrinologia          4.56
+MONTO TOTAL GASTADO: 1876.16
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+62287143                           Wong/Beatriz            146854741
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)02/12/2023           909295          Oftalmologia          405.69
+02)10/20/2022           709926          Gastroenterologia          525.59
+03)11/27/2022           706122          Traumatologia          842.24
+04)03/12/2023           600493          Gastroenterologia          780.49
+05)08/18/2022           146552          Oncologia          940.91
+06)08/04/2022           300822          Cardiologia          184.46
+07)09/16/2022           644057          Oftalmologia          232.61
+MONTO TOTAL GASTADO: 3911.99
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+28992638                          Trigueros/Luz            114153263
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/17/2022           197775          Oftalmologia          977.98
+MONTO TOTAL GASTADO: 977.98
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+53420926                             Prado/Juan            470373331
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/06/2022           341150          Cardiologia          893.34
+02)08/01/2022           801383          Geriatria          319.80
+03)12/22/2022           254488          Endocrinologia          496.87
+MONTO TOTAL GASTADO: 1710.01
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+86988155                          Cerna/Cinthia            745522518
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)09/14/2022           254488          Endocrinologia          496.87
+02)12/29/2022           506117          Urologia          337.03
+03)09/01/2022           915098          Cardiologia          146.35
+04)08/13/2022           300822          Cardiologia          184.46
+05)11/22/2022           146552          Oncologia          940.91
+MONTO TOTAL GASTADO: 2105.62
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+90367684                          Sinche/Yvonne            783649119
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/04/2022           907988          Traumatologia          758.51
+02)11/27/2022           915098          Cardiologia          146.35
+03)09/17/2022           535567          Pediatria          410.37
+04)03/15/2023           520631          Traumatologia          792.07
+05)10/26/2022           520631          Traumatologia          792.07
+06)03/27/2023           341150          Cardiologia          893.34
+MONTO TOTAL GASTADO: 3792.71
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+22598563                           Sueldo/Adria            253269588
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)11/08/2022           341150          Cardiologia          893.34
+02)08/29/2022           150928          Dermatologia          756.45
+03)08/10/2022           506117          Urologia          337.03
+04)08/29/2022           706122          Traumatologia          842.24
+05)02/28/2023           305578          Neumologia          169.44
+MONTO TOTAL GASTADO: 2998.50
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+30246960                         Escalante/Ines            976841944
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/29/2022           201895          Endocrinologia          854.93
+02)11/29/2022           150928          Dermatologia          756.45
+03)09/17/2022           702339          Ginecologia          902.38
+04)09/01/2022           147871          Traumatologia          298.45
+MONTO TOTAL GASTADO: 2812.21
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+58643376                         Arroyo/Natalia            444012515
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/26/2022           709926          Gastroenterologia          525.59
+02)03/03/2023           702339          Ginecologia          902.38
+03)08/27/2022           520631          Traumatologia          792.07
+MONTO TOTAL GASTADO: 2220.04
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+81539774                           Alfaro/Erick            683768197
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)10/04/2022           507183          Pediatria          264.21
+MONTO TOTAL GASTADO: 264.21
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+17299012                           Suarez/Amaru            296011887
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)10/27/2022           709926          Gastroenterologia          525.59
+MONTO TOTAL GASTADO: 525.59
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+12484697                           Diaz/Enrique            331859358
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)09/16/2022           254488          Endocrinologia          496.87
+02)01/14/2023           702339          Ginecologia          902.38
+03)08/10/2022           801383          Geriatria          319.80
+04)09/13/2022           905627          Dermatologia          869.33
+05)08/12/2022           535567          Pediatria          410.37
+MONTO TOTAL GASTADO: 2998.75
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+57182371                       Moscoso/Fiorella            531838148
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)10/26/2022           909295          Oftalmologia          405.69
+02)04/18/2023           644057          Oftalmologia          232.61
+03)11/21/2022           506117          Urologia          337.03
+MONTO TOTAL GASTADO: 975.33
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+66039166                           Chavez/Johan            768705362
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/25/2022           706122          Traumatologia          842.24
+MONTO TOTAL GASTADO: 842.24
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+68269451                            Asmad/Adria            233585092
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/01/2022           800631          Gastroenterologia          256.05
+02)08/16/2022           800404          Endocrinologia          4.56
+03)08/25/2022           909077          Dermatologia          470.72
+04)08/18/2022           520631          Traumatologia          792.07
+MONTO TOTAL GASTADO: 1523.40
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+75100362                            Arca/Lucero            246213116
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)08/30/2022           600493          Gastroenterologia          780.49
+MONTO TOTAL GASTADO: 780.49
+================================================================================
+  DNI                              NOMBRE                 TELEFONO
+66091742                          Baca/Milagros            845718743
+RELACIÓN DE CITAS: 
+No Fecha         CODIGO DEL MEDICO      ESPECIALIDAD          TARIFA
+01)09/23/2022           146552          Oncologia          940.91
+02)08/03/2022           907988          Traumatologia          758.51
+MONTO TOTAL GASTADO: 1699.42
+================================================================================

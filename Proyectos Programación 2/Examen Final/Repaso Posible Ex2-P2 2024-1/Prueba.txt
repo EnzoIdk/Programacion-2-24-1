@@ -1,0 +1,43 @@
+Id: 3
+Capacidad: 15.0   Disponible: 8.1
+LIBROS EN EL ESTANTE:
+
+Titulo: Historica
+Peso: 0.5
+ISSN: 2223375    Año: 2022     Vigencia: 1
+
+Titulo: Historica
+Peso: 0.5
+ISSN: 2223375    Año: 2022     Vigencia: 1
+
+Titulo: Historica
+Peso: 0.5
+ISSN: 2223375    Año: 2022     Vigencia: 1
+
+Titulo: Historica
+Peso: 0.5
+ISSN: 2223375    Año: 2019     Vigencia: 0
+
+Titulo: LA ENCICLOPEDIA DE LOS DINOSAURIOS
+Peso: 2.0
+SKU: 36225    Año: 2018     Vigencia: 0
+
+Titulo: La chica del tren
+Peso: 0.7
+Autor: Paula Hawkins
+
+Titulo: Espania con honra
+Peso: 0.7
+Autor: Daniel Aquillue
+
+Titulo: Los pilares de la tierra
+Peso: 0.3
+Autor: Ken Follett
+
+Titulo: Apocalipticos e integrados
+Peso: 0.4
+Autor: Umberto Eco
+
+Titulo: Boletin de Arqueologia PUCP
+Peso: 0.8
+ISSN: 10292004    Año: 2023     Vigencia: 1

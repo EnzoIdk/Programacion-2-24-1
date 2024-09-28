@@ -1,0 +1,12 @@
+                    Liquidacion: Maestrito Centro de Casa
+========================================================================================================================
+  CODIGO     NOMBRE DEL PRODUCTO                                                  IMPORTE
+========================================================================================================================
+  A106021     Gaseosa Cocacola 1.5 litros                                      25.00
+  IG92877     Audifonos Action Fit SA4ACT04ON                                 277.50
+  TT61626     Centro de lavado electrico FFLE - 1011 MW cap kg 16           37500.00
+  YW80393     Cyber-Shot Serie WX 200 LCD 2.7                                9000.00
+  YF17264     Estuche Flip cover Cod. 91125                                  2300.00
+  UE09721     Sony XPERIA Tecnologia 3G 1.5 GHz                              8400.00
+  A106002     Azucar Rubia 1 Kg                                                25.00
+========================================================================================================================

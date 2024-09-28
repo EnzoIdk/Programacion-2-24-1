@@ -1,0 +1,7 @@
+54393647    Reyes Tang Edward 
+Libros entregados:
+       Pedido No.    Codigo     Precio
+          00001      HOLA        12.30
+Total a pagar:           12.30
+Libros no entregados por falta de stock: 
+       Pedido No.    Codigo

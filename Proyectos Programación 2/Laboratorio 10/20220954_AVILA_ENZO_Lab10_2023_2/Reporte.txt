@@ -1,0 +1,231 @@
+Lista de medicos
+50611      EDGAR_MUNOZ_VERGEL                       Urologia              112.85   33.25    3752.42   20 
+15092      LUZ_SOFIA_JAUREGUI_BRAVO                 Dermatologia          250.15   27.64    6913.03   19 
+60184      SURAMI_HELI_PRECIADO_PINTO               Traumatologia         533.86   18.10    9664.50   13 
+90798      GIOVANA_MEJIA_ZEGARRA                    Traumatologia         400.78   20.13    8066.03   16 
+80786      ROSARIO_MARIBEL_YEP_ZAVALETA             Ginecologia           454.76   35.79   16277.50   25 
+70233      CINTHIA_MILENA_ZEGARRA_CABELLO           Ginecologia           795.13   44.61   35472.07   36 
+89213      DELIA_ZARATE_URBINA                      Gastroenterologia     538.43   26.75   14400.76   22 
+90907      FIORELLA_ERIKA_FLORENCIO_POLO            Dermatologia          741.49   32.11   23811.92   25 
+60934      OFELIA_CARMEN_MERCADO_CARO               Neumologia            491.45   32.11   15778.55   21 
+14787      WALTER_JOLAY_CHUMPITAZ                   Traumatologia         299.95   32.98    9891.27   23 
+60049      HUMBERTO_ALBERTO_VARGAS_GUEVARA          Gastroenterologia     469.25   39.17   18379.74   24 
+70269      DELICIA_ARCA_AQUINO                      Dermatologia          213.98   28.28    6051.71   19 
+53556      VALENTINA_PAULA_URBINA_ANTEZANO          Pediatria             569.37   21.28   12117.62   15 
+70612      ZKENIA_IRMA_CHUNG_ZUNIGA                 Traumatologia         122.10   44.75    5463.60   30 
+64405      LOURDES_CARMELA_YALLICO_PAREDES          Oftalmologia           15.88   35.35     561.28   22 
+90929      DELICIA_ROSA_ARCA_LEIVA                  Oftalmologia          488.42   41.06   20055.34   28 
+70367      DELIA_ESTEFANIA_CABRERA_MORENO           Urologia              493.60   29.21   14419.15   20 
+18708      WILMER_SAENZ_ARANDA                      Ginecologia           489.92   25.56   12523.99   17 
+80138      GUSTAVO_ALONSO_DEL_CASTILLO_MEJIA        Geriatria             751.21   34.03   25562.84   24 
+35451      JAVIER_EDGARD_LANDA_CABRERA              Pediatria             767.02   35.45   27192.56   21 
+70992      OFELIA_BEATRIZ_MONTERO_BOLANOS           Gastroenterologia      51.01   33.25    1696.32   24 
+49768      MARINA_NATALIA_GARCIA_INGA               Cardiologia           332.20   34.20   11361.06   27 
+33687      BLANCA_LUZ_ACUNA_AYLLON                  Oftalmologia          359.43   45.95   16516.31   29 
+70789      VICTORIA_MILAGROS_SHIRAKAWA_SAONA        Pediatria             728.24   49.15   35794.61   29 
+18262      EMILIO_EMIGDIO_GONZALES_AGUIRRE          Urologia              689.31   25.08   17290.00   19 
+14655      GLENDA_CABRERA_MORI                      Oncologia             207.80   23.23    4826.44   18 
+80227      TERESA_TERESA_MARTEL_MERCADO             Pediatria             332.38   28.19    9369.24   17 
+34115      MIGUEL_ALEX_LANDEO_ESTRADA               Cardiologia            99.27   42.85    4253.25   24 
+80040      DAVID_CARLOS_PEREZ_ANTEZANO              Endocrinologia        795.66   19.08   15178.32   16 
+25448      CARMEN_ZAMORA_CABRERA                    Endocrinologia        480.39   25.76   12376.45   17 
+40414      YLIANA_FLOR_ORTIZ_GUEVARA                Ginecologia           525.02   44.39   23303.45   30 
+90562      HUMBERTO_ALFONSO_AMEZQUITA_CONTRERAS     Dermatologia          571.34   38.26   21858.36   24 
+91509      RAUL_COLLADO_VILLA                       Cardiologia           567.13   42.65   24186.83   27 
+30557      JAIME_JULIAN_SHIRAKAWA_FLORIAN           Neumologia            110.81   34.10    3779.05   23 
+20189      FRANCISCO_ZIMIC_SALAS                    Endocrinologia        742.58   30.03   22302.77   21 
+30082      ALFONSO_WALDEMAR_CABELLO_LAM             Cardiologia           343.95   43.29   14889.12   29 
+50718      ESTEFANIA_ZEGARRA_CASANOVA               Pediatria             466.90   35.03   16356.03   24 
+52063      MILENA_CINTHIA_ZARATE_ACUNA              Traumatologia         313.98   30.96    9720.30   23 
+80063      VICTORIA_FIORELLA_CUBA_POMAJAMBO         Gastroenterologia     437.35   41.92   18334.93   29 
+19777      ROSARIO_TABORI_ARIAS                     Oftalmologia          233.33   33.86    7901.07   25 
+
+Lista de pacientes
+45201670      ROCIO_YOLANDA_ACUNA_YINO                 Santa_Anita                                 1.32     688.77    2
+59561864      GONZALO_VEGA_MUNOZ                       Santiago_de_Surco                           7.46    3999.62    4
+93282118      EVERT_FIGUEROA_COLLADO                   Miraflores                                  5.54    2257.98    4
+45914393      MARIA_HELI_ARROYO_GORDILLO               San_Borja                                   7.31    2969.69    5
+72973662      MARIA_MADELEINE_SOLIS_NARVAEZ            Independencia                               6.04     991.36    4
+51642949      MAGALI_SILVANA_DIAZ_ANTEZANO             San_Martin_de_Porres                        5.42    3050.95    4
+37282858      LOURDES_DIANA_SUELDO_MARTINEZ            San_Miguel                                  5.13    2192.76    3
+36934113      MILAGROS_NATALIA_BACA_CAMACHO            Los_Olivos                                  3.19    1775.39    2
+17299012      SANDRO_ARTURO_PISCOYA_LEE                San_Juan_de_Lurigancho                      1.73     594.94    1
+51873364      JOHAN_CHAVEZ_BERROCAL                    Rimac                                       9.46    4683.73    6
+27709566      JOSE_ROLANDO_CERNA_HIJAR                 Ate                                        13.75    6547.87    7
+93939698      ENRIQUE_JORGE_DURAND_VALVERDE            El_Agustino                                11.97    4201.61    9
+62126128      JAVIER_DANIEL_AURIS_ZIMIC                Santa_Anita                                 2.36    1033.94    2
+77440060      MARTIN_JUVENAL_VILLA_SEDANO              Santa_Anita                                 4.20    1949.70    5
+59596317      EDWARD_REYES_TANG                        Rimac                                      10.46    5014.00    8
+93961840      EMIGDIO_FRANCISCO_ESCALANTE_ESPINO       Villa_Maria_del_Triunfo                     1.03     466.76    1
+51465986      CAROLA_TATIANA_LOYOLA_CASANOVA           La_Molina                                   7.90     970.17    4
+31284904      ELIA_YOLANDA_SEDANO_RETAMOSO             Brena                                       7.26    3266.64    6
+90367684      HELI_CORONEL_CHUMPITAZ                   Villa_Maria_del_Triunfo                    10.36    4245.09    6
+68269451      JORGE_ALFARO_AYALA                       La_Molina                                  12.02    5347.91    8
+22679759      FRANCISCO_ARANA_RONDON                   Los_Olivos                                  2.61    1091.02    3
+30246960      MADELEINE_SHIRAKAWA_MIRANDA              Brena                                       3.69    2005.13    3
+20371464      FELICITA_VILLEGAS_LEIVA                  San_Juan_de_Lurigancho                      7.22    1785.00    3
+81647285      MARITZA_CARBAJAL_SALAMANCA               San_Juan_de_Lurigancho                      7.36    4680.86    6
+49357767      JUAN_PRADO_VERA                          San_Martin_de_Porres                        6.99    3845.47    5
+92275859      ROBERTO_INFANTES_HERNANDEZ               El_Agustino                                 4.02    1293.87    3
+79100967      WILVER_ALFONSO_RIVERO_CORTEZ             San_Martin_de_Porres                        6.80    3369.89    7
+99774549      ROLANDO_SOLIS_CHUNG                      San_Borja                                   2.55    1361.64    2
+28992638      ELOY_JAIME_ORTEGA_LANDEO                 Miraflores                                  0.82     565.04    1
+71422479      ALBERTO_DE_LA_HAZA_CABRERA               Villa_El_Savador                            2.39    1256.11    2
+80694546      MADELEINE_YLIANA_MIYAKE_MEREL            La_Molina                                   7.63    4754.50    7
+43704548      ERICKA_VICTORIA_JUSTINO_FORZANI          Magdalena_del_Mar                           5.97    2396.84    4
+53420926      MILAGROS_VILCARA_GAVIDIA                 El_Agustino                                10.38    3746.19    6
+57182371      EDGARD_HENRY_VELASQUEZ_HUAYANAY          Villa_El_Savador                            2.39    1018.61    2
+99891737      CHRISTIAN_PAREDES_PATINO                 Cercado_de_Lima                             4.93    1604.86    4
+35852072      BEATRIZ_HENRIQUEZ_ESPINO                 Ate                                        12.14    5395.25    7
+54815159      ANNIE_OFELIA_ASMAD_ACUNA                 Pueblo_Libre                                6.88    2846.63    6
+35606314      ROLANDO_CASTRO_SUAREZ                    Chorrillos                                  2.90    1372.61    2
+58643376      ANTONIO_SUELDO_RUIZ                      Surquillo                                  10.61    3736.09    7
+91187814      VIRGINIA_IRMA_BENAVENTE_AYALA            Santa_Anita                                 9.65    4200.27    6
+65912822      RONAL_CORTEZ_MERCADO                     Santa_Rosa                                 10.95    4138.96    7
+86836066      ALEXANDER_ZARATE_PEREZ                   Jesus_Maria                                 5.45    2656.34    3
+63640178      RICHARD_SANDRO_PEREZ_FARFAN              Magdalena_del_Mar                           6.73    4857.09    5
+93231760      CARMELA_TERESA_VEGA_VILCARA              Los_Olivos                                 10.21    2565.59    5
+12484697      ANGEL_SHIRAKAWA_ORTEGA                   Cercado_de_Lima                             5.42    1609.86    3
+36471787      ANNIE_LOURDES_MEREL_SALAZAR              Pueblo_Libre                               10.78    5478.84    6
+61061535      GUILLERMO_EDRIC_CABRERA_CANALES          Pueblo_Libre                                4.05    1631.77    3
+32538825      MARIBEL_VIZCARDO_SINCHE                  Pueblo_Libre                                9.46    4507.54    8
+14956687      ALEX_MARTIN_VASQUEZ_PAZ                  San_Luis                                    5.02    1272.97    4
+66039166      INES_ADRIA_ESCALANTE_ROJAS               Rimac                                       9.20    3766.43    6
+35347567      ANNIE_MONTERO_MONTERO                    La_Victoria                                10.84    5111.64    6
+81539774      ALONSO_FLORENCIO_CORONADO                Magdalena_del_Mar                          13.98    4884.39    9
+68114999      WILLIAMS_JUSTINO_CRUZ                    Comas                                       8.31    4177.26    7
+22598563      ALONSO_FORZANI_CARO                      Jesus_Maria                                14.25    5111.96    8
+75100362      ALEX_HENRIQUEZ_PORTUGAL                  Pueblo_Libre                                7.55    3105.48    5
+15290194      DAVID_EDRIC_CERNA_IPARRAGUIRRE           Villa_El_Savador                           10.46    4899.29    7
+66091742      CARLOS_JULIAN_PRADO_VERGEL               Comas                                       3.42    2054.36    2
+72330000      WALDEMAR_EDGARD_DURAND_MEZA              San_Martin_de_Porres                        3.86     676.72    2
+52313890      JESUS_RAFAEL_NARVAEZ_CASTILLO            Brena                                       8.37    4004.03    7
+86988155      DELIA_LOZADA_FORZANI                     Santa_Anita                                 4.08    2243.12    2
+85395219      IRMA_LOURDES_CORRALES_TSUKAZAN           San_Juan_de_Lurigancho                      6.53    3228.58    4
+77324146      LOURDES_SONIA_SOMA_PINTO                 Brena                                       6.48    3103.23    4
+95656771      FELICITA_VALENTINA_LOZADA_ARGUEDAS       Surquillo                                  10.51    4591.20    5
+41964357      VIRGINIA_MARTHA_SALAMANCA_VEGA           Rimac                                      16.15    7065.02   12
+34571095      INES_SAM_YALLICO                         Santa_Rosa                                  3.92    2207.46    4
+54149342      TERESA_DELIA_ANTEZANO_SEGURA             Cercado_de_Lima                             6.22    2579.41    4
+94683380      ADRIA_SUELDO_SEDANO                      Independencia                               4.56    1995.21    3
+62287143      CESAR_ADOLFO_INGA_FLORES                 Pueblo_Libre                                2.85    1285.29    2
+34697743      MADELEINE_WONG_MARTEL                    Santiago_de_Surco                          13.35    4888.35    8
+13731806      RONY_GONZALO_VALVERDE_BERROCAL           Rimac                                       5.09    2936.19    4
+25062013      JAIR_ARTURO_MENDOZA_FLORENCIO            San_Juan_de_Lurigancho                      6.99    2139.01    5
+60543714      VALENTINA_ROCIO_AQUINO_TORO              San_Borja                                  16.27    8743.24   13
+18450321      SURAMI_JANET_PASQUEL_QUIO                Villa_El_Savador                            7.46    4490.06    5
+65512388      ERICK_PAUL_CALIXTO_CASTILLO              San_Juan_de_Lurigancho                      7.27    3352.37    4
+11833846      MIGUEL_CORREA_VIZCARDO                   San_Juan_de_Lurigancho                     13.76    4041.79    7
+16389806      CHRISTIAN_ALONSO_MEJIA_HUAYANAY          San_Isidro                                  6.18    1609.43    4
+79821095      ALBERTO_PAIRAZAMAN_DE_LA_CUBA            Barranci                                    2.14     640.39    1
+84432543      SHIRLEY_ISABEL_CABRERA_LUNA              Pueblo_Libre                                3.06    1485.51    3
+64223971      GLENDA_MARGOT_PENA_SUAREZ                Pueblo_Libre                                7.80    3370.88    7
+80793196      GUILLERMO_ALFONSO_DELGADO_GONZALES       Villa_Maria_del_Triunfo                     4.32    1567.59    4
+44052040      SILVANA_CHAVEZ_PRADO                     Barranci                                    2.74    1425.61    2
+54989159      RAUL_ORTIZ_DURAND                        Magdalena_del_Mar                          12.29    4803.21   11
+74526558      EVERT_AURIS_FLORIAN                      Miraflores                                  9.35    5295.64    7
+16720731      SHIRLEY_PINTO_CALIXTO                    Brena                                      11.02    4725.37    7
+70149460      VICTOR_RICARDO_JAUREGUI_DEL_CASTILLO     Villa_Maria_del_Triunfo                     8.58    3825.58    4
+46036400      ADRIA_ASMAD_CHAVEZ                       San_Isidro                                  7.45    2895.94    6
+11895107      WALDEMAR_LUNA_VARGAS                     Ate                                         2.11     633.98    1
+14015152      YVONNE_SILVANA_SINCHE_RIVERO             La_Victoria                                 9.49    3482.63    5
+48446380      HENRY_ISRAEL_ORTIZ_EPIQUEN               Villa_El_Savador                            5.13    2068.14    5
+73749406      ANGEL_ERICK_CHUMPITAZ_ALCOCER            San_Miguel                                 19.45    7859.79   13
+75600514      MILENA_JENNY_MEDINA_VELASQUEZ            San_Miguel                                  4.48    2049.90    4
+74484812      DORIS_NANCY_EGUSQUIZA_BERROCAL           Magdalena_del_Mar                           4.53    1838.76    4
+98609464      DANIEL_VARGAS_ALAMO                      Chorrillos                                  5.35    3557.54    4
+22020320      ROLANDO_RAFFO_CORONADO                   Chorrillos                                  4.62    1797.92    3
+24433250      BRUNO_ROBERTO_MARTEL_ASMAD               Barranci                                    9.43    4881.75    5
+68773869      JOHANA_GLORIA_PORTUGAL_BENAVENTE         Independencia                              12.35    5111.37    9
+30335115      GUIDA_FELICITA_SHIRAKAWA_MEZA            San_Borja                                   4.08    1534.52    3
+81986295      MAGALI_BEATRIZ_ARCA_SANCHEZ              Santa_Anita                                10.24    2575.16    6
+23510105      CARLOS_ALBERTO_BARRIOS_TOMASICHE         San_Isidro                                  5.08    2111.80    3
+76505858      MIGUEL_ROBERTO_ALAMO_PAIRAZAMAN          Jesus_Maria                                 6.00    2847.43    3
+34246621      AMERICO_WALDEMAR_GARCIA_YINO             San_Borja                                   6.22    2369.15    4
+32239795      ADOLFO_LANDEO_SUELDO                     San_Miguel                                  7.54    2563.27    5
+16756151      CAROLA_ERIKA_RUIZ_GORDILLO               Santiago_de_Surco                           8.12    3220.34    5
+55584641      JENNY_DELICIA_HIJAR_PAIRAZAMAN           La_Molina                                   7.41    2642.58    5
+22641795      PATRICIA_ELIZABETH_FUENTES_ESCALANTE     Santiago_de_Surco                           6.79    2794.38    5
+44075872      JOHANA_MALDONADO_FLORIAN                 Puente_Piedra                               3.02    1203.13    3
+28479122      EDGAR_MANUEL_AYALA_VIZCARDO              Jesus_Maria                                14.82    5299.20    9
+36371870      SANDRA_GLORIA_PAZ_CANALES                Barranci                                    4.38    2106.92    4
+15847409      HENRRY_VEGA_SORIA                        Independencia                               5.16    1405.87    4
+98313754      ALFONSO_MIRANDA_CHUMPITAZ                San_Juan_de_Lurigancho                      2.82    1385.33    3
+89949425      RAFAEL_IBEROS_VALDERRAMA                 Chorrillos                                 13.28    5844.47    9
+11410160      TATIANA_NANCY_VILLA_YALLICO              Rimac                                       7.01    2689.96    5
+19343072      ALEXANDER_MARTIN_BARRERA_MIRANDA         Pueblo_Libre                               12.84    3850.48    8
+48328459      CESAR_WILVER_ASTETE_RIOS                 Santa_Anita                                 6.93    4286.08    6
+33648133      RONAL_CHUMPITAZ_IBEROS                   Barranci                                   18.16    7571.73   11
+40654049      MILAGROS_GIOVANA_GAVIDIA_PALOMARES       Surquillo                                   2.35     317.95    2
+12604666      ROCIO_RAMIREZ_AGUERO                     Cercado_de_Lima                             5.59    2383.24    4
+73107226      FLOR_FREYSA_NORABUENA_POLO               El_Agustino                                 7.10    4697.13    4
+71043973      MARTIN_HIJAR_LAM                         El_Agustino                                10.50    3977.50    9
+83887836      DIANA_DELIA_LEYVA_SAM                    Santiago_de_Surco                           3.35    1639.65    2
+49328569      ROSA_SANTISTEBAN_MEZA                    Barranci                                    4.66    1664.40    3
+21753765      CINTHIA_NORABUENA_PRECIADO               Barranci                                    4.34    1232.87    2
+25725510      TATIANA_KARIN_TORRES_ARGUEDAS            San_Juan_de_Lurigancho                     11.44    4936.85    7
+87358658      MOISES_MIGUEL_PAIRAZAMAN_ALAMO           Los_Olivos                                 14.85    6441.29    8
+62980060      ANGEL_CHANG_SEGURA                       Lince                                       3.46    1919.07    2
+26476609      EDGAR_JAVIER_SUCHERO_EPIQUEN             La_Molina                                   2.52    1031.22    2
+32568635      MARTHA_LOZADA_YINO                       Brena                                       3.96    2330.94    4
+94216806      JANET_FLOR_BRAVO_CORTES                  Comas                                      10.01    5378.62    6
+37268969      GUILLERMO_HERNANDEZ_CORRALES             Puente_Piedra                               6.52    2131.33    4
+25120943      SURAMI_ANNIE_RAFFO_ARIAS                 La_Molina                                  11.29    6542.02    6
+12668465      RAFAEL_SUAREZ_BOLANOS                    Chorrillos                                  5.32    3345.28    3
+97722592      GLORIA_TATIANA_ROMERO_PALOMARES          Surquillo                                   4.13    2061.96    3
+62061917      MAGDA_CARMEN_SALAS_URBINA                Barranci                                   10.14    5658.81    7
+39553212      RAUL_MANUEL_HENRIQUEZ_YOSHINARI          Pueblo_Libre                                6.51    2368.90    6
+48505497      EDGAR_RICHARD_PRADO_FALCON               Magdalena_del_Mar                           5.36    2671.81    4
+81586212      BEATRIZ_ROSA_PATINO_CHUNG                Pueblo_Libre                               10.89    3244.14    7
+14683865      RICARDO_WONG_PRECIADO                    Ate                                        14.81    6371.53   10
+92417023      JULIO_HENRRY_ROSEMBERG_LAU               San_Miguel                                  5.82    1738.04    3
+74073306      HUMBERTO_AGUERO_AVILA                    Los_Olivos                                  7.99    2666.47    5
+40604243      EVERT_ROBERTO_AMEZQUITA_EPIQUEN          San_Juan_de_Miraflores                      4.83    2796.49    3
+62322876      JOHANA_YDALI_CRUZ_FUENTES                Santa_Anita                                12.81    6476.28    8
+39156030      HELI_BLANCA_LOZADA_IBEROS                Los_Olivos                                  9.02    4831.50    5
+35989948      HECTOR_PASQUEL_DURAND                    Cercado_de_Lima                             3.52    1578.40    4
+82441274      SANDRO_CARO_POLO                         Magdalena_del_Mar                           9.39    3389.73    5
+36988918      MARGOT_FARFAN_SALAZAR                    La_Molina                                   4.72    2544.23    5
+33912812      HELI_URBINA_CASTILLO                     Surquillo                                   6.27    3462.07    5
+99088382      MELVIN_WALDEMAR_MARTEL_CABELLO           Pueblo_Libre                                1.83     832.34    1
+95427641      EDRIC_RONALD_ARCA_AMEZQUITA              Santa_Rosa                                 12.73    6855.66   10
+20246477      MELVIN_HENRRY_LAURA_WONG                 Independencia                               7.46    3369.68    6
+19123289      YDALI_LUCERO_CAMACHO_PAIRAZAMAN          San_Luis                                    9.80    2930.25    6
+30944065      LORENA_IRMA_SALAZAR_CORRALES             San_Juan_de_Miraflores                     10.69    4311.37    7
+94972543      YVONNE_IRMA_BENAVENTE_VILCA              Chorrillos                                 14.53    5739.25    9
+39496111      RAFAEL_URBINA_HIJAR                      Puente_Piedra                               5.69     917.01    5
+62096337      BLANCA_OFELIA_RODRIGUEZ_MORENO           Comas                                       9.20    3836.01    5
+84479697      CINTHIA_CERNA_CERNA                      Cercado_de_Lima                             1.66     576.79    2
+95432260      VICTOR_VILCARA_CORREA                    Lince                                      10.17    3940.88    6
+83808667      MONICA_TERESA_LAU_BACA                   San_Martin_de_Porres                        8.81    3174.72    5
+15053104      FIORELLA_MOSCOSO_ARIAS                   San_Juan_de_Lurigancho                      9.09    3234.38    5
+61361044      OFELIA_MARIA_ZAMBRANO_MOSCOSO            Cercado_de_Lima                             9.90    4444.26    7
+29566198      LUCERO_DELICIA_DE_LA_CUBA_JUGO           San_Isidro                                  4.12    2194.54    5
+17011137      DORIS_LOURDES_PINTO_SAENZ                Los_Olivos                                  4.52     910.75    3
+76348508      HUMBERTO_MANUEL_ZAMBRANO_ARIAS           San_Juan_de_Lurigancho                      2.53    1616.74    2
+48132747      IRMA_VIRGINIA_DIAZ_CORREA                Los_Olivos                                 10.91    6202.48    7
+37357229      ELIZABETH_KARIN_FARFAN_FALCON            San_Isidro                                  3.43    1197.46    3
+95956321      ERICKA_OFELIA_AYALA_CASTILLO             Comas                                       6.83    3367.08    5
+15053852      EMILIO_HERNANDEZ_BARRIOS                 San_Isidro                                  5.74    3232.84    4
+15069737      DELICIA_VIRGINIA_PATINO_BOLANOS          Santiago_de_Surco                           4.11    1354.94    2
+98684552      JOHANA_CINTHIA_CONTRERAS_CHANG           Rimac                                      11.10    4440.07    9
+14907293      MARIBEL_QUIO_QUIROGA                     Pueblo_Libre                                5.16    1515.84    3
+68702300      JOHNNY_MOYA_ARANDA                       Puente_Piedra                               9.25    4797.10    7
+21598756      INES_MARTHA_MORALES_VALVERDE             Santiago_de_Surco                           4.90    2564.98    3
+81698908      RONAL_DAVID_CASANOVA_SAAVEDRA            Miraflores                                  2.00    1062.22    2
+97311976      VIRGINIA_KARINA_JUSTINO_NORABUENA        Miraflores                                  3.27     752.46    2
+53601565      LUCERO_YLIANA_ARCA_LARRIEGA              Villa_El_Savador                           10.93    4472.16    6
+16738755      WILLIAMS_HUMBERTO_ZUNIGA_INFANTES        El_Agustino                                 0.00       0.00    0
+56515992      ROSARIO_MENDOZA_EGUSQUIZA                Puente_Piedra                               3.06    1812.23    3
+29878779      HUMBERTO_ANTONIO_ZARATE_DEL_POZO         Magdalena_del_Mar                           7.01    3904.37    4
+22091940      MONICA_DORIS_CALIXTO_TOMASICHE           Surquillo                                   5.86    2952.81    4
+57396617      MARIELLA_MIYAKE_AVILA                    Santiago_de_Surco                           6.60    2760.19    4
+31099368      ROLANDO_JAUREGUI_ALCOCER                 San_Luis                                   13.96    7183.69   10
+62513737      ALEX_HENRY_FALCON_PRECIADO               Lince                                       2.97    1320.63    4
+24380124      ADRIA_GLORIA_RAFFO_CHUNG                 El_Agustino                                 7.33    2152.16    8
+78667115      TATIANA_DELICIA_PAIRAZAMAN_RAFFO         Santa_Rosa                                  6.62    3367.13    3
+35727986      CESAR_BRUNO_PISCOYA_BRAVO                Villa_Maria_del_Triunfo                     3.30    2054.12    3
+90739188      VIRGINIA_CHUMPITAZ_PALOMARES             San_Isidro                                  4.34    2813.85    3
+22199440      FRANCISCO_EDGAR_MEJIA_DE_LA_HAZA         Los_Olivos                                  7.91    2728.94    5
+47265395      MARTIN_CERNA_DURAND                      Barranci                                    2.70    1722.15    3
+

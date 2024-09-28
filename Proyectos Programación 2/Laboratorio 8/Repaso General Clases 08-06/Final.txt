@@ -1,0 +1,4 @@
+Tipo B:    F1   -5   12
+Tipo A:    F2   15   18
+Tipo C:    F3    4    8
+Tipo C:    F4    2    8

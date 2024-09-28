@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>CursoAlumno.h</itemPath>
+      <itemPath>Librerias.h</itemPath>
+      <itemPath>Nota.h</itemPath>
+      <itemPath>Primera.h</itemPath>
+      <itemPath>Registro.h</itemPath>
+      <itemPath>Segunda.h</itemPath>
+      <itemPath>Tercera.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>CursoAlumno.cpp</itemPath>
+      <itemPath>Nota.cpp</itemPath>
+      <itemPath>Primera.cpp</itemPath>
+      <itemPath>Registro.cpp</itemPath>
+      <itemPath>Segunda.cpp</itemPath>
+      <itemPath>Tercera.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="CursoAlumno.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CursoAlumno.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Librerias.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Nota.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Nota.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Primera.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Primera.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Registro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Registro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Segunda.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Segunda.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Tercera.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Tercera.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="CursoAlumno.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CursoAlumno.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Librerias.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Nota.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Nota.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Primera.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Primera.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Registro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Registro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Segunda.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Segunda.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Tercera.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Tercera.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

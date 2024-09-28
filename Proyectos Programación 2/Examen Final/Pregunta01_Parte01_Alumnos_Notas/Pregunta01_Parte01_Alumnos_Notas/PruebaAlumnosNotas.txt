@@ -1,0 +1,2170 @@
+Codigo:     202111260
+Nombre:     GORDILLO CASTRO RONAL
+
+    Calificacion:    5
+    Ciclo:           20201
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    12
+    Ciclo:           20201
+    Codigo:          MEC270
+    Creditos:        4
+
+    Calificacion:    4
+    Ciclo:           20201
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20201
+    Codigo:          MAT218
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20201
+    Codigo:          FIS239
+    Creditos:        4.5
+
+    Calificacion:    15
+    Ciclo:           20211
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    7
+    Ciclo:           20211
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    8
+    Ciclo:           20211
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    13
+    Ciclo:           20211
+    Codigo:          FIS247
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    7
+    Ciclo:           20221
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    17
+    Ciclo:           20221
+    Codigo:          FIS227
+    Creditos:        4.5
+
+    Calificacion:    10
+    Ciclo:           20222
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    16
+    Ciclo:           20222
+    Codigo:          MEC206
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20222
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20222
+    Codigo:          FIS239
+    Creditos:        4.5
+
+    Calificacion:    13
+    Ciclo:           20231
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    17
+    Ciclo:           20231
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    13
+    Ciclo:           20231
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    12
+    Ciclo:           20231
+    Codigo:          INF248
+    Creditos:        5
+
+Codigo:     202111397
+Nombre:     ZEVALLOS PRADO RICARDO
+
+    Calificacion:    5
+    Ciclo:           20201
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    10
+    Ciclo:           20201
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    9
+    Ciclo:           20202
+    Codigo:          INF220
+    Creditos:        5
+
+    Calificacion:    12
+    Ciclo:           20202
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    10
+    Ciclo:           20202
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    10
+    Ciclo:           20211
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    11
+    Ciclo:           20211
+    Codigo:          MEC270
+    Creditos:        4
+
+    Calificacion:    3
+    Ciclo:           20211
+    Codigo:          INF220
+    Creditos:        5
+
+    Calificacion:    4
+    Ciclo:           20212
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    14
+    Ciclo:           20212
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    14
+    Ciclo:           20212
+    Codigo:          INF281
+    Creditos:        5
+
+    Calificacion:    13
+    Ciclo:           20212
+    Codigo:          INF220
+    Creditos:        5
+
+    Calificacion:    10
+    Ciclo:           20221
+    Codigo:          MEC373
+    Creditos:        3
+
+    Calificacion:    15
+    Ciclo:           20221
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    10
+    Ciclo:           20221
+    Codigo:          INF250
+    Creditos:        5
+
+    Calificacion:    8
+    Ciclo:           20221
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    11
+    Ciclo:           20222
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20222
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    10
+    Ciclo:           20222
+    Codigo:          MEC373
+    Creditos:        3
+
+Codigo:     202112598
+Nombre:     MORI ZAVALETA LUZ LOURDES
+
+    Calificacion:    9
+    Ciclo:           20201
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    10
+    Ciclo:           20201
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    4
+    Ciclo:           20201
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    6
+    Ciclo:           20201
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20202
+    Codigo:          INF239
+    Creditos:        4
+
+    Calificacion:    7
+    Ciclo:           20202
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20202
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    5
+    Ciclo:           20211
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    8
+    Ciclo:           20211
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20212
+    Codigo:          FIS239
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20212
+    Codigo:          MEC270
+    Creditos:        4
+
+    Calificacion:    4
+    Ciclo:           20212
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    16
+    Ciclo:           20221
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    8
+    Ciclo:           20221
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    14
+    Ciclo:           20222
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    13
+    Ciclo:           20222
+    Codigo:          INF282
+    Creditos:        5
+
+    Calificacion:    15
+    Ciclo:           20222
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    11
+    Ciclo:           20231
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    12
+    Ciclo:           20231
+    Codigo:          MEC209
+    Creditos:        5.25
+
+Codigo:     202112887
+Nombre:     CABRERA AGUERO JESSICA
+
+    Calificacion:    10
+    Ciclo:           20201
+    Codigo:          INF282
+    Creditos:        5
+
+    Calificacion:    7
+    Ciclo:           20201
+    Codigo:          MEC286
+    Creditos:        4.25
+
+    Calificacion:    10
+    Ciclo:           20201
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    7
+    Ciclo:           20201
+    Codigo:          INF220
+    Creditos:        5
+
+    Calificacion:    8
+    Ciclo:           20201
+    Codigo:          INF250
+    Creditos:        5
+
+    Calificacion:    11
+    Ciclo:           20202
+    Codigo:          INF220
+    Creditos:        5
+
+    Calificacion:    10
+    Ciclo:           20202
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    12
+    Ciclo:           20211
+    Codigo:          MAT781
+    Creditos:        3
+
+    Calificacion:    15
+    Ciclo:           20211
+    Codigo:          FIS219
+    Creditos:        4.5
+
+    Calificacion:    6
+    Ciclo:           20211
+    Codigo:          INF250
+    Creditos:        5
+
+    Calificacion:    9
+    Ciclo:           20211
+    Codigo:          FIS247
+    Creditos:        4.5
+
+    Calificacion:    10
+    Ciclo:           20212
+    Codigo:          FIS208
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20212
+    Codigo:          MEC286
+    Creditos:        4.25
+
+    Calificacion:    8
+    Ciclo:           20221
+    Codigo:          MEC206
+    Creditos:        4.5
+
+    Calificacion:    3
+    Ciclo:           20221
+    Codigo:          FIS247
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          INF282
+    Creditos:        5
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          INF250
+    Creditos:        5
+
+    Calificacion:    6
+    Ciclo:           20222
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    15
+    Ciclo:           20222
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    15
+    Ciclo:           20222
+    Codigo:          MEC286
+    Creditos:        4.25
+
+    Calificacion:    12
+    Ciclo:           20231
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    10
+    Ciclo:           20231
+    Codigo:          MEC2T3
+    Creditos:        1
+
+    Calificacion:    12
+    Ciclo:           20231
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    12
+    Ciclo:           20231
+    Codigo:          FIS247
+    Creditos:        4.5
+
+Codigo:     202113223
+Nombre:     DIAZ SEDANO YVONNE
+
+    Calificacion:    11
+    Ciclo:           20201
+    Codigo:          MEC2T3
+    Creditos:        1
+
+    Calificacion:    10
+    Ciclo:           20201
+    Codigo:          INF282
+    Creditos:        5
+
+    Calificacion:    5
+    Ciclo:           20201
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    13
+    Ciclo:           20202
+    Codigo:          INF239
+    Creditos:        4
+
+    Calificacion:    3
+    Ciclo:           20202
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    5
+    Ciclo:           20202
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    5
+    Ciclo:           20202
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    13
+    Ciclo:           20211
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    7
+    Ciclo:           20211
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    5
+    Ciclo:           20212
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    8
+    Ciclo:           20212
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    8
+    Ciclo:           20221
+    Codigo:          FIS208
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    6
+    Ciclo:           20221
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    14
+    Ciclo:           20221
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    15
+    Ciclo:           20222
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    6
+    Ciclo:           20222
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    13
+    Ciclo:           20222
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20231
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    11
+    Ciclo:           20231
+    Codigo:          INF282
+    Creditos:        5
+
+Codigo:     202113758
+Nombre:     SOMA INGA DIALY
+
+    Calificacion:    14
+    Ciclo:           20201
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    6
+    Ciclo:           20201
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    7
+    Ciclo:           20201
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    10
+    Ciclo:           20202
+    Codigo:          INF238
+    Creditos:        4
+
+    Calificacion:    6
+    Ciclo:           20202
+    Codigo:          MAT219
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20211
+    Codigo:          FIS219
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20211
+    Codigo:          MEC269
+    Creditos:        1
+
+    Calificacion:    3
+    Ciclo:           20211
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    15
+    Ciclo:           20212
+    Codigo:          INF239
+    Creditos:        4
+
+    Calificacion:    8
+    Ciclo:           20212
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20221
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    5
+    Ciclo:           20221
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20221
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    8
+    Ciclo:           20222
+    Codigo:          MAT219
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20222
+    Codigo:          MEC269
+    Creditos:        1
+
+    Calificacion:    12
+    Ciclo:           20231
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    11
+    Ciclo:           20231
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20231
+    Codigo:          MEC269
+    Creditos:        1
+
+    Calificacion:    12
+    Ciclo:           20231
+    Codigo:          MAT219
+    Creditos:        4.5
+
+Codigo:     202114285
+Nombre:     CHAVARRI ALDAVE FERNANDO MARTIN
+
+    Calificacion:    13
+    Ciclo:           20201
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    8
+    Ciclo:           20201
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20201
+    Codigo:          INF238
+    Creditos:        4
+
+    Calificacion:    10
+    Ciclo:           20202
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    8
+    Ciclo:           20202
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    9
+    Ciclo:           20202
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    16
+    Ciclo:           20211
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    5
+    Ciclo:           20211
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    7
+    Ciclo:           20211
+    Codigo:          INF238
+    Creditos:        4
+
+    Calificacion:    14
+    Ciclo:           20211
+    Codigo:          MEC286
+    Creditos:        4.25
+
+    Calificacion:    11
+    Ciclo:           20211
+    Codigo:          MAT218
+    Creditos:        4.5
+
+    Calificacion:    5
+    Ciclo:           20212
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    9
+    Ciclo:           20212
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    11
+    Ciclo:           20212
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    6
+    Ciclo:           20221
+    Codigo:          MAT219
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20221
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    7
+    Ciclo:           20221
+    Codigo:          MEC269
+    Creditos:        1
+
+    Calificacion:    17
+    Ciclo:           20222
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    2
+    Ciclo:           20222
+    Codigo:          MEC269
+    Creditos:        1
+
+    Calificacion:    9
+    Ciclo:           20231
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    11
+    Ciclo:           20231
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    15
+    Ciclo:           20231
+    Codigo:          MEC269
+    Creditos:        1
+
+    Calificacion:    8
+    Ciclo:           20231
+    Codigo:          MAT219
+    Creditos:        4.5
+
+Codigo:     202114739
+Nombre:     VELASQUEZ CANO FERNANDO
+
+    Calificacion:    12
+    Ciclo:           20201
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20201
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    8
+    Ciclo:           20211
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    16
+    Ciclo:           20211
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    10
+    Ciclo:           20211
+    Codigo:          INF238
+    Creditos:        4
+
+    Calificacion:    9
+    Ciclo:           20211
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    12
+    Ciclo:           20211
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    17
+    Ciclo:           20212
+    Codigo:          MEC269
+    Creditos:        1
+
+    Calificacion:    12
+    Ciclo:           20212
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    15
+    Ciclo:           20212
+    Codigo:          FIS219
+    Creditos:        4.5
+
+    Calificacion:    5
+    Ciclo:           20212
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    14
+    Ciclo:           20222
+    Codigo:          MAT219
+    Creditos:        4.5
+
+    Calificacion:    7
+    Ciclo:           20222
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    8
+    Ciclo:           20222
+    Codigo:          INF239
+    Creditos:        4
+
+Codigo:     202115400
+Nombre:     SANTISTEBAN JUGO NESTOR
+
+    Calificacion:    5
+    Ciclo:           20201
+    Codigo:          INF281
+    Creditos:        5
+
+    Calificacion:    15
+    Ciclo:           20201
+    Codigo:          MEC206
+    Creditos:        4.5
+
+    Calificacion:    5
+    Ciclo:           20201
+    Codigo:          FIS208
+    Creditos:        4.5
+
+    Calificacion:    7
+    Ciclo:           20202
+    Codigo:          INF281
+    Creditos:        5
+
+    Calificacion:    8
+    Ciclo:           20202
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20211
+    Codigo:          INF281
+    Creditos:        5
+
+    Calificacion:    8
+    Ciclo:           20212
+    Codigo:          FIS208
+    Creditos:        4.5
+
+    Calificacion:    16
+    Ciclo:           20212
+    Codigo:          MEC2T2
+    Creditos:        4.5
+
+    Calificacion:    8
+    Ciclo:           20212
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    15
+    Ciclo:           20212
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20221
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20221
+    Codigo:          MEC373
+    Creditos:        3
+
+    Calificacion:    14
+    Ciclo:           20222
+    Codigo:          MEC373
+    Creditos:        3
+
+    Calificacion:    12
+    Ciclo:           20222
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    14
+    Ciclo:           20222
+    Codigo:          FIS208
+    Creditos:        4.5
+
+Codigo:     202115802
+Nombre:     MINAYA AMEZQUITA RHONY JAIME
+
+    Calificacion:    15
+    Ciclo:           20201
+    Codigo:          INF282
+    Creditos:        5
+
+    Calificacion:    7
+    Ciclo:           20201
+    Codigo:          MEC269
+    Creditos:        1
+
+    Calificacion:    6
+    Ciclo:           20201
+    Codigo:          INF238
+    Creditos:        4
+
+    Calificacion:    12
+    Ciclo:           20202
+    Codigo:          MEC2T3
+    Creditos:        1
+
+    Calificacion:    9
+    Ciclo:           20202
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    7
+    Ciclo:           20202
+    Codigo:          INF238
+    Creditos:        4
+
+    Calificacion:    9
+    Ciclo:           20202
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    18
+    Ciclo:           20211
+    Codigo:          MAT218
+    Creditos:        4.5
+
+    Calificacion:    3
+    Ciclo:           20211
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    8
+    Ciclo:           20211
+    Codigo:          INF238
+    Creditos:        4
+
+    Calificacion:    7
+    Ciclo:           20211
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    8
+    Ciclo:           20211
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    10
+    Ciclo:           20212
+    Codigo:          FIS219
+    Creditos:        4.5
+
+    Calificacion:    5
+    Ciclo:           20212
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    9
+    Ciclo:           20212
+    Codigo:          INF281
+    Creditos:        5
+
+    Calificacion:    11
+    Ciclo:           20212
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    9
+    Ciclo:           20212
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          FIS219
+    Creditos:        4.5
+
+    Calificacion:    8
+    Ciclo:           20221
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    13
+    Ciclo:           20221
+    Codigo:          INF281
+    Creditos:        5
+
+    Calificacion:    14
+    Ciclo:           20221
+    Codigo:          INF282
+    Creditos:        5
+
+    Calificacion:    13
+    Ciclo:           20221
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    6
+    Ciclo:           20222
+    Codigo:          MEC373
+    Creditos:        3
+
+    Calificacion:    20
+    Ciclo:           20222
+    Codigo:          FIS203
+    Creditos:        4.5
+
+Codigo:     202116038
+Nombre:     SAONA ARIAS ALBERTO
+
+    Calificacion:    5
+    Ciclo:           20201
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    13
+    Ciclo:           20201
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    10
+    Ciclo:           20201
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    9
+    Ciclo:           20202
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    11
+    Ciclo:           20202
+    Codigo:          MEC206
+    Creditos:        4.5
+
+    Calificacion:    8
+    Ciclo:           20202
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20221
+    Codigo:          MAT219
+    Creditos:        4.5
+
+    Calificacion:    16
+    Ciclo:           20221
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    9
+    Ciclo:           20221
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    12
+    Ciclo:           20221
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    14
+    Ciclo:           20221
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    11
+    Ciclo:           20222
+    Codigo:          INF281
+    Creditos:        5
+
+    Calificacion:    6
+    Ciclo:           20222
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20222
+    Codigo:          MAT219
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20222
+    Codigo:          FIS229
+    Creditos:        6
+
+Codigo:     202116963
+Nombre:     CORTEZ LEIVA SURAMI SILVIA
+
+    Calificacion:    13
+    Ciclo:           20201
+    Codigo:          FIS247
+    Creditos:        4.5
+
+    Calificacion:    8
+    Ciclo:           20201
+    Codigo:          MEC206
+    Creditos:        4.5
+
+    Calificacion:    15
+    Ciclo:           20201
+    Codigo:          FIS208
+    Creditos:        4.5
+
+    Calificacion:    8
+    Ciclo:           20201
+    Codigo:          INF282
+    Creditos:        5
+
+    Calificacion:    14
+    Ciclo:           20202
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20202
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    15
+    Ciclo:           20211
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    17
+    Ciclo:           20211
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    5
+    Ciclo:           20211
+    Codigo:          INF282
+    Creditos:        5
+
+    Calificacion:    16
+    Ciclo:           20212
+    Codigo:          FIS208
+    Creditos:        4.5
+
+    Calificacion:    14
+    Ciclo:           20212
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    9
+    Ciclo:           20212
+    Codigo:          INF250
+    Creditos:        5
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          INF220
+    Creditos:        5
+
+    Calificacion:    14
+    Ciclo:           20221
+    Codigo:          INF282
+    Creditos:        5
+
+    Calificacion:    8
+    Ciclo:           20221
+    Codigo:          INF250
+    Creditos:        5
+
+    Calificacion:    7
+    Ciclo:           20221
+    Codigo:          INF239
+    Creditos:        4
+
+    Calificacion:    13
+    Ciclo:           20222
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20222
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    9
+    Ciclo:           20222
+    Codigo:          MEC206
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20231
+    Codigo:          INF250
+    Creditos:        5
+
+    Calificacion:    8
+    Ciclo:           20231
+    Codigo:          MEC206
+    Creditos:        4.5
+
+    Calificacion:    15
+    Ciclo:           20231
+    Codigo:          INF239
+    Creditos:        4
+
+Codigo:     202119153
+Nombre:     MENDOZA ARIAS HENRY
+
+    Calificacion:    7
+    Ciclo:           20201
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    10
+    Ciclo:           20202
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    8
+    Ciclo:           20202
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    15
+    Ciclo:           20221
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    19
+    Ciclo:           20221
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    1
+    Ciclo:           20221
+    Codigo:          FIS227
+    Creditos:        4.5
+
+    Calificacion:    14
+    Ciclo:           20221
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    17
+    Ciclo:           20221
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    1
+    Ciclo:           20222
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    15
+    Ciclo:           20222
+    Codigo:          MAT781
+    Creditos:        3
+
+    Calificacion:    16
+    Ciclo:           20222
+    Codigo:          FIS227
+    Creditos:        4.5
+
+    Calificacion:    15
+    Ciclo:           20231
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    12
+    Ciclo:           20231
+    Codigo:          INF239
+    Creditos:        4
+
+Codigo:     202119707
+Nombre:     MIRANDA LARRIEGA JUVENAL NESTOR
+
+    Calificacion:    15
+    Ciclo:           20201
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    16
+    Ciclo:           20202
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    11
+    Ciclo:           20202
+    Codigo:          MAT781
+    Creditos:        3
+
+    Calificacion:    12
+    Ciclo:           20211
+    Codigo:          FIS227
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20211
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    11
+    Ciclo:           20211
+    Codigo:          MEC206
+    Creditos:        4.5
+
+    Calificacion:    15
+    Ciclo:           20221
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    13
+    Ciclo:           20221
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    12
+    Ciclo:           20221
+    Codigo:          MAT218
+    Creditos:        4.5
+
+    Calificacion:    15
+    Ciclo:           20221
+    Codigo:          MEC270
+    Creditos:        4
+
+    Calificacion:    14
+    Ciclo:           20222
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    14
+    Ciclo:           20222
+    Codigo:          INF282
+    Creditos:        5
+
+    Calificacion:    13
+    Ciclo:           20222
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    15
+    Ciclo:           20222
+    Codigo:          FIS247
+    Creditos:        4.5
+
+    Calificacion:    19
+    Ciclo:           20222
+    Codigo:          MEC2T3
+    Creditos:        1
+
+    Calificacion:    19
+    Ciclo:           20231
+    Codigo:          INF239
+    Creditos:        4
+
+    Calificacion:    15
+    Ciclo:           20231
+    Codigo:          FIS208
+    Creditos:        4.5
+
+Codigo:     202119958
+Nombre:     QUISPE BERROCAL ANTONIO ALVARO DANIEL
+
+    Calificacion:    19
+    Ciclo:           20201
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    18
+    Ciclo:           20211
+    Codigo:          INF220
+    Creditos:        5
+
+    Calificacion:    14
+    Ciclo:           20211
+    Codigo:          MEC269
+    Creditos:        1
+
+    Calificacion:    10
+    Ciclo:           20211
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    17
+    Ciclo:           20212
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    13
+    Ciclo:           20212
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20212
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    7
+    Ciclo:           20212
+    Codigo:          MEC373
+    Creditos:        3
+
+    Calificacion:    6
+    Ciclo:           20212
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    16
+    Ciclo:           20221
+    Codigo:          MEC286
+    Creditos:        4.25
+
+    Calificacion:    12
+    Ciclo:           20221
+    Codigo:          MEC270
+    Creditos:        4
+
+    Calificacion:    8
+    Ciclo:           20221
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    15
+    Ciclo:           20231
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    11
+    Ciclo:           20231
+    Codigo:          FIS230
+    Creditos:        3
+
+Codigo:     202121791
+Nombre:     GONZALES VELASQUEZ WALTER
+
+    Calificacion:    15
+    Ciclo:           20201
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    7
+    Ciclo:           20202
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    17
+    Ciclo:           20202
+    Codigo:          INF220
+    Creditos:        5
+
+    Calificacion:    11
+    Ciclo:           20202
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    10
+    Ciclo:           20202
+    Codigo:          INF263
+    Creditos:        3.75
+
+    Calificacion:    16
+    Ciclo:           20202
+    Codigo:          FIS239
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20211
+    Codigo:          MEC270
+    Creditos:        4
+
+    Calificacion:    19
+    Ciclo:           20211
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    9
+    Ciclo:           20211
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    11
+    Ciclo:           20211
+    Codigo:          MAT781
+    Creditos:        3
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          FIS230
+    Creditos:        3
+
+    Calificacion:    17
+    Ciclo:           20221
+    Codigo:          MEC286
+    Creditos:        4.25
+
+    Calificacion:    7
+    Ciclo:           20221
+    Codigo:          MEC373
+    Creditos:        3
+
+    Calificacion:    13
+    Ciclo:           20222
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    15
+    Ciclo:           20222
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    15
+    Ciclo:           20231
+    Codigo:          INF282
+    Creditos:        5
+
+    Calificacion:    13
+    Ciclo:           20231
+    Codigo:          MEC269
+    Creditos:        1
+
+Codigo:     202122742
+Nombre:     ZAVALETA LOPEZ KARIN VIRGINIA
+
+    Calificacion:    6
+    Ciclo:           20201
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    10
+    Ciclo:           20202
+    Codigo:          INF220
+    Creditos:        5
+
+    Calificacion:    9
+    Ciclo:           20202
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    6
+    Ciclo:           20202
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    9
+    Ciclo:           20211
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    8
+    Ciclo:           20211
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    10
+    Ciclo:           20211
+    Codigo:          INF220
+    Creditos:        5
+
+    Calificacion:    10
+    Ciclo:           20212
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    3
+    Ciclo:           20212
+    Codigo:          MEC286
+    Creditos:        4.25
+
+    Calificacion:    10
+    Ciclo:           20221
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          INF220
+    Creditos:        5
+
+    Calificacion:    5
+    Ciclo:           20221
+    Codigo:          MEC286
+    Creditos:        4.25
+
+    Calificacion:    11
+    Ciclo:           20231
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    12
+    Ciclo:           20231
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    13
+    Ciclo:           20231
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    14
+    Ciclo:           20231
+    Codigo:          MEC286
+    Creditos:        4.25
+
+Codigo:     202123373
+Nombre:     ESCALANTE RARAZ BLANCA
+
+    Calificacion:    12
+    Ciclo:           20201
+    Codigo:          MAT218
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20201
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    12
+    Ciclo:           20201
+    Codigo:          INF282
+    Creditos:        5
+
+    Calificacion:    12
+    Ciclo:           20201
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    12
+    Ciclo:           20202
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20202
+    Codigo:          FIS239
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20202
+    Codigo:          MAT219
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20211
+    Codigo:          FIS208
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20211
+    Codigo:          MEC286
+    Creditos:        4.25
+
+    Calificacion:    12
+    Ciclo:           20212
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    12
+    Ciclo:           20212
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20221
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20221
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    12
+    Ciclo:           20222
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    12
+    Ciclo:           20231
+    Codigo:          FIS247
+    Creditos:        4.5
+
+Codigo:     202123402
+Nombre:     VIZCARDO MORI LUCERO ZKENIA
+
+    Calificacion:    13
+    Ciclo:           20201
+    Codigo:          MAT218
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20201
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20201
+    Codigo:          FIS208
+    Creditos:        4.5
+
+    Calificacion:    6
+    Ciclo:           20201
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    11
+    Ciclo:           20201
+    Codigo:          MEC2T3
+    Creditos:        1
+
+    Calificacion:    15
+    Ciclo:           20202
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    14
+    Ciclo:           20202
+    Codigo:          FIS208
+    Creditos:        4.5
+
+    Calificacion:    8
+    Ciclo:           20202
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    9
+    Ciclo:           20202
+    Codigo:          FIS239
+    Creditos:        4.5
+
+    Calificacion:    13
+    Ciclo:           20211
+    Codigo:          FIS208
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20211
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    11
+    Ciclo:           20211
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20211
+    Codigo:          MEC286
+    Creditos:        4.25
+
+    Calificacion:    15
+    Ciclo:           20212
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    14
+    Ciclo:           20212
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    15
+    Ciclo:           20212
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    4
+    Ciclo:           20212
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    13
+    Ciclo:           20221
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    15
+    Ciclo:           20222
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    14
+    Ciclo:           20222
+    Codigo:          FIS247
+    Creditos:        4.5
+
+    Calificacion:    13
+    Ciclo:           20231
+    Codigo:          FIS247
+    Creditos:        4.5
+
+Codigo:     202123703
+Nombre:     GAMARRA TABORI PAUL RONAL
+
+    Calificacion:    13
+    Ciclo:           20201
+    Codigo:          MAT218
+    Creditos:        4.5
+
+    Calificacion:    16
+    Ciclo:           20202
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20202
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    15
+    Ciclo:           20211
+    Codigo:          FIS208
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20211
+    Codigo:          FIS239
+    Creditos:        4.5
+
+    Calificacion:    16
+    Ciclo:           20212
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    15
+    Ciclo:           20212
+    Codigo:          MEC286
+    Creditos:        4.25
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    17
+    Ciclo:           20222
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    14
+    Ciclo:           20231
+    Codigo:          FIS247
+    Creditos:        4.5
+
+Codigo:     202125607
+Nombre:     POZO JUGO ISABEL
+
+    Calificacion:    9
+    Ciclo:           20201
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    13
+    Ciclo:           20202
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    15
+    Ciclo:           20211
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    12
+    Ciclo:           20211
+    Codigo:          FIS247
+    Creditos:        4.5
+
+    Calificacion:    17
+    Ciclo:           20212
+    Codigo:          MEC270
+    Creditos:        4
+
+    Calificacion:    17
+    Ciclo:           20212
+    Codigo:          INF246
+    Creditos:        3.75
+
+    Calificacion:    10
+    Ciclo:           20212
+    Codigo:          FIS208
+    Creditos:        4.5
+
+    Calificacion:    19
+    Ciclo:           20221
+    Codigo:          MEC2T3
+    Creditos:        1
+
+    Calificacion:    18
+    Ciclo:           20221
+    Codigo:          FIS219
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20221
+    Codigo:          FIS218
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20231
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    19
+    Ciclo:           20231
+    Codigo:          MAT218
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20231
+    Codigo:          INF220
+    Creditos:        5
+
+Codigo:     202125775
+Nombre:     PRADO PAREDES JUAN
+
+    Calificacion:    10
+    Ciclo:           20201
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    7
+    Ciclo:           20201
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    9
+    Ciclo:           20201
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    14
+    Ciclo:           20211
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    9
+    Ciclo:           20211
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    7
+    Ciclo:           20211
+    Codigo:          INF245
+    Creditos:        4
+
+    Calificacion:    12
+    Ciclo:           20211
+    Codigo:          MEC2T3
+    Creditos:        1
+
+    Calificacion:    12
+    Ciclo:           20211
+    Codigo:          FIS220
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20221
+    Codigo:          MEC209
+    Creditos:        5.25
+
+    Calificacion:    14
+    Ciclo:           20231
+    Codigo:          MEC270
+    Creditos:        4
+
+    Calificacion:    16
+    Ciclo:           20231
+    Codigo:          FIS247
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20231
+    Codigo:          MAT218
+    Creditos:        4.5
+
+    Calificacion:    7
+    Ciclo:           20231
+    Codigo:          INF245
+    Creditos:        4
+
+Codigo:     202126490
+Nombre:     TAVERA CORREA FERNANDO
+
+    Calificacion:    5
+    Ciclo:           20201
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    5
+    Ciclo:           20202
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    12
+    Ciclo:           20202
+    Codigo:          FIS229
+    Creditos:        6
+
+    Calificacion:    9
+    Ciclo:           20202
+    Codigo:          INF250
+    Creditos:        5
+
+    Calificacion:    11
+    Ciclo:           20202
+    Codigo:          FIS239
+    Creditos:        4.5
+
+    Calificacion:    7
+    Ciclo:           20211
+    Codigo:          INF250
+    Creditos:        5
+
+    Calificacion:    16
+    Ciclo:           20211
+    Codigo:          MAT219
+    Creditos:        4.5
+
+    Calificacion:    9
+    Ciclo:           20211
+    Codigo:          FIS239
+    Creditos:        4.5
+
+    Calificacion:    11
+    Ciclo:           20211
+    Codigo:          MAT781
+    Creditos:        3
+
+    Calificacion:    7
+    Ciclo:           20212
+    Codigo:          FIS239
+    Creditos:        4.5
+
+    Calificacion:    13
+    Ciclo:           20212
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    9
+    Ciclo:           20212
+    Codigo:          MAT781
+    Creditos:        3
+
+    Calificacion:    7
+    Ciclo:           20222
+    Codigo:          MAT781
+    Creditos:        3
+
+    Calificacion:    13
+    Ciclo:           20222
+    Codigo:          FIS248
+    Creditos:        4.5
+
+Codigo:     202127344
+Nombre:     DEL_POZO QUIO CESAR
+
+    Calificacion:    17
+    Ciclo:           20221
+    Codigo:          INF239
+    Creditos:        4
+
+Codigo:     202127660
+Nombre:     CHANG ARGUEDAS HENRY ANTONIO
+
+    Calificacion:    11
+    Ciclo:           20202
+    Codigo:          MEC2T2
+    Creditos:        4.5
+
+    Calificacion:    19
+    Ciclo:           20202
+    Codigo:          FIS203
+    Creditos:        4.5
+
+    Calificacion:    20
+    Ciclo:           20202
+    Codigo:          MEC269
+    Creditos:        1
+
+    Calificacion:    13
+    Ciclo:           20202
+    Codigo:          INF220
+    Creditos:        5
+
+    Calificacion:    12
+    Ciclo:           20211
+    Codigo:          MAT219
+    Creditos:        4.5
+
+    Calificacion:    18
+    Ciclo:           20211
+    Codigo:          MEC289
+    Creditos:        4.25
+
+    Calificacion:    15
+    Ciclo:           20211
+    Codigo:          MEC286
+    Creditos:        4.25
+
+    Calificacion:    13
+    Ciclo:           20211
+    Codigo:          MEC206
+    Creditos:        4.5
+
+    Calificacion:    13
+    Ciclo:           20212
+    Codigo:          FIS247
+    Creditos:        4.5
+
+    Calificacion:    17
+    Ciclo:           20212
+    Codigo:          FIS248
+    Creditos:        4.5
+
+    Calificacion:    15
+    Ciclo:           20212
+    Codigo:          MAT241
+    Creditos:        3
+
+    Calificacion:    13
+    Ciclo:           20212
+    Codigo:          INF282
+    Creditos:        5
+
+    Calificacion:    14
+    Ciclo:           20222
+    Codigo:          MAT781
+    Creditos:        3
+
+    Calificacion:    16
+    Ciclo:           20222
+    Codigo:          INF248
+    Creditos:        5
+
+    Calificacion:    15
+    Ciclo:           20222
+    Codigo:          FIS208
+    Creditos:        4.5
+
+    Calificacion:    13
+    Ciclo:           20222
+    Codigo:          FIS219
+    Creditos:        4.5
+

@@ -1,0 +1,104 @@
+Titulo:Educacion
+Peso: 0.18
+ISSN:10199403    Anho: 2024     Vigencia: 1
+
+Titulo:Educacion
+Peso: 0.18
+ISSN:10199404    Anho: 2023     Vigencia: 1
+
+Titulo:Educacion
+Peso: 0.18
+ISSN:10199405    Anho: 2023     Vigencia: 1
+
+Titulo:Educacion
+Peso: 0.18
+ISSN:10199406    Anho: 2023     Vigencia: 1
+
+Titulo:Educacion
+Peso: 0.18
+ISSN:10199407    Anho: 2022     Vigencia: 1
+
+Titulo:Educacion
+Peso: 0.18
+ISSN:10199408    Anho: 2022     Vigencia: 1
+
+Titulo:Educacion
+Peso: 0.18
+ISSN:10199409    Anho: 2022     Vigencia: 1
+
+Titulo:Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN:10292004    Anho: 2023     Vigencia: 1
+
+Titulo:Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN:10292005    Anho: 2023     Vigencia: 1
+
+Titulo:Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN:10292006    Anho: 2023     Vigencia: 1
+
+Titulo:Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN:10292007    Anho: 2022     Vigencia: 1
+
+Titulo:Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN:10292008    Anho: 2022     Vigencia: 1
+
+Titulo:Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN:10292009    Anho: 2021     Vigencia: 1
+
+Titulo:Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN:10292010    Anho: 2021     Vigencia: 1
+
+Titulo:Boletin de Arqueologia PUCP
+Peso: 0.25
+ISSN:10292011    Anho: 2019     Vigencia: 1
+
+Titulo:Revista de Psicologia
+Peso: 0.2
+ISSN:12549246    Anho: 2022     Vigencia: 1
+
+Titulo:Revista de Psicologia
+Peso: 0.2
+ISSN:12549247    Anho: 2024     Vigencia: 1
+
+Titulo:Revista de Psicologia
+Peso: 0.2
+ISSN:12549248    Anho: 2023     Vigencia: 1
+
+Titulo:Revista de Psicologia
+Peso: 0.2
+ISSN:12549249    Anho: 2023     Vigencia: 1
+
+Titulo:Historica
+Peso: 0.25
+ISSN:2223369    Anho: 2019     Vigencia: 1
+
+Titulo:Historica
+Peso: 0.25
+ISSN:2223370    Anho: 2022     Vigencia: 1
+
+Titulo:Historica
+Peso: 0.25
+ISSN:2223371    Anho: 2022     Vigencia: 1
+
+Titulo:Historica
+Peso: 0.25
+ISSN:2223372    Anho: 2022     Vigencia: 1
+
+Titulo:Historica
+Peso: 0.25
+ISSN:2223373    Anho: 2022     Vigencia: 1
+
+Titulo:Historica
+Peso: 0.25
+ISSN:2223374    Anho: 2023     Vigencia: 1
+
+Titulo:Historica
+Peso: 0.25
+ISSN:2223375    Anho: 2023     Vigencia: 1
+

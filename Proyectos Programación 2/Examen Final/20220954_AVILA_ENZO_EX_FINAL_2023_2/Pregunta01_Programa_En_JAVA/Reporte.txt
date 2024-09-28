@@ -1,0 +1,418 @@
+EMPRESA DE TRANSPORTE TURISTICO
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+P9A-528    CASTILLO/MEJIA/GUSTAVO-ALONSO             0    0
+Ruta: Lima            Ica             Arequipa        Moquegua        Tacna           
+Lista de pasajeros:
+25171011  CRUZ/JUGO/SANDRO-FAUSTO                  Arequipa       Valija: Si Almuerzo: No Tarifa extra: 85.50
+39923112  SEGURA/MALCA/RONY                        Arequipa       Valija: Si Almuerzo: No Tarifa extra: 85.50
+87800799  QUIROGA/SALAZAR/JOHNNY-ROBERTO           Arequipa       Valija: Si Almuerzo: Si Tarifa extra: 141.40
+67418025  MOSCOSO/SUELDO/MARINA                    Moquegua       Valija: Si Almuerzo: Si Tarifa extra: 141.40
+77484838  EPIQUEN/ALAMO/NANCY                      Ica            Articulos: Antifaz    Vino       Pantuflas  
+78755618  DE-LA-CUBA/JUGO/LUCERO-DELICIA           Moquegua       Valija: Si Almuerzo: No Tarifa extra: 85.50
+59297012  AYALA/ZEVALLOS/JOHAN-ENRIQUE             Arequipa       Valija: No Almuerzo: Si Tarifa extra: 55.90
+64394265  SALAZAR/GONZALES/DAVID-RAFAEL            Ica            Valija: No Almuerzo: No Tarifa extra: 0.00
+31611146  LANDEO/LARRIEGA/MARTIN                   Tacna          Valija: No Almuerzo: Si Tarifa extra: 55.90
+34057485  VEGA/GARCIA/JANET-REBECA                 Ica            Valija: No Almuerzo: Si Tarifa extra: 55.90
+40348917  VEGA/TSUKAZAN/VALENTINA                  Ica            Valija: No Almuerzo: Si Tarifa extra: 55.90
+55661032  FLORIAN/MORALES/YDALI                    Ica            Articulos: Almohada   Whisky     
+24596637  LAU/BACA/MONICA-TERESA                   Arequipa       Articulos: Pantuflas  
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+H9R-580    SAENZ/ARANDA/WILMER                       3    6
+Ruta: Lima            Junin           Pasco           Pucallpa        
+Lista de pasajeros:
+76388967  GONZALES/QUIO/ISABEL                     Junin          Valija: No Almuerzo: Si Tarifa extra: 55.90
+50375303  SANCHEZ/HUAYANAY/DIALY-LUCERO            Pasco          Valija: No Almuerzo: No Tarifa extra: 0.00
+19580504  MONTERO/BOLANOS/OFELIA-BEATRIZ           Pasco          Valija: Si Almuerzo: Si Tarifa extra: 141.40
+81310110  MENDOZA/EGUSQUIZA/ROSARIO                Pucallpa       Valija: Si Almuerzo: Si Tarifa extra: 141.40
+48184351  LOPEZ/JAUREGUI/ROLANDO                   Pasco          Articulos: Whisky     Gaseosa    Audifonos  Almohada   
+54761731  LOYOLA/IBEROS/ANGEL-GUSTAVO              Pucallpa       Articulos: Audifonos  Pisco      Antifaz    Pantuflas  Almohada   
+31419360  LAURA/WONG/MELVIN-HENRRY                 Pucallpa       Valija: Si Almuerzo: Si Tarifa extra: 141.40
+50862708  ZIMIC/SALAS/FRANCISCO                    Junin          Valija: No Almuerzo: No Tarifa extra: 0.00
+78500352  IBEROS/VALDERRAMA/RAFAEL                 Junin          Valija: No Almuerzo: Si Tarifa extra: 55.90
+95161027  FALCON/POZO/WALTER                       Junin          Valija: No Almuerzo: No Tarifa extra: 0.00
+28546649  LOPEZ/LAURA/FELICITA                     Pasco          Articulos: Pantuflas  Pisco      Antifaz    
+81190754  MEDINA/VELASQUEZ/MILENA-JENNY            Pucallpa       Valija: No Almuerzo: Si Tarifa extra: 55.90
+19449476  ROSEMBERG/LAU/JULIO-HENRRY               Pasco          Valija: No Almuerzo: No Tarifa extra: 0.00
+45828535  SEDANO/MERCADO/FIORELLA-GLORIA           Pasco          Valija: Si Almuerzo: No Tarifa extra: 85.50
+90983614  ESCALANTE/ESPINO/EMIGDIO-FRANCISCO       Pucallpa       Valija: Si Almuerzo: No Tarifa extra: 85.50
+83505958  CONTRERAS/MEZA/ERIKA-BLANCA              Pucallpa       Valija: Si Almuerzo: No Tarifa extra: 85.50
+46462527  LOYOLA/MORI/NICOLAS-FERNANDO             Pucallpa       Valija: No Almuerzo: No Tarifa extra: 0.00
+87503190  CASTILLO/CHUNG/FELICITA-ERIKA            Junin          Valija: No Almuerzo: No Tarifa extra: 0.00
+26290971  SANTISTEBAN/AYALA/CAROLA-MARITZA         Pucallpa       Valija: No Almuerzo: No Tarifa extra: 0.00
+78078115  TSUKAZAN/AMEZQUITA/DELIA                 Pasco          Articulos: Pantuflas  Almohada   Whisky     Antifaz    
+89863424  SANTISTEBAN/BRAVO/EDGARD                 Pasco          Valija: No Almuerzo: Si Tarifa extra: 55.90
+78862029  URBINA/HIJAR/RAFAEL                      Pucallpa       Valija: Si Almuerzo: Si Tarifa extra: 141.40
+25504077  LAU/VIZCARRA/HECTOR-ALEX                 Pasco          Articulos: Whisky     Gaseosa    Antifaz    
+35065161  AURIS/ZIMIC/JAVIER-DANIEL                Pasco          Valija: Si Almuerzo: No Tarifa extra: 85.50
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+V1S-429    CALIXTO/TORRES/MIGUEL                     0    0
+Ruta: Lima            Huanuco         Pucallpa        Yurimaguas      Iquitos         
+Lista de pasajeros:
+69975105  VALDERRAMA/MENDOZA/LUIS-ADOLFO           Huanuco        Valija: No Almuerzo: No Tarifa extra: 0.00
+81274303  BARRIOS/TOMASICHE/CARLOS-ALBERTO         Yurimaguas     Articulos: Almohada   Antifaz    
+35956910  VEGA/MUNOZ/GONZALO                       Iquitos        Articulos: Gaseosa    Almohada   
+11743727  REYES/TANG/EDWARD                        Yurimaguas     Valija: No Almuerzo: No Tarifa extra: 0.00
+27473221  JUSTINO/NORABUENA/VIRGINIA-KARINA        Yurimaguas     Valija: Si Almuerzo: No Tarifa extra: 85.50
+54716824  VALVERDE/SEGURA/MIGUEL-JOSE              Yurimaguas     Valija: No Almuerzo: No Tarifa extra: 0.00
+28014253  GONZALES/ARIAS/HENRY                     Iquitos        Valija: Si Almuerzo: Si Tarifa extra: 141.40
+13588661  URBINA/CASTILLO/HELI                     Yurimaguas     Articulos: Audifonos  
+87334863  URBINA/ANTEZANO/VALENTINA-PAULA          Iquitos        Valija: Si Almuerzo: Si Tarifa extra: 141.40
+45877001  SORIA/VILLA/HENRRY                       Yurimaguas     Articulos: Whisky     Vino       Cobertor   Almohada   
+29847168  ALDAVE/ZEVALLOS/ROSARIO                  Yurimaguas     Valija: Si Almuerzo: No Tarifa extra: 85.50
+89148118  ZAMBRANO/LEYVA/ALVARO                    Iquitos        Valija: No Almuerzo: Si Tarifa extra: 55.90
+65745002  SINCHE/RIVERO/YVONNE-SILVANA             Yurimaguas     Articulos: Whisky     
+73884562  PATINO/CHUNG/BEATRIZ-ROSA                Iquitos        Valija: No Almuerzo: No Tarifa extra: 0.00
+83236386  RIVERO/CORRALES/JUAN-FERNANDO            Iquitos        Valija: No Almuerzo: Si Tarifa extra: 55.90
+71762850  VALDERRAMA/CHANG/JOHAN-JUVENAL           Iquitos        Valija: Si Almuerzo: No Tarifa extra: 85.50
+47944203  PAIRAZAMAN/ALAMO/MOISES-MIGUEL           Huanuco        Valija: No Almuerzo: Si Tarifa extra: 55.90
+90404826  ESCALANTE/ROJAS/INES-ADRIA               Iquitos        Valija: Si Almuerzo: No Tarifa extra: 85.50
+35565959  VILCARA/RODRIGUEZ/ANNIE                  Yurimaguas     Valija: Si Almuerzo: Si Tarifa extra: 141.40
+27530155  LANDA/CABRERA/JAVIER-EDGARD              Yurimaguas     Valija: Si Almuerzo: No Tarifa extra: 85.50
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+Z0V-608    ZARATE/URBINA/DELIA                       0    0
+Ruta: Lima            Huaraz          Trujillo        Cajamarca       Chachapoyas     Tarapoto        
+Lista de pasajeros:
+59407188  CANALES/MOYA/ALONSO-JULIO                Trujillo       Articulos: Antifaz    Whisky     Pisco      
+23972672  HIJAR/PAIRAZAMAN/JENNY-DELICIA           Huaraz         Valija: No Almuerzo: No Tarifa extra: 0.00
+24833706  HAZA/CABRERA/ALBERTO                     Tarapoto       Articulos: Pantuflas  
+52256304  SUAREZ/MUNOZ/MADELEINE                   Trujillo       Articulos: Antifaz    
+26221442  PRECIADO/PINTO/SURAMI-HELI               Cajamarca      Articulos: Almohada   Audifonos  Gaseosa    Antifaz    Pisco      
+58187172  SUAREZ/ZIMIC/MOISES                      Cajamarca      Articulos: Pantuflas  Vino       Whisky     
+24829546  DURAND/MEZA/WALDEMAR-EDGARD              Trujillo       Articulos: Cobertor   
+78475257  JAUREGUI/BRAVO/LUZ-SOFIA                 Cajamarca      Valija: No Almuerzo: Si Tarifa extra: 55.90
+95751208  CORONEL/ZEGARRA/FIORELLA                 Cajamarca      Valija: Si Almuerzo: Si Tarifa extra: 141.40
+45783712  POZO/CHUNG/RAFAEL                        Trujillo       Valija: Si Almuerzo: No Tarifa extra: 85.50
+17711594  MALDONADO/FLORIAN/JOHANA                 Huaraz         Valija: Si Almuerzo: Si Tarifa extra: 141.40
+45132265  DIAZ/ANTEZANO/MAGALI-SILVANA             Huaraz         Articulos: Audifonos  Pantuflas  
+62566305  ROMERO/ALFARO/MONICA-JOHANA              Trujillo       Valija: No Almuerzo: Si Tarifa extra: 55.90
+73831431  MALDONADO/RAMIREZ/SILVANA                Huaraz         Valija: Si Almuerzo: Si Tarifa extra: 141.40
+55626526  MOSCOSO/ARIAS/FIORELLA                   Huaraz         Valija: Si Almuerzo: Si Tarifa extra: 141.40
+79875775  SALAS/AGUERO/DANIEL                      Huaraz         Valija: No Almuerzo: No Tarifa extra: 0.00
+29337157  VIZCARDO/YEP/GUIDA-YOLANDA               Tarapoto       Valija: Si Almuerzo: Si Tarifa extra: 141.40
+62324793  GAVIDIA/MORENO/ISRAEL-ROLANDO            Cajamarca      Valija: No Almuerzo: Si Tarifa extra: 55.90
+69639726  ROJAS/PATINO/GONZALO-JAIR                Trujillo       Valija: No Almuerzo: Si Tarifa extra: 55.90
+69158037  PEREZ/FARFAN/RICHARD-SANDRO              Huaraz         Valija: Si Almuerzo: Si Tarifa extra: 141.40
+17913944  PALOMARES/SANTISTEBAN/HENRRY             Huaraz         Valija: Si Almuerzo: Si Tarifa extra: 141.40
+43877279  RARAZ/SUCHERO/ADOLFO                     Tarapoto       Valija: Si Almuerzo: No Tarifa extra: 85.50
+99532801  PRECIADO/TOKESHI/HENRY                   Chachapoyas    Valija: No Almuerzo: No Tarifa extra: 0.00
+16159030  CORTEZ/SEGURA/CARMELA-INES               Tarapoto       Valija: Si Almuerzo: Si Tarifa extra: 141.40
+71378466  MIYAKE/CARO/HENRRY-EDGAR                 Cajamarca      Valija: Si Almuerzo: No Tarifa extra: 85.50
+22010173  HERNANDEZ/BARRIOS/EMILIO                 Huaraz         Valija: Si Almuerzo: No Tarifa extra: 85.50
+64333011  JUSTINO/FORZANI/ERICKA-VICTORIA          Tarapoto       Valija: No Almuerzo: No Tarifa extra: 0.00
+81114108  ZAMBRANO/SHIRAKAWA/WILMER                Tarapoto       Valija: No Almuerzo: Si Tarifa extra: 55.90
+28390487  IPARRAGUIRRE/PAREDES/RAUL                Trujillo       Valija: No Almuerzo: Si Tarifa extra: 55.90
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+Q8B-464    ZAMORA/CABRERA/CARMEN                     0    0
+Ruta: Lima            Huaraz          Trujillo        Chiclayo        Piura           Sullana         Tumbes          
+Lista de pasajeros:
+15561764  VILLEGAS/CASTRO/ALONSO                   Sullana        Valija: No Almuerzo: No Tarifa extra: 0.00
+70532120  CRUZ/FUENTES/JOHANA-YDALI                Tumbes         Articulos: Almohada   Antifaz    
+42804086  FARFAN/FALCON/ELIZABETH-KARIN            Chiclayo       Valija: No Almuerzo: Si Tarifa extra: 55.90
+52338712  CHAVEZ/PRADO/SILVANA                     Tumbes         Valija: No Almuerzo: Si Tarifa extra: 55.90
+79420973  AURIS/JOLAY/DIANA                        Piura          Valija: No Almuerzo: No Tarifa extra: 0.00
+23716946  SHIRAKAWA/MIRANDA/MADELEINE              Piura          Valija: No Almuerzo: No Tarifa extra: 0.00
+50365593  SUAREZ/BRAVO/MARIELLA-TATIANA            Sullana        Valija: No Almuerzo: Si Tarifa extra: 55.90
+33332473  CARO/POLO/SANDRO                         Tumbes         Articulos: Pisco      Almohada   
+14170550  LANDEO/CHAVARRI/FAUSTO                   Chiclayo       Articulos: Vino       Whisky     Cobertor   
+66433105  SERRANO/RAMIREZ/ARTURO-GUSTAVO           Chiclayo       Valija: No Almuerzo: No Tarifa extra: 0.00
+24995742  MEREL/TAVERA/WALTER                      Chiclayo       Articulos: Vino       Gaseosa    Audifonos  
+64877170  CALIXTO/TOMASICHE/MONICA-DORIS           Chiclayo       Articulos: Gaseosa    
+32904023  PRADO/FORZANI/LOURDES                    Chiclayo       Valija: Si Almuerzo: No Tarifa extra: 85.50
+33718985  LANDEO/ESTRADA/MIGUEL-ALEX               Sullana        Articulos: Gaseosa    Pisco      Almohada   Whisky     Pantuflas  
+52650685  GUEVARA/MIYAKE/MILENA                    Tumbes         Valija: Si Almuerzo: No Tarifa extra: 85.50
+53166028  CANO/CHUNG/EMILIO-NICOLAS                Tumbes         Valija: No Almuerzo: No Tarifa extra: 0.00
+79464412  PORTUGAL/RAFFO/ALEXANDER                 Piura          Articulos: Gaseosa    Vino       Almohada   Pantuflas  Pisco      
+79475585  RETTO/ARCA/ANNIE-MAGDA                   Sullana        Valija: Si Almuerzo: Si Tarifa extra: 141.40
+62229503  BENITES/BENAVENTE/FLOR-PATRICIA          Chiclayo       Valija: Si Almuerzo: Si Tarifa extra: 141.40
+24716202  PINTO/CALIXTO/SHIRLEY                    Sullana        Valija: Si Almuerzo: Si Tarifa extra: 141.40
+69324480  FLORES/IPARRAGUIRRE/HENRRY-RICARDO       Piura          Valija: Si Almuerzo: No Tarifa extra: 85.50
+65873711  SALAS/URBINA/MAGDA-CARMEN                Chiclayo       Articulos: Pantuflas  
+63124303  GAVIDIA/ESCALANTE/EVERT-GONZALO          Piura          Articulos: Pisco      Whisky     
+50222718  GORDILLO/YINO/YVONNE-ROSARIO             Piura          Valija: Si Almuerzo: No Tarifa extra: 85.50
+36008913  CASTILLO/ZAMORA/VICTOR-NESTOR            Sullana        Valija: No Almuerzo: Si Tarifa extra: 55.90
+59608456  LANDEO/SUELDO/ADOLFO                     Tumbes         Valija: No Almuerzo: No Tarifa extra: 0.00
+92039993  VARGAS/ALAMO/DANIEL                      Huaraz         Valija: Si Almuerzo: Si Tarifa extra: 141.40
+79140840  TORREALBA/ARCA/VICTORIA-GLENDA           Huaraz         Valija: Si Almuerzo: No Tarifa extra: 85.50
+48537380  PATINO/BOLANOS/DELICIA-VIRGINIA          Sullana        Valija: Si Almuerzo: No Tarifa extra: 85.50
+80294521  CHUMPITAZ/ALCOCER/ANGEL-ERICK            Trujillo       Valija: No Almuerzo: Si Tarifa extra: 55.90
+54073409  RAFFO/ARIAS/SURAMI-ANNIE                 Huaraz         Valija: Si Almuerzo: Si Tarifa extra: 141.40
+47925388  MIRANDA/CHUMPITAZ/ALFONSO                Tumbes         Valija: No Almuerzo: No Tarifa extra: 0.00
+80048864  JUSTINO/CASTILLO/SANDRO-CHRISTIAN        Tumbes         Valija: No Almuerzo: No Tarifa extra: 0.00
+66409237  CANO/DELGADO/WILLIAMS                    Chiclayo       Valija: No Almuerzo: Si Tarifa extra: 55.90
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+M3H-482    CABRERA/MORENO/DELIA-ESTEFANIA            5   19
+Ruta: Lima            Huacho          Pasco           
+Lista de pasajeros:
+61358228  CABRERA/LUNA/SHIRLEY-ISABEL              Huacho         Articulos: Pisco      Whisky     
+87000267  BENAVENTE/ARANDA/MOISES                  Huacho         Articulos: Audifonos  Vino       Almohada   
+67592501  MORI/SUAREZ/EDILBERTO-JESUS              Huacho         Articulos: Almohada   Gaseosa    Pisco      Vino       Audifonos  
+56196922  ORTIZ/DURAND/RAUL                        Huacho         Valija: Si Almuerzo: No Tarifa extra: 85.50
+17366750  FERNANDEZ/ORTEGA/ELIZABETH-ELIZABETH     Huacho         Articulos: Audifonos  Whisky     
+24304492  ROMERO/PALOMARES/GLORIA-TATIANA          Huacho         Valija: Si Almuerzo: Si Tarifa extra: 141.40
+25669913  VARGAS/GUEVARA/HUMBERTO-ALBERTO          Huacho         Valija: No Almuerzo: No Tarifa extra: 0.00
+86402303  RUIZ/RUIZ/OFELIA-DELIA                   Huacho         Valija: Si Almuerzo: Si Tarifa extra: 141.40
+26976877  TORO/DE-LA-CUBA/DIALY-DIANA              Huacho         Valija: No Almuerzo: No Tarifa extra: 0.00
+42928709  HERNANDEZ/MALCA/VIRGINIA                 Huacho         Valija: Si Almuerzo: No Tarifa extra: 85.50
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+G8Y-563    FLORENCIO/POLO/FIORELLA-ERIKA            10   23
+Ruta: Lima            Ayacucho        Abancay         
+Lista de pasajeros:
+85152986  MUNOZ/VERGEL/EDGAR                       Abancay        Articulos: Gaseosa    Pisco      Vino       Pantuflas  Antifaz    
+21589652  VEGA/SORIA/HENRRY                        Abancay        Valija: No Almuerzo: No Tarifa extra: 0.00
+17972674  PISCOYA/PORTUGAL/WALDEMAR-GUSTAVO        Abancay        Articulos: Whisky     Cobertor   Audifonos  
+48832211  FORZANI/CARO/ALONSO                      Ayacucho       Valija: No Almuerzo: Si Tarifa extra: 55.90
+26247257  NARVAEZ/CASTILLO/JESUS-RAFAEL            Ayacucho       Valija: Si Almuerzo: No Tarifa extra: 85.50
+33321424  MORALES/QUIROGA/SILVANA-GLENDA           Ayacucho       Articulos: Almohada   Pisco      Audifonos  
+60184235  ASMAD/ACUNA/ANNIE-OFELIA                 Abancay        Valija: Si Almuerzo: No Tarifa extra: 85.50
+30013565  SUCHERO/EPIQUEN/EDGAR-JAVIER             Abancay        Valija: No Almuerzo: Si Tarifa extra: 55.90
+69965717  VELASQUEZ/HUAYANAY/EDGARD-HENRY          Abancay        Valija: Si Almuerzo: Si Tarifa extra: 141.40
+18297138  AYALA/VIZCARDO/EDGAR-MANUEL              Abancay        Articulos: Pantuflas  
+59347357  ASMAD/CHAVEZ/ADRIA                       Ayacucho       Valija: No Almuerzo: No Tarifa extra: 0.00
+47241133  MIYAKE/MEREL/MADELEINE-YLIANA            Ayacucho       Valija: No Almuerzo: No Tarifa extra: 0.00
+97403853  PISCOYA/MALCA/MARIA-MONICA               Abancay        Articulos: Cobertor   Gaseosa    Antifaz    
+91932848  MEJIA/ZEGARRA/GIOVANA                    Abancay        Valija: No Almuerzo: No Tarifa extra: 0.00
+88830718  SHIRAKAWA/SAONA/VICTORIA-MILAGROS        Ayacucho       Valija: No Almuerzo: No Tarifa extra: 0.00
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+W0O-821    CHUNG/ZUNIGA/ZKENIA-IRMA                  1    6
+Ruta: Lima            Ayacucho        Abancay         Cuzco           Puno            
+Lista de pasajeros:
+90237332  ESPINOZA/CASTRO/YDALI-GIOVANA            Puno           Valija: Si Almuerzo: No Tarifa extra: 85.50
+16151792  DURAND/CASTRO/FLOR-MARTHA                Cuzco          Valija: Si Almuerzo: Si Tarifa extra: 141.40
+17182437  CALDERON/ORTEGA/GUILLERMO                Puno           Valija: Si Almuerzo: Si Tarifa extra: 141.40
+42798099  ZEGARRA/MUNOZ/SONIA-GUIDA                Puno           Valija: No Almuerzo: Si Tarifa extra: 55.90
+58464455  CERNA/PAIRAZAMAN/FIORELLA-MARGOT         Cuzco          Valija: Si Almuerzo: Si Tarifa extra: 141.40
+96659352  BRAVO/VIZCARRA/ROBERTO                   Cuzco          Valija: No Almuerzo: Si Tarifa extra: 55.90
+75432503  MONTERO/MONTERO/ANNIE                    Cuzco          Valija: No Almuerzo: Si Tarifa extra: 55.90
+89473250  JUSTINO/CRUZ/WILLIAMS                    Puno           Valija: No Almuerzo: No Tarifa extra: 0.00
+38934372  FIGUEROA/COLLADO/EVERT                   Cuzco          Valija: No Almuerzo: No Tarifa extra: 0.00
+19336444  MEJIA/DIAZ/BLANCA-MILAGROS               Puno           Articulos: Antifaz    Gaseosa    
+44248752  HENRIQUEZ/LEYVA/FERNANDO-WALTER          Cuzco          Valija: Si Almuerzo: No Tarifa extra: 85.50
+85871751  AYALA/LAURA/JANET                        Puno           Articulos: Pantuflas  Pisco      Vino       
+40112594  CARO/RARAZ/CHRISTIAN-RONAL               Puno           Valija: Si Almuerzo: Si Tarifa extra: 141.40
+35679358  MOYA/ARANDA/JOHNNY                       Puno           Articulos: Pisco      Pantuflas  
+32395559  SHIRAKAWA/ORTEGA/ANGEL                   Cuzco          Articulos: Pantuflas  Vino       
+73185299  CORTES/LANDA/SURAMI                      Cuzco          Valija: Si Almuerzo: Si Tarifa extra: 141.40
+90665950  SAM/YALLICO/INES                         Puno           Valija: No Almuerzo: Si Tarifa extra: 55.90
+99289525  PORTUGAL/BENAVENTE/JOHANA-GLORIA         Cuzco          Valija: No Almuerzo: No Tarifa extra: 0.00
+31879918  MEJIA/HUAYANAY/CHRISTIAN-ALONSO          Puno           Valija: Si Almuerzo: Si Tarifa extra: 141.40
+55552996  SUCHERO/PRECIADO/MILAGROS-ERICKA         Puno           Valija: Si Almuerzo: No Tarifa extra: 85.50
+44679500  CORREA/ARCA/HELI                         Puno           Valija: Si Almuerzo: No Tarifa extra: 85.50
+97934179  SANCHEZ/PRECIADO/SANDRO-WILMER           Puno           Valija: Si Almuerzo: No Tarifa extra: 85.50
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+Q6F-925    JOLAY/CHUMPITAZ/WALTER                    1    7
+Ruta: Lima            Arequipa        Juliaca         Puno            
+Lista de pasajeros:
+41368424  DIAZ/REYES/WALTER-EDGAR                  Juliaca        Valija: No Almuerzo: Si Tarifa extra: 55.90
+61002359  DELGADO/GONZALES/GUILLERMO-ALFONSO       Juliaca        Valija: Si Almuerzo: No Tarifa extra: 85.50
+56364198  WONG/MARTEL/MADELEINE                    Juliaca        Articulos: Audifonos  Pisco      
+23086600  ARCA/AMEZQUITA/EDRIC-RONALD              Juliaca        Valija: No Almuerzo: Si Tarifa extra: 55.90
+19477308  GAVIDIA/MENDOZA/RONALD-JOHNNY            Arequipa       Articulos: Antifaz    
+84857574  ZARATE/ACUNA/MILENA-CINTHIA              Juliaca        Valija: Si Almuerzo: No Tarifa extra: 85.50
+21814849  MARTEL/ASMAD/BRUNO-ROBERTO               Juliaca        Valija: No Almuerzo: Si Tarifa extra: 55.90
+15171622  CORRALES/TSUKAZAN/IRMA-LOURDES           Juliaca        Articulos: Gaseosa    Vino       
+39082665  GARCIA/ASTETE/VICTOR-EDGAR               Juliaca        Valija: Si Almuerzo: No Tarifa extra: 85.50
+32093968  MARTEL/MERCADO/TERESA-TERESA             Arequipa       Valija: Si Almuerzo: Si Tarifa extra: 141.40
+84265465  BRAVO/CORTES/JANET-FLOR                  Juliaca        Valija: Si Almuerzo: Si Tarifa extra: 141.40
+47632196  MORALES/VALVERDE/INES-MARTHA             Arequipa       Valija: Si Almuerzo: No Tarifa extra: 85.50
+22280452  GONZALES/MALDONADO/ZKENIA-ERIKA          Arequipa       Articulos: Cobertor   Audifonos  Antifaz    Whisky     
+93553218  SUAREZ/BOLANOS/RAFAEL                    Arequipa       Valija: Si Almuerzo: Si Tarifa extra: 141.40
+77642521  SORIA/CASTILLO/LUIS-GUSTAVO              Arequipa       Valija: No Almuerzo: Si Tarifa extra: 55.90
+58821689  CORONEL/CHUMPITAZ/HELI                   Juliaca        Articulos: Audifonos  Gaseosa    
+37787771  ACUNA/AYLLON/BLANCA-LUZ                  Juliaca        Valija: No Almuerzo: Si Tarifa extra: 55.90
+99842319  MARTINEZ/MARTINEZ/CARMELA                Arequipa       Articulos: Gaseosa    Audifonos  Cobertor   
+35584593  LAM/VIZCARDO/MILAGROS-YVONNE             Arequipa       Valija: No Almuerzo: No Tarifa extra: 0.00
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+G7Y-809    TABORI/ARIAS/ROSARIO                      6   17
+Ruta: Lima            Arequipa        Cuzco           Puerto-Maldonado 
+Lista de pasajeros:
+87813843  AYALA/ACUNA/RONY-ALEX                    Puerto-MaldonadoArticulos: Antifaz    Cobertor   Whisky     Pisco      
+15988939  RAMIREZ/ASTETE/KARINA-ESTEFANIA          Puerto-MaldonadoValija: No Almuerzo: No Tarifa extra: 0.00
+94675504  VILLEGAS/PALOMINO/DORIS-FREYSA           Puerto-MaldonadoValija: Si Almuerzo: Si Tarifa extra: 141.40
+41036366  JUSTINO/LOYOLA/JENNY-MAGDA               Puerto-MaldonadoValija: No Almuerzo: No Tarifa extra: 0.00
+35039741  ACUNA/YINO/ROCIO-YOLANDA                 Puerto-MaldonadoArticulos: Pantuflas  Pisco      
+63437380  PINTO/CABELLO/SILVIA-FELICITA            Puerto-MaldonadoValija: No Almuerzo: Si Tarifa extra: 55.90
+63627446  VILLA/SEDANO/MARTIN-JUVENAL              Puerto-MaldonadoArticulos: Audifonos  
+39598526  GONZALES/AGUIRRE/EMILIO-EMIGDIO          Puerto-MaldonadoValija: No Almuerzo: Si Tarifa extra: 55.90
+28119151  ARROYO/GORDILLO/MARIA-HELI               Puerto-MaldonadoValija: Si Almuerzo: Si Tarifa extra: 141.40
+20864087  ZEGARRA/CASANOVA/ESTEFANIA               Puerto-MaldonadoValija: Si Almuerzo: Si Tarifa extra: 141.40
+18843347  MEREL/SALAZAR/ANNIE-LOURDES              Puerto-MaldonadoValija: Si Almuerzo: Si Tarifa extra: 141.40
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+F1D-694    RODRIGUEZ/SERRANO/CESAR-JAIME             4   11
+Ruta: Lima            Huancavelica    Ayacucho        
+Lista de pasajeros:
+97704824  MORI/CARO/FREYSA                         Huancavelica   Valija: Si Almuerzo: No Tarifa extra: 85.50
+73775471  LOZADA/AGUERO/ANTONIO-ELOY               Huancavelica   Valija: Si Almuerzo: No Tarifa extra: 85.50
+11602775  HIJAR/ARCA/ADOLFO                        Huancavelica   Valija: Si Almuerzo: No Tarifa extra: 85.50
+99995135  ARCA/LEIVA/DELICIA-ROSA                  Huancavelica   Valija: No Almuerzo: Si Tarifa extra: 55.90
+20790905  VILLA/YALLICO/TATIANA-NANCY              Huancavelica   Valija: No Almuerzo: Si Tarifa extra: 55.90
+20229814  SOLIS/CHUNG/ROLANDO                      Huancavelica   Valija: No Almuerzo: No Tarifa extra: 0.00
+99250306  AQUINO/BACA/ALEX                         Huancavelica   Valija: No Almuerzo: No Tarifa extra: 0.00
+78377191  DURAND/VALVERDE/ENRIQUE-JORGE            Huancavelica   Valija: No Almuerzo: Si Tarifa extra: 55.90
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+I1X-633    VILCARA/JUGO/JULIO                        2   12
+Ruta: Lima            Huancavelica    Pasco           Huanuco         Tingo-Maria     
+Lista de pasajeros:
+48090595  TRIGUEROS/JUGO/LUZ                       Tingo-Maria    Valija: No Almuerzo: Si Tarifa extra: 55.90
+69990549  PRADO/VERGEL/CARLOS-JULIAN               Tingo-Maria    Valija: No Almuerzo: Si Tarifa extra: 55.90
+22344625  CUBA/POMAJAMBO/VICTORIA-FIORELLA         Tingo-Maria    Valija: No Almuerzo: No Tarifa extra: 0.00
+50349647  VILLEGAS/LEIVA/FELICITA                  Tingo-Maria    Valija: Si Almuerzo: Si Tarifa extra: 141.40
+47866569  NORABUENA/PRECIADO/CINTHIA               Tingo-Maria    Valija: Si Almuerzo: No Tarifa extra: 85.50
+90365520  PALOMINO/ADAMS/SANDRO-RONALD             Huanuco        Articulos: Cobertor   Antifaz    Vino       Audifonos  
+42593311  PISCOYA/BRAVO/CESAR-BRUNO                Tingo-Maria    Articulos: Almohada   Antifaz    
+99315346  CASTRO/SUAREZ/ROLANDO                    Huanuco        Articulos: Audifonos  Antifaz    
+38637282  TABORI/CARBAJAL/YDALI-MAGDA              Tingo-Maria    Valija: Si Almuerzo: No Tarifa extra: 85.50
+43053402  BENAVENTE/ZIMIC/MADELEINE-ZKENIA         Tingo-Maria    Valija: No Almuerzo: Si Tarifa extra: 55.90
+22899205  SALAZAR/CORRALES/LORENA-IRMA             Huanuco        Valija: Si Almuerzo: No Tarifa extra: 85.50
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+H7K-813    AMEZQUITA/CONTRERAS/HUMBERTO-ALFONSO      7   10
+Ruta: Lima            Huaraz          Huanuco         Moyobamaba      
+Lista de pasajeros:
+78239339  SUELDO/RUIZ/ANTONIO                      Moyobamaba     Valija: No Almuerzo: Si Tarifa extra: 55.90
+93845419  QUIO/GAVIDIA/DIALY-FELICITA              Moyobamaba     Valija: Si Almuerzo: Si Tarifa extra: 141.40
+52097922  CUBA/DURAND/YVONNE                       Moyobamaba     Valija: No Almuerzo: Si Tarifa extra: 55.90
+37110873  VERGEL/HIJAR/JESUS                       Moyobamaba     Valija: Si Almuerzo: Si Tarifa extra: 141.40
+42157219  LUNA/CUEVA/RICHARD                       Moyobamaba     Valija: Si Almuerzo: No Tarifa extra: 85.50
+52061162  CORONADO/FIGUEROA/JOHAN                  Moyobamaba     Valija: Si Almuerzo: Si Tarifa extra: 141.40
+88956889  CHUMPITAZ/CARBAJAL/MARITZA               Moyobamaba     Valija: No Almuerzo: Si Tarifa extra: 55.90
+79372768  BERROCAL/YALLICO/ANNIE-SOFIA             Moyobamaba     Valija: Si Almuerzo: No Tarifa extra: 85.50
+99251008  SALAS/PENA/KARINA-CARMEN                 Moyobamaba     Valija: No Almuerzo: No Tarifa extra: 0.00
+80208319  SUAREZ/MORALES/AMARU                     Moyobamaba     Valija: Si Almuerzo: Si Tarifa extra: 141.40
+42172802  PRECIADO/RIVERO/JOHANA                   Moyobamaba     Articulos: Vino       Pantuflas  Audifonos  
+86828079  PRECIADO/ADAMS/ERIKA-DELIA               Moyobamaba     Valija: No Almuerzo: No Tarifa extra: 0.00
+44229880  PALOMARES/BARRIOS/EDWARD-CESAR           Moyobamaba     Valija: Si Almuerzo: No Tarifa extra: 85.50
+74028555  ANTEZANO/SEGURA/TERESA-DELIA             Moyobamaba     Valija: Si Almuerzo: No Tarifa extra: 85.50
+17266507  FLORENCIO/CORONADO/ALONSO                Huaraz         Valija: No Almuerzo: Si Tarifa extra: 55.90
+33713901  VILLEGAS/CASTRO/SOFIA-VIRGINIA           Moyobamaba     Valija: Si Almuerzo: Si Tarifa extra: 141.40
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+W4M-272    SHIRAKAWA/FLORIAN/JAIME-JULIAN            9   12
+Ruta: Lima            Moquegua        Tacna           
+Lista de pasajeros:
+84551054  PAREDES/PATINO/CHRISTIAN                 Moquegua       Valija: No Almuerzo: No Tarifa extra: 0.00
+45749698  CORREA/VIZCARDO/MIGUEL                   Tacna          Valija: No Almuerzo: Si Tarifa extra: 55.90
+87027873  AURIS/SALAZAR/MADELEINE-GUIDA            Tacna          Valija: No Almuerzo: No Tarifa extra: 0.00
+72652460  VALVERDE/MAEIREIZO/MELVIN-JAIR           Tacna          Valija: Si Almuerzo: Si Tarifa extra: 141.40
+97738037  SOMA/PINTO/LOURDES-SONIA                 Tacna          Valija: Si Almuerzo: No Tarifa extra: 85.50
+69937474  DIAZ/VELASQUEZ/MARINA-OFELIA             Moquegua       Valija: No Almuerzo: No Tarifa extra: 0.00
+15210391  QUIROGA/CASANOVA/BRUNO                   Moquegua       Valija: No Almuerzo: Si Tarifa extra: 55.90
+45232784  VASQUEZ/PAZ/ALEX-MARTIN                  Tacna          Valija: Si Almuerzo: Si Tarifa extra: 141.40
+29594780  PALOMARES/VERA/HENRRY-HUMBERTO           Moquegua       Articulos: Pantuflas  Whisky     
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+S0M-437    COLLADO/VILLA/RAUL                        4   25
+Ruta: Lima            Trujillo        Piura           Tumbes          
+Lista de pasajeros:
+47917936  RAFFO/CHUNG/ADRIA-GLORIA                 Tumbes         Articulos: Vino       Audifonos  
+18523250  CHUNG/LEE/ALVARO                         Tumbes         Articulos: Almohada   Vino       
+19291013  RUIZ/GORDILLO/CAROLA-ERIKA               Trujillo       Articulos: Almohada   
+98297137  RETAMOSO/BARRERA/OSCAR                   Trujillo       Valija: Si Almuerzo: No Tarifa extra: 85.50
+73535476  AYALA/SANCHEZ/MARIA-TERESA               Piura          Articulos: Pantuflas  Vino       Pisco      Almohada   
+62935160  CABRERA/CANALES/GUILLERMO-EDRIC          Piura          Valija: Si Almuerzo: No Tarifa extra: 85.50
+23928045  ARCA/VILCA/RONALD                        Tumbes         Articulos: Antifaz    Audifonos  Whisky     
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+U3G-207    PEREZ/ANTEZANO/DAVID-CARLOS               0    0
+Ruta: Lima            Pisco           Ica             Nazca           
+Lista de pasajeros:
+91897732  GAMARRA/ALCOCER/VIRGINIA                 Nazca          Valija: No Almuerzo: No Tarifa extra: 0.00
+43488351  MINAYA/CERNA/LORENA-FIORELLA             Nazca          Articulos: Audifonos  Antifaz    Pisco      Whisky     
+68445757  LANDA/PISCOYA/CHRISTIAN                  Pisco          Articulos: Pisco      Vino       
+65802912  ZAMBRANO/MOSCOSO/OFELIA-MARIA            Nazca          Valija: No Almuerzo: Si Tarifa extra: 55.90
+71984468  IPARRAGUIRRE/VILLEGAS/NICOLAS-EDILBERTO  Pisco          Articulos: Audifonos  Almohada   Cobertor   Whisky     
+53759600  PRADO/FALCON/EDGAR-RICHARD               Pisco          Valija: Si Almuerzo: Si Tarifa extra: 141.40
+83302451  HENRIQUEZ/ESPINO/BEATRIZ                 Pisco          Valija: No Almuerzo: No Tarifa extra: 0.00
+74067467  YEP/ZAVALETA/ROSARIO-MARIBEL             Pisco          Articulos: Gaseosa    Cobertor   Audifonos  Almohada   Vino       
+30057152  CHUMPITAZ/PALOMARES/VIRGINIA             Nazca          Valija: No Almuerzo: Si Tarifa extra: 55.90
+31193794  GARCIA/YINO/AMERICO-WALDEMAR             Nazca          Valija: Si Almuerzo: No Tarifa extra: 85.50
+19515050  ARCA/AQUINO/DELICIA                      Ica            Valija: Si Almuerzo: Si Tarifa extra: 141.40
+53693075  HENRIQUEZ/PORTUGAL/ALEX                  Ica            Valija: Si Almuerzo: Si Tarifa extra: 141.40
+12663268  BARRERA/FLORES/ENRIQUE                   Nazca          Valija: Si Almuerzo: Si Tarifa extra: 141.40
+74032894  CERNA/HIJAR/JOSE-ROLANDO                 Nazca          Valija: No Almuerzo: Si Tarifa extra: 55.90
+41347722  MEJIA/FLORIAN/ARTURO                     Ica            Valija: No Almuerzo: Si Tarifa extra: 55.90
+57263719  PRADO/TORREALBA/CARMEN-JANET             Ica            Valija: No Almuerzo: No Tarifa extra: 0.00
+78922174  ALAMO/MEZA/ALVARO                        Pisco          Articulos: Pisco      Whisky     Almohada   
+94326707  CHANG/SEGURA/ANGEL                       Ica            Valija: No Almuerzo: No Tarifa extra: 0.00
+26233063  TSUKAZAN/AYALA/MARINA-MAGDA              Nazca          Valija: Si Almuerzo: Si Tarifa extra: 141.40
+43043986  LOZADA/VALVERDE/MOISES-HENRRY            Nazca          Valija: Si Almuerzo: Si Tarifa extra: 141.40
+80528968  BARRERA/MIRANDA/ALEXANDER-MARTIN         Pisco          Valija: Si Almuerzo: No Tarifa extra: 85.50
+90153517  MERCADO/CORONEL/ELIA                     Pisco          Valija: Si Almuerzo: No Tarifa extra: 85.50
+88995291  PEREZ/TORRES/MILAGROS-REBECA             Ica            Articulos: Audifonos  Pantuflas  Almohada   
+84847055  SALAZAR/FIGUEROA/EVERT-JOHNNY            Pisco          Articulos: Audifonos  Gaseosa    Vino       
+53054602  HIJAR/YEP/WILLIAMS-CHRISTIAN             Pisco          Valija: Si Almuerzo: No Tarifa extra: 85.50
+36931603  ORTIZ/GUEVARA/YLIANA-FLOR                Ica            Valija: No Almuerzo: Si Tarifa extra: 55.90
+20667571  AQUINO/TORO/VALENTINA-ROCIO              Ica            Valija: Si Almuerzo: Si Tarifa extra: 141.40
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+W4X-437    ZEGARRA/CABELLO/CINTHIA-MILENA            0    0
+Ruta: Lima            Chiclayo        Paita           Sullana         Talara          
+Lista de pasajeros:
+16552775  YALLICO/PAREDES/LOURDES-CARMELA          Paita          Valija: Si Almuerzo: No Tarifa extra: 85.50
+39417975  MEJIA/DE-LA-HAZA/FRANCISCO-EDGAR         Talara         Articulos: Whisky     Gaseosa    
+22777006  ASMAD/PINTO/MARIA-LORENA                 Paita          Valija: Si Almuerzo: Si Tarifa extra: 141.40
+89298238  ALFARO/PRECIADO/JOHNNY                   Paita          Valija: Si Almuerzo: Si Tarifa extra: 141.40
+27329072  CALIXTO/CASTILLO/ERICK-PAUL              Talara         Valija: Si Almuerzo: No Tarifa extra: 85.50
+77191257  CORRALES/ZUNIGA/JENNY                    Paita          Valija: No Almuerzo: Si Tarifa extra: 55.90
+66066730  SAKAGUCHI/MORI/CARLOS-RONAL              Paita          Articulos: Vino       
+73786035  ORTIZ/EPIQUEN/HENRY-ISRAEL               Paita          Valija: No Almuerzo: Si Tarifa extra: 55.90
+98140264  ALAMO/ZEGARRA/ISRAEL-GUSTAVO             Paita          Valija: Si Almuerzo: No Tarifa extra: 85.50
+76685676  VIZCARDO/SINCHE/MARIBEL                  Talara         Articulos: Pantuflas  
+38913831  FUENTES/TSUKAZAN/PATRICIA-OFELIA         Paita          Valija: Si Almuerzo: No Tarifa extra: 85.50
+13245501  ESCALANTE/YINO/EDWARD-GONZALO            Talara         Articulos: Cobertor   Antifaz    Pantuflas  
+73914283  CASANOVA/CARBAJAL/RICARDO-ISRAEL         Paita          Valija: No Almuerzo: No Tarifa extra: 0.00
+57690875  NORABUENA/VILLEGAS/ARTURO-RAFAEL         Talara         Valija: No Almuerzo: No Tarifa extra: 0.00
+18869687  ALAMO/PAIRAZAMAN/MIGUEL-ROBERTO          Talara         Articulos: Antifaz    Gaseosa    
+78757121  ASTETE/SOLIS/FANNY                       Talara         Valija: No Almuerzo: Si Tarifa extra: 55.90
+59602968  LOZADA/IBEROS/HELI-BLANCA                Paita          Valija: No Almuerzo: Si Tarifa extra: 55.90
+60574154  LOZADA/GONZALES/JAIME                    Talara         Valija: No Almuerzo: No Tarifa extra: 0.00
+90687076  MERCADO/CARO/OFELIA-CARMEN               Paita          Valija: Si Almuerzo: No Tarifa extra: 85.50
+84165595  SALAMANCA/GAVIDIA/ALEX                   Paita          Valija: No Almuerzo: Si Tarifa extra: 55.90
+========================================================================================================================
+Placa      Chofer                               PC  CT
+------------------------------------------------------------------------------------------------------------------------
+M9J-101    NORABUENA/ZEGARRA/DELICIA                 6   21
+Ruta: Lima            Huacho          Cimbote         
+Lista de pasajeros:
+44888415  ARANDA/MINAYA/JANET-CINTHIA              Cimbote        Valija: No Almuerzo: No Tarifa extra: 0.00
+33397650  RONDON/EGUSQUIZA/CARMELA-VALENTINA       Cimbote        Valija: Si Almuerzo: Si Tarifa extra: 141.40
+49087435  GALLO/MARTINEZ/VICTOR-GUILLERMO          Cimbote        Valija: No Almuerzo: No Tarifa extra: 0.00
+74217478  LOZADA/ARGUEDAS/FELICITA-VALENTINA       Cimbote        Valija: Si Almuerzo: No Tarifa extra: 85.50
+36380447  RIVERO/RETTO/JESUS                       Cimbote        Valija: No Almuerzo: Si Tarifa extra: 55.90
+59162728  HUAYANAY/CORTES/GLENDA-MARINA            Cimbote        Valija: No Almuerzo: No Tarifa extra: 0.00
+48467976  BENITES/SANCHEZ/MARGOT-DELICIA           Cimbote        Valija: No Almuerzo: No Tarifa extra: 0.00
+91510172  INGA/FLORES/CESAR-ADOLFO                 Cimbote        Articulos: Almohada   Cobertor   
+90010594  EGUSQUIZA/BERROCAL/DORIS-NANCY           Cimbote        Valija: No Almuerzo: No Tarifa extra: 0.00
+79901434  SALAZAR/FLORENCIO/SANDRO-JOHNNY          Cimbote        Valija: No Almuerzo: Si Tarifa extra: 55.90
+75454254  CAMACHO/AGUERO/ELIA-ROSA                 Cimbote        Articulos: Vino       Cobertor   
+62303425  CABRERA/MORI/GLENDA                      Cimbote        Articulos: Pisco      Gaseosa    Whisky     Almohada   Antifaz    
+51673086  SAM/ESTRADA/MARINA-ESTEFANIA             Cimbote        Valija: Si Almuerzo: Si Tarifa extra: 141.40
+89429489  SERRANO/IPARRAGUIRRE/VIRGINIA            Cimbote        Articulos: Almohada   Antifaz    Whisky     Vino       
